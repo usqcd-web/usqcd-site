@@ -1,0 +1,140 @@
+{
+  "generated": "2026-02-08T20:52:29.012622+00:00Z",
+  "count": 4397,
+  "publications": [
+    {
+      "id": "2602.02436v1",
+      "title": "Wilson loops with neural networks",
+      "summary": "Wilson loops are essential objects in QCD and have been pivotal in scale setting and demonstrating confinement. Various generalizations are crucial for computations needed in effective field theories. In lattice gauge theory, Wilson loop calculations face challenges, including excited-state contamination at short times and the signal-to-noise ratio issue at longer times. To address these problems, we develop a new method by using neural networks to parametrize interpolators for the static quark-antiquark pair. We construct gauge-equivariant layers for the network and train it to find the ground state of the system. The trained network itself is then treated as our new observable for the inference. Our results demonstrate a significant improvement in the signal compared to traditional Wilson loops, performing as well as Coulomb-gauge Wilson-line correlators while maintaining gauge invariance. Additionally, we present an example where the optimized ground state is used to measure the static force directly, as well as another example combining this method with the multilevel algorithm. Finally, we extend the formalism to find excited-state interpolators for static quark-antiquark systems. To our knowledge, this work is the first study of neural networks with a physically motivated loss function for Wilson loops.",
+      "authors": [
+        "Verena Bellscheidt",
+        "Nora Brambilla",
+        "Andreas S. Kronfeld",
+        "Julian Mayer-Steudte"
+      ],
+      "pdf": "https://arxiv.org/pdf/2602.02436v1",
+      "link": "https://arxiv.org/abs/2602.02436v1",
+      "published": "2026-02-02T18:33:56Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3113673",
+        "inspire_url": "https://inspirehep.net/literature/3113673",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2601.22273v1",
+      "title": "Excited-state uncertainties in lattice-QCD calculations of hadron masses and scattering phase shifts",
+      "summary": "Lattice QCD has historically produced energy results interpretable as either estimates relying on implicit assumptions about asymptotic behavior or one-sided upper bounds. New Lanczos methods providing two-sided bounds with less-restrictive assumptions are introduced and quantified in a high-statistics calculation with unphysical quark masses. Two-sided bounds without spectral assumptions provide sub-percent constraints on the nucleon mass. Other bounds, which assume all states in a given energy window are resolved, provide meaningful two-sided constraints on nucleon-nucleon scattering phase shifts.",
+      "authors": [
+        "William Detmold",
+        "Anthony V. Grebe",
+        "Daniel C. Hackett",
+        "Marc Illa",
+        "Robert J. Perry",
+        "Phiala E. Shanahan",
+        "Michael L. Wagman"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.22273v1",
+      "link": "https://arxiv.org/abs/2601.22273v1",
+      "published": "2026-01-29T19:43:58Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3113232",
+        "inspire_url": "https://inspirehep.net/literature/3113232",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2601.22272v1",
+      "title": "Excited-state uncertainties in lattice-QCD calculations of multi-hadron systems",
+      "summary": "Excited-state effects lead to hard-to-quantify systematic uncertainties in lattice quantum chromodynamics (LQCD) spectroscopy calculations when computationally accessible imaginary times are smaller than inverse excitation gaps, as often arises for multi-hadron systems with signal-to-noise problems. Lanczos residual bounds address this by providing two-sided constraints on energies that do not require assumptions beyond Hermiticity, but often give very conservative systematic uncertainty estimates. Here, a more-constraining set of gap bounds is introduced for hadron spectroscopy. These bounds provide tighter constraints whose validity requires an explicit assumption about an energy gap. Exactly solvable lattice field theory correlators are used to test the utility of residual and gap bounds at finite and infinite statistics. Two-sided bounds and other analysis methods are then applied to a high-statistics LQCD calculation of nucleon-nucleon scattering at $m_π\\sim 800$ MeV. Generalized eigenvalue problem (GEVP) and Lanczos energy estimators are compatible when applied to the same correlator data, but analyses including different interpolating operators show statistically significant inconsistencies. However, two-sided bounds from all operators are consistent. Under the assumption that the number of energy levels below $NΔ$ and $ΔΔ$ thresholds is the same as for non-interacting nucleons, gap bounds are sufficient to constrain nucleon-nucleon scattering amplitudes at phenomenologically relevant precision. Lanczos methods further reveal that energy-eigenstate estimates from previously studied asymmetric correlators have not converged over accessible imaginary times. Nevertheless, data-driven examples demonstrate why assumptions are required to draw conclusions about the natures of two-nucleon ground states at these masses.",
+      "authors": [
+        "William Detmold",
+        "Anthony V. Grebe",
+        "Daniel C. Hackett",
+        "Marc Illa",
+        "Robert J. Perry",
+        "Phiala E. Shanahan",
+        "Michael L. Wagman"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.22272v1",
+      "link": "https://arxiv.org/abs/2601.22272v1",
+      "published": "2026-01-29T19:43:41Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3113229",
+        "inspire_url": "https://inspirehep.net/literature/3113229",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2601.21232v1",
+      "title": "Chemical potential differentials in the QCD phase diagram from heavy-ion isobar collisions",
+      "summary": "Temperature and baryon, charge, and strangeness chemical potentials characterize QCD matter under extreme conditions. Differences between these chemical potentials and their ratios probe conserved-charge correlations and the system's response in the multidimensional QCD phase diagram. We extract these quantities from STAR Ru+Ru and Zr+Zr isobar collisions using a Bayesian thermal analysis of hadron yields, which substantially reduces systematic uncertainties, and compare them with Taylor-expanded lattice-QCD and Chiral Mean Field model predictions. Isobar collisions thus emerge as a precision probe of four-dimensional QCD thermodynamics.",
+      "authors": [
+        "Joaquin Grefa",
+        "Chun Yue Tsang",
+        "Rajesh Kumar",
+        "Veronica Dexheimer",
+        "Claudia Ratti",
+        "Zhangbu Xu"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.21232v1",
+      "link": "https://arxiv.org/abs/2601.21232v1",
+      "published": "2026-01-29T03:49:43Z",
+      "categories": [
+        "nucl-th",
+        "hep-ex",
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "3112888",
+        "inspire_url": "https://inspirehep.net/literature/3112888",
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "2601.21155v1",
+      "title": "Nucleon axial-vector form factor and radius from radiatively-corrected antineutrino scattering data",
+      "summary": "The nucleon axial-vector form factor, $G_A$, is critical to determine the electroweak interactions of leptons with nucleons. Important examples of processes influenced by $G_A$ are elastic (anti)neutrino-nucleon scattering and muon capture by the proton. Sparse experimental data results in a large uncertainty on the momentum dependence of $G_A$ and has motivated the consideration of new experimental probes and first-principles lattice quantum chromodynamics (QCD) evaluations. The comparison of new and precise theoretical predictions for $G_A$ with future experimental data necessitates the application of radiative corrections to experimentally-observable processes. We apply these corrections in the extraction of $G_A$ and the associated axial-vector radius from the recent MINERvA antineutrino-hydrogen data, compare the effects from radiative corrections to other uncertainties in neutrino scattering experiments, and discuss the comparison of lattice QCD evaluations to experimental measurements.",
+      "authors": [
+        "Oleksandr Tomalak",
+        "Aaron S. Meyer",
+        "Clarence Wret",
+        "Tejin Cai",
+        "Richard J. Hill",
+        "Kevin S. McFarland"
+      ],
+      "pdf": "https://arxiv.org/pdf/2601.21155v1",
+      "link": "https://arxiv.org/abs/2601.21155v1",
+      "published": "2026-01-29T01:30:05Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "3112889",
+        "inspire_url": "https://inspirehep.net/literature/3112889",
+        "citation_count": 0
+      }
+    }
+  ]
+}

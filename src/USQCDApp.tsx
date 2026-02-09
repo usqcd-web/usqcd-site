@@ -20,11 +20,6 @@ function resolvePath(p: string | undefined) {
   return `${base}${cleaned}`;
 }
 
-// Single-file preview app for USQCD (React + Tailwind). This file is a complete, syntactically-correct
-// React component intended for use in the canvas preview. It includes the main sections used in the
-// project: header, carousel, science, thrusts, publications (loads static then API), resources,
-// collaboration, meetings archive and contact. All JSX elements are properly closed to avoid
-// unterminated JSX errors.
 
 const NAV = [
   { id: 'home', label: 'Home' },
@@ -248,9 +243,6 @@ function yearList(start = 2001) {
   return years;
 }
 
-
-/* ====== REPLACED PublicationsIndex and YearPublications ====== */
-
 /* Helper: compute counts by checking journal_ref and title fields */
 function computeJournalSummaryFromPubs(pubs = []) {
   const summary = {
@@ -444,7 +436,7 @@ function YearPublications({ year }) {
 }
 
 
-/* ===== Replaced PublicationsIndex: shows per-year summaries under the Year archive buttons ===== */
+/* ===== PublicationsIndex: shows per-year summaries under the Year archive buttons ===== */
 function PublicationsIndex() {
   const [recent, setRecent] = React.useState([]);
   const [meta, setMeta] = React.useState(null);
@@ -485,9 +477,6 @@ function PublicationsIndex() {
     return () => { mounted = false; };
   }, []);
 
-  /* Preload short per-year totals for sidebar badges.
-     NOTE: this will attempt to fetch static/data/publications-YYYY.json for every year.
-     If you prefer lazy-loading, we can change to fetch only on hover/click. */
   React.useEffect(() => {
     let mounted = true;
     const years = yearList(2001);
@@ -514,8 +503,6 @@ function PublicationsIndex() {
         } catch (e) {
           results[y] = { total: 0, PRL:0, PRD:0, NPB:0, PLB:0, EPJ:0, Science:0, Nature:0, citations: 0 };
         }
-        // polite pause to avoid hammering if many years (tiny gap)
-        // eslint-disable-next-line no-await-in-loop
         await new Promise((res) => setTimeout(res, 60));
       }
 
@@ -589,7 +576,7 @@ function PublicationsIndex() {
           </div>
 
 
-          {/* ===== New: All-year summaries displayed under the year grid ===== */}
+          {/* ===== All-year summaries displayed under the year grid ===== */}
           <div className="mt-4">
             <div className="font-medium text-sm mb-2">All-year summaries</div>
             <div className="text-xs text-slate-600 mb-2">Per-year totals (publications • citations). Click a year above to view full list.</div>
@@ -634,19 +621,9 @@ function PublicationsIndex() {
   );
 }
 
-
-
-
-
-
-
-
-
-/* YearPublications: loads static per-year JSON, but for the current year will try the API first */
 function PublicationsSection() {
   return <PublicationsIndex />;
 }
-
 
 function MeetingsPage() {
   const [allHands, setAllHands] = React.useState(null);
@@ -722,7 +699,7 @@ function MeetingsPage() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div className="p-4 bg-slate-50 rounded-lg">
           <h4 className="font-semibold text-lg">USQCD all-hands meetings (archive)</h4>
-          <p className="text-sm text-slate-600">Direct links to historic USQCD all-hands meetings (indico / local pages). Where an authoritative page was not listed on the USQCD links page, we show the institution landing page or leave the entry unlinked.</p>
+          <p className="text-sm text-slate-600">Direct links to historic USQCD all-hands meetings (indico / local pages).</p>
           <div className="mt-3">{renderList(allHands)}</div>
         </div>
 
@@ -736,8 +713,6 @@ function MeetingsPage() {
     </SectionShell>
   );
 }
-
-
 
 function ResourcesSection() {
   const resources = {
@@ -918,8 +893,6 @@ function MembersList() {
   );
 }
 
-
-
 function CollaborationPage({ setActive }) {
   const collLinks = {
     members: 'https://www.usqcd.org/members.html',
@@ -1028,7 +1001,7 @@ export default function USQCDApp() {
                   <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 leading-tight">USQCD — Lattice QCD for particle & nuclear physics</h1>
                   <p className="mt-4 text-slate-600 ">Coordinating computing, software, and expertise across U.S. researchers in lattice field theory to deliver first-principles calculations in lattice QCD for hadron spectroscopy, flavor physics, muon g-2 inputs, extreme matter, and nucleon structure.</p>
 		  </div>
-		                    <div className="mt-6 flex gap-3">
+                      <div className="mt-6 flex gap-3">
                     <button onClick={() => setActive('science')} className="inline-flex items-center gap-2 rounded-md bg-gradient-to-r from-cyan-400 to-sky-600 text-white px-4 py-2 shadow-md">Explore science</button>
                     <button onClick={() => setActive('publications')} className="inline-flex items-center gap-2 rounded-md bg-gradient-to-r from-cyan-400 to-sky-600 text-white px-4 py-2 shadow-md">See publications</button>
                     <button onClick={() => setActive('software')} className="inline-flex items-center gap-2 rounded-md bg-gradient-to-r from-cyan-400 to-sky-600 text-white px-4 py-2 shadow-md">Use codes</button>

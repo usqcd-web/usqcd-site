@@ -27,12 +27,8 @@ export default function FiguresCarousel({
   const [items, setItems] = useState<FigureItem[]>([]);
   const [activeIdx, setActiveIdx] = useState<number>(0);
   const [error, setError] = useState<string | null>(null);
-
-  // Track fallback attempts per slide
   const triesRef = useRef<Record<number, number>>({});
 
-  // Compute resolved JSON path once per mount / when jsonPath changes.
-  // This avoids the situation where jsonPath contains the literal "${base}".
   const resolvedJsonPath = (() => {
     if (!jsonPath) return `${base}static/data/figures.json`;
 

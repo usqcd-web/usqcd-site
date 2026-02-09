@@ -1,15 +1,6 @@
 // src/components/Software.tsx
 import React from "react";
 
-/**
- * Software.tsx
- * A self-contained software listing page for the USQCD site.
- *
- * - Core software (Chroma, MILC, QLUA, Grid, QUDA) shown at top level
- * - Secondary section links to other notable projects and the usqcd-software org page
- *
- * Drop this file into src/pages/ and import / route it from your main app.
- */
 
 function IconExternal() {
   return (

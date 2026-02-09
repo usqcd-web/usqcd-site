@@ -1,5 +1,6 @@
 // src/components/FiguresCarousel.tsx
 import React, { useEffect, useRef, useState } from "react";
+const base = import.meta.env.BASE_URL || "/";
 
 type FigureItem = {
   arxiv_id?: string;
@@ -11,7 +12,7 @@ type FigureItem = {
 };
 
 export default function FiguresCarousel({
-  jsonPath = "/static/data/figures.json",
+  jsonPath = `${base}static/data/figures.json`,
   interval = 6000,
   maxCaptionWords = 100,
   maxImageHeight = 500, // px
@@ -21,7 +22,7 @@ export default function FiguresCarousel({
   interval?: number;
   maxCaptionWords?: number;
   maxImageHeight?: number;
-  doeScienceHighlight?: bool;
+  doeScienceHighlight?: boolean;
 }) {
   const [items, setItems] = useState<FigureItem[]>([]);
   const [activeIdx, setActiveIdx] = useState<number>(0);
@@ -30,11 +31,35 @@ export default function FiguresCarousel({
   // Track fallback attempts per slide
   const triesRef = useRef<Record<number, number>>({});
 
+  // Compute resolved JSON path once per mount / when jsonPath changes.
+  // This avoids the situation where jsonPath contains the literal "${base}".
+  const resolvedJsonPath = (() => {
+    if (!jsonPath) return `${base}static/data/figures.json`;
+
+    // If absolute URL passed, use as-is
+    if (/^https?:\/\//i.test(jsonPath)) return jsonPath;
+
+    // If caller passed something already starting with runtime base, use it
+    if (jsonPath.startsWith(base)) return jsonPath;
+
+    // If caller accidentally left the literal '${base}', replace it
+    if (jsonPath.includes("${base}")) {
+      return jsonPath.replace(/\$\{base\}/g, base);
+    }
+
+    // Normalize leading slashes for static/ paths
+    const cleaned = jsonPath.replace(/^\/+/, "");
+    if (cleaned.startsWith("static/")) return `${base}${cleaned}`;
+
+    // fallback: prefix base
+    return `${base}${cleaned}`;
+  })();
+
   useEffect(() => {
     let mounted = true;
-    fetch(jsonPath)
+    fetch(resolvedJsonPath)
       .then((r) => {
-        if (!r.ok) throw new Error(`Failed to load ${jsonPath}`);
+        if (!r.ok) throw new Error(`Failed to load ${resolvedJsonPath} (status ${r.status})`);
         return r.json();
       })
       .then((j) => {
@@ -42,13 +67,14 @@ export default function FiguresCarousel({
         const arr = Array.isArray(j) ? j : Object.values(j).flat();
         setItems(arr as FigureItem[]);
       })
-      .catch(() => {
+      .catch((e) => {
+        console.warn("FiguresCarousel: error loading figures.json:", e);
         if (mounted) setError("Unable to load figures.");
       });
     return () => {
       mounted = false;
     };
-  }, [jsonPath]);
+  }, [resolvedJsonPath]);
 
   useEffect(() => {
     if (!items.length) return;
@@ -63,8 +89,15 @@ export default function FiguresCarousel({
 
   function getImageCandidates(image_file: string): string[] {
     if (!image_file) return [];
+    // accept absolute URLs immediately
+    if (/^https?:\/\//i.test(image_file)) return [image_file];
     const clean = image_file.replace(/\\/g, "/").replace(/^\/+/, "");
-    return [`/static/data/${clean}`, `/static/${clean}`, clean];
+
+    // primary guesses (preserve original logic but avoid double slashes)
+    const c1 = `${base.replace(/\/$/, "")}/static/data/${clean}`;
+    const c2 = `${base.replace(/\/$/, "")}/static/${clean}`;
+    // also include the raw cleaned path as a relative fallback
+    return [c1, c2, clean];
   }
 
   function handleImgError(ev: React.SyntheticEvent<HTMLImageElement, Event>, idx: number) {
@@ -78,7 +111,7 @@ export default function FiguresCarousel({
       triesRef.current[idx] = next;
       img.src = candidates[next];
     } else {
-      img.src = "/static/data/placeholder-figure-missing.png";
+      img.src = `${base.replace(/\/$/, "")}/static/data/placeholder-figure-missing.png`;
     }
   }
 

@@ -2,6 +2,23 @@ import React, { useEffect, useState } from 'react';
 import FiguresCarousel from "./components/FiguresCarousel";
 import Software  from "./components/Software.tsx";
 
+const base = import.meta.env.BASE_URL || "/";
+
+// helper to safely resolve paths that may contain a literal "${base}" or be relative
+function resolvePath(p: string | undefined) {
+  if (!p) return `${base}`;
+  // if caller left literal ${base} in the string, replace it
+  if (p.includes("${base}")) {
+    p = p.replace(/\$\{base\}/g, base);
+  }
+  // absolute URL -> return as-is
+  if (/^https?:\/\//i.test(p)) return p;
+  // if already starts with runtime base, return as-is
+  if (base && p.startsWith(base)) return p;
+  // strip leading slashes and prefix base
+  const cleaned = p.replace(/^\/+/, "");
+  return `${base}${cleaned}`;
+}
 
 // Single-file preview app for USQCD (React + Tailwind). This file is a complete, syntactically-correct
 // React component intended for use in the canvas preview. It includes the main sections used in the
@@ -14,7 +31,7 @@ const NAV = [
   { id: 'science', label: 'Science' },
   { id: 'publications', label: 'Publications' },
   { id: 'resources', label: 'Resources' },
-  { id: 'software', label: 'Software' }, 
+  { id: 'software', label: 'Software' },
   { id: 'collaboration', label: 'Collaboration' },
   { id: 'meetings', label: 'Meetings' },
   { id: 'contact', label: 'Contact' }
@@ -186,7 +203,7 @@ function ScienceSection() {
     <SectionShell title="Science highlights & background">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
          <div className="max-w-6xl mx-auto px-6 py-12">
-       	      <FiguresCarousel jsonPath="/static/data/doe-science.json" interval={7000} maxCaptionWords={30} maxImageHeight={300} />
+       	      <FiguresCarousel jsonPath={resolvePath('static/data/doe-science.json')} interval={7000} maxCaptionWords={30} maxImageHeight={300} />
       	</div>
 {/*
         <div>
@@ -219,8 +236,6 @@ function ScienceSection() {
     </SectionShell>
   );
 }
-
-
 
 
 
@@ -274,7 +289,7 @@ function computeJournalSummaryFromPubs(pubs = []) {
   const reNature = /\b(Nature|Nature\.)\b/i;
 
   pubs.forEach((p) => {
-    const jref = (p.inspire.journal_ref || "") + "";
+    const jref = (p.inspire && p.inspire.journal_ref) ? (p.inspire.journal_ref + "") : ((p.journal_ref || "") + "");
     const title = (p.title || "") + "";
 
     const hay = (jref + " " + title).trim();
@@ -282,33 +297,25 @@ function computeJournalSummaryFromPubs(pubs = []) {
     if (check(hay, rePRL)) summary.PRL += 1;
     if (check(hay, rePRC)) summary.PRC += 1;
     if (check(hay, rePRD)) summary.PRD += 1;
-    if (check(hay, rePRX)) summary.PRX += 1;	
+    if (check(hay, rePRX)) summary.PRX += 1;
     if (check(hay, reNPB)) summary.NPB += 1;
     if (check(hay, rePLB)) summary.PLB += 1;
     if (check(hay, reEPJ)) summary.EPJ += 1;
     if (check(hay, reJPG)) summary.JPG += 1;
-    if (check(hay, rePOS)) summary.POS += 1;	
+    if (check(hay, rePOS)) summary.POS += 1;
     if (check(hay, reScience)) summary.Science += 1;
     if (check(hay, reNature)) summary.Nature += 1;
 
     // --- Citation accumulation (defensive) ---
-    // Possible locations:
-    //  - p.citation_count (direct)
-    //  - p.inspire && p.inspire.citation_count
-    //  - p.citations (some exports)
     let c = null;
     if (typeof p.citation_count === 'number') c = p.citation_count;
     else if (p.inspire && typeof p.inspire.citation_count === 'number') c = p.inspire.citation_count;
     else if (typeof p.citations === 'number') c = p.citations;
-    // also accept strings that are numeric
-    if (c == null) {
-      // try nested/alternative places (very defensive)
-      try {
-        if (p.inspire && p.inspire.metrics && typeof p.inspire.metrics.citation_count === 'number') {
-          c = p.inspire.metrics.citation_count;
-        }
-      } catch (e) { /* ignore */ }
-    }
+    try {
+      if (p.inspire && p.inspire.metrics && typeof p.inspire.metrics.citation_count === 'number') {
+        c = p.inspire.metrics.citation_count;
+      }
+    } catch (e) { /* ignore */ }
     if (c == null && p.metrics && typeof p.metrics.citation_count === 'number') {
       c = p.metrics.citation_count;
     }
@@ -338,7 +345,7 @@ function YearPublications({ year }) {
       // Try API for current year first (fresh), then static fallback
       if (year === currentYear) {
         try {
-          const r = await fetch(`/api/publications?year=${year}`);
+          const r = await fetch(`${base}api/publications?year=${year}`);
           if (r.ok) {
             const j = await r.json();
             if (mounted) {
@@ -356,7 +363,7 @@ function YearPublications({ year }) {
 
       // Load static cached file
       try {
-        const r2 = await fetch(`/static/data/publications-${year}.json`);
+        const r2 = await fetch(resolvePath(`static/data/publications-${year}.json`));
         if (r2.ok) {
           const j2 = await r2.json();
           if (mounted) {
@@ -450,7 +457,7 @@ function PublicationsIndex() {
     async function loadRecent() {
       // prefer static bundle for preview
       try {
-        const s = await fetch('/static/data/publications.json');
+        const s = await fetch(resolvePath('static/data/publications.json'));
         if (s.ok) {
           const j = await s.json();
           if (mounted && j && j.publications) {
@@ -462,7 +469,7 @@ function PublicationsIndex() {
       } catch (e) {}
       // fallback API
       try {
-        const r = await fetch('/api/publications?limit=5');
+        const r = await fetch(resolvePath('api/publications?limit=5'));
         if (r.ok) {
           const j = await r.json();
           if (mounted && j && j.publications) {
@@ -494,12 +501,12 @@ function PublicationsIndex() {
           let data = null;
           if (y === currentYear) {
             try {
-              const r = await fetch(`/api/publications?year=${y}`);
+              const r = await fetch(resolvePath(`api/publications?year=${y}`));
               if (r.ok) data = await r.json();
             } catch (e) { /* ignore */ }
           }
           if (!data) {
-            const r2 = await fetch(`/static/data/publications-${y}.json`);
+            const r2 = await fetch(resolvePath(`static/data/publications-${y}.json`));
             if (r2.ok) data = await r2.json();
           }
           const pubs = (data && data.publications) ? data.publications : [];
@@ -621,7 +628,7 @@ function PublicationsIndex() {
       </div>
 
       <div className="mt-8">
-        {selectedYear ? <YearPublications year={selectedYear} allTotals={allTotals} /> : <div className="text-sm text-slate-500">Select a year to view all USQCD-author hep-lat papers for that year.</div>}
+        {selectedYear ? <YearPublications year={selectedYear} /> : <div className="text-sm text-slate-500">Select a year to view all USQCD-author hep-lat papers for that year.</div>}
       </div>
     </SectionShell>
   );
@@ -652,8 +659,8 @@ function MeetingsPage() {
     async function load() {
       try {
         const [r1, r2] = await Promise.allSettled([
-          fetch('/static/data/all-hands.json'),
-          fetch('/static/data/lattice-conf.json')
+          fetch(resolvePath('static/data/all-hands.json')),
+          fetch(resolvePath('static/data/lattice-conf.json'))
         ]);
 
         if (mounted) {
@@ -726,9 +733,6 @@ function MeetingsPage() {
         </div>
       </div>
 
-      <div className="mt-6 text-sm text-slate-500">
-        Source & maintenance: primary lists were downloaded from the USQCD Links & Resources page; keep `static/data/all-hands.json` and `static/data/lattice-conf.json` in-sync with the canonical site.  [oai_citation:1‡USQCD](https://www.usqcd.org/links.html)
-      </div>
     </SectionShell>
   );
 }
@@ -815,7 +819,7 @@ function useCommittees() {
     let mounted = true;
     async function load() {
       try {
-        const r = await fetch('/static/data/committees.json');
+        const r = await fetch(resolvePath('static/data/committees.json'));
         if (!r.ok) throw new Error('failed to load committees');
         const j = await r.json();
         if (mounted) setData(j);
@@ -870,7 +874,7 @@ function MembersList() {
   const [members, setMembers] = useState(null);
   useEffect(() => {
     let mounted = true;
-    const tryPaths = ['/static/data/members.json'];
+    const tryPaths = [resolvePath('static/data/members.json')];
     async function load() {
       for (const p of tryPaths) {
         try {
@@ -1049,7 +1053,7 @@ Our immediate objectives are to:</p>
   		  </div>
                 </div>
    	        <div className="max-w-6xl mx-auto px-6 py-12">
-        	     <FiguresCarousel jsonPath="/static/data/figures.json" interval={7000} maxCaptionWords={30} maxImageHeight={300} />
+        	     <FiguresCarousel jsonPath={resolvePath('static/data/figures.json')} interval={7000} maxCaptionWords={30} maxImageHeight={300} />
       	        </div>
               </div>
             </section>

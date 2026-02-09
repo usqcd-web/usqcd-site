@@ -1,0 +1,26 @@
+name: Update publications (daily)
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # runs daily at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-pubs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - name: Run arXiv fetch for current year
+        run: |
+          python3 scripts/fetch_arxiv.py --year $(date -u +%Y)
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add static/data/publications*.json
+          git commit -m "Update publications cache for $(date -u +%Y-%m-%d)" || echo "No changes to commit"
+          git push

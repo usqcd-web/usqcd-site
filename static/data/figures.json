@@ -1,0 +1,560 @@
+[
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadstruct.tex",
+    "image_file": "figures/1904.09512/LP3-PDF-CT14.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/LP3-PDF-CT14.pdf",
+    "caption_full": "Left: Unpolarized isovector nucleon PDF with comparison to the CTEQ parameterization . Right: Polarized isovector nucleon PDF with comparison to the NNPDF parameterization .",
+    "caption_excerpt": "Left: Unpolarized isovector nucleon PDF with comparison to the CTEQ parameterization . Right: Polarized isovector nucleon PDF with comparison to the NNPDF parameterization ."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadstruct.tex",
+    "image_file": "figures/1904.09512/a09m130-helicity-comp.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/a09m130-helicity-comp.pdf",
+    "caption_full": "Left: Unpolarized isovector nucleon PDF with comparison to the CTEQ parameterization . Right: Polarized isovector nucleon PDF with comparison to the NNPDF parameterization .",
+    "caption_excerpt": "Left: Unpolarized isovector nucleon PDF with comparison to the CTEQ parameterization . Right: Polarized isovector nucleon PDF with comparison to the NNPDF parameterization ."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadstruct.tex",
+    "image_file": "figures/1904.09512/m020_run38_UminusD_Sivers_lsqr-9_zetasqrlat4.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/m020_run38_UminusD_Sivers_lsqr-9_zetasqrlat4.pdf",
+    "caption_full": "Left: Proton Sivers shift as a function of staple length, , for fixed staple width, and rapidity (Collins-Soper) parameter, ; defines the SIDIS limit . Right: Extrapolation of the SIDIS limit data for the pion Boer-Mulders shift to the physical limit of large at fixed . Open symbols represent a partial contribution that dominates at large , providing further insight into the approach to the asymptotic regime.",
+    "caption_excerpt": "Left: Proton Sivers shift as a function of staple length, , for fixed staple width, and rapidity (Collins-Soper) parameter, ; defines the SIDIS limit . Right: Extrapolation of the SIDIS limit data for the pion Boer-Mulders shift to the physical limit of large at fixed . Open symbols represent a partial contribution that dominates at large , providing further insight into the approach to the asymptotic regime."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadstruct.tex",
+    "image_file": "figures/1904.09512/new_bm_u_sidis_b0p36_vszetahat_extrap_pow1.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/new_bm_u_sidis_b0p36_vszetahat_extrap_pow1.pdf",
+    "caption_full": "Left: Proton Sivers shift as a function of staple length, , for fixed staple width, and rapidity (Collins-Soper) parameter, ; defines the SIDIS limit . Right: Extrapolation of the SIDIS limit data for the pion Boer-Mulders shift to the physical limit of large at fixed . Open symbols represent a partial contribution that dominates at large , providing further insight into the approach to the asymptotic regime.",
+    "caption_excerpt": "Left: Proton Sivers shift as a function of staple length, , for fixed staple width, and rapidity (Collins-Soper) parameter, ; defines the SIDIS limit . Right: Extrapolation of the SIDIS limit data for the pion Boer-Mulders shift to the physical limit of large at fixed . Open symbols represent a partial contribution that dominates at large , providing further insight into the approach to the asymptotic regime."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadstruct.tex",
+    "image_file": "figures/1904.09512/combinedpressurelattnew.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/combinedpressurelattnew.pdf",
+    "caption_full": "The quark and gluon contributions ot the total pressure distribution in the proton from LQCD. Taken from Ref. . The left panel corresponds to dipole parameterisations, while the right panel corresponds to the more general -parameterisation form.",
+    "caption_excerpt": "The quark and gluon contributions ot the total pressure distribution in the proton from LQCD. Taken from Ref. . The left panel corresponds to dipole parameterisations, while the right panel corresponds to the more general -parameterisation form."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "nuclear.tex",
+    "image_file": "figures/1904.09512/MagMoms.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/MagMoms.pdf",
+    "caption_full": "A summary of the magnetic moments (left panel) and polarizabilities (right panel) of the nucleons and light nuclei calculated with LQCD at a pion mass of .",
+    "caption_excerpt": "A summary of the magnetic moments (left panel) and polarizabilities (right panel) of the nucleons and light nuclei calculated with LQCD at a pion mass of ."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "nuclear.tex",
+    "image_file": "figures/1904.09512/PhysPols.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/PhysPols.pdf",
+    "caption_full": "A summary of the magnetic moments (left panel) and polarizabilities (right panel) of the nucleons and light nuclei calculated with LQCD at a pion mass of .",
+    "caption_excerpt": "A summary of the magnetic moments (left panel) and polarizabilities (right panel) of the nucleons and light nuclei calculated with LQCD at a pion mass of ."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "nuclear.tex",
+    "image_file": "figures/1904.09512/RatioSummary.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/RatioSummary.pdf",
+    "caption_full": "The differences of the scalar, axial and tensor current matrix elements of light nuclei from single particle expectations . Nuclear effects can be identified by the deviation of the quantities shown from zero.",
+    "caption_excerpt": "The differences of the scalar, axial and tensor current matrix elements of light nuclei from single particle expectations . Nuclear effects can be identified by the deviation of the quantities shown from zero."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "nuclear.tex",
+    "image_file": "figures/1904.09512/npTOdgamma.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/npTOdgamma.png",
+    "caption_full": "The short-distance correlated two-nucleon (meson-exchange current) contribution to .",
+    "caption_excerpt": "The short-distance correlated two-nucleon (meson-exchange current) contribution to ."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadspec.tex",
+    "image_file": "figures/1904.09512/isoscalar.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/isoscalar.pdf",
+    "caption_full": "The spectrum of excited mesons of various extracted from a lattice QCD calculation with light quark masses such that MeV . The lightest set of states identified as hybrid mesons appear with an orange outline.",
+    "caption_excerpt": "The spectrum of excited mesons of various extracted from a lattice QCD calculation with light quark masses such that MeV . The lightest set of states identified as hybrid mesons appear with an orange outline."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadspec.tex",
+    "image_file": "figures/1904.09512/bulava.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/bulava.pdf",
+    "caption_full": "elastic scattering phase-shifts from lattice QCD calculations. (a) Isospin=1 -wave computed with MeV showing the characteristic narrow resonance. (b) Isospin=0 -wave at MeV and MeV where the meson appears as a bound-state, broad resonance respectively .",
+    "caption_excerpt": "elastic scattering phase-shifts from lattice QCD calculations. (a) Isospin=1 -wave computed with MeV showing the characteristic narrow resonance. (b) Isospin=0 -wave at MeV and MeV where the meson appears as a bound-state, broad resonance respectively ."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadspec.tex",
+    "image_file": "figures/1904.09512/sigma.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/sigma.pdf",
+    "caption_full": "elastic scattering phase-shifts from lattice QCD calculations. (a) Isospin=1 -wave computed with MeV showing the characteristic narrow resonance. (b) Isospin=0 -wave at MeV and MeV where the meson appears as a bound-state, broad resonance respectively .",
+    "caption_excerpt": "elastic scattering phase-shifts from lattice QCD calculations. (a) Isospin=1 -wave computed with MeV showing the characteristic narrow resonance. (b) Isospin=0 -wave at MeV and MeV where the meson appears as a bound-state, broad resonance respectively ."
+  },
+  {
+    "arxiv_id": "1904.09512",
+    "arxiv_link": "https://arxiv.org/abs/1904.09512",
+    "source_tex": "hadspec.tex",
+    "image_file": "figures/1904.09512/f0f2.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09512_7s6_cjxh/src/figures/f0f2.pdf",
+    "caption_full": "coupled-channel scattering amplitudes in two partial-waves determined in a lattice QCD calculation with MeV . (a) sector found to contain a bound-state , but also a resonance pole near the threshold, having strong coupling to both and that may be associated with the experimental meson. (b) sector found to contain two narrow tensor resonances.",
+    "caption_excerpt": "coupled-channel scattering amplitudes in two partial-waves determined in a lattice QCD calculation with MeV . (a) sector found to contain a bound-state , but also a resonance pole near the threshold, having strong coupling to both and that may be associated with the experimental meson. (b) sector found to contain two narrow tensor resonances."
+  },
+  {
+    "arxiv_id": "1904.09951",
+    "arxiv_link": "https://arxiv.org/abs/1904.09951",
+    "source_tex": null,
+    "image_file": "figures/1904.09951/chiQ2_RMS_large_27.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09951_thlm2t3e/src/chiQ2_RMS_large_27.png",
+    "caption_full": "",
+    "caption_excerpt": ""
+  },
+  {
+    "arxiv_id": "1904.09951",
+    "arxiv_link": "https://arxiv.org/abs/1904.09951",
+    "source_tex": null,
+    "image_file": "figures/1904.09951/FiniteT_BRSpectra_Bottomonium_3S1_Nrmlzd.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09951_thlm2t3e/src/FiniteT_BRSpectra_Bottomonium_3S1_Nrmlzd.pdf",
+    "caption_full": "",
+    "caption_excerpt": ""
+  },
+  {
+    "arxiv_id": "1904.09951",
+    "arxiv_link": "https://arxiv.org/abs/1904.09951",
+    "source_tex": null,
+    "image_file": "figures/1904.09951/phase_1.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09951_thlm2t3e/src/phase_1.pdf",
+    "caption_full": "",
+    "caption_excerpt": ""
+  },
+  {
+    "arxiv_id": "1904.09951",
+    "arxiv_link": "https://arxiv.org/abs/1904.09951",
+    "source_tex": null,
+    "image_file": "figures/1904.09951/pressure_mu6_neutral_cont_trans_25.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09951_thlm2t3e/src/pressure_mu6_neutral_cont_trans_25.png",
+    "caption_full": "",
+    "caption_excerpt": ""
+  },
+  {
+    "arxiv_id": "1904.09951",
+    "arxiv_link": "https://arxiv.org/abs/1904.09951",
+    "source_tex": null,
+    "image_file": "figures/1904.09951/chiB1S1_HRG_large.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09951_thlm2t3e/src/chiB1S1_HRG_large.png",
+    "caption_full": "",
+    "caption_excerpt": ""
+  },
+  {
+    "arxiv_id": "1904.09951",
+    "arxiv_link": "https://arxiv.org/abs/1904.09951",
+    "source_tex": null,
+    "image_file": "figures/1904.09951/QuarkoniaMelting.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09951_thlm2t3e/src/QuarkoniaMelting.pdf",
+    "caption_full": "",
+    "caption_excerpt": ""
+  },
+  {
+    "arxiv_id": "1904.09951",
+    "arxiv_link": "https://arxiv.org/abs/1904.09951",
+    "source_tex": null,
+    "image_file": "figures/1904.09951/suscMapproxnt8.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09951_thlm2t3e/src/suscMapproxnt8.pdf",
+    "caption_full": "",
+    "caption_excerpt": ""
+  },
+  {
+    "arxiv_id": "1904.09951",
+    "arxiv_link": "https://arxiv.org/abs/1904.09951",
+    "source_tex": null,
+    "image_file": "figures/1904.09951/PhaseDiagram.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09951_thlm2t3e/src/PhaseDiagram.png",
+    "caption_full": "",
+    "caption_excerpt": ""
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/Intro.tex",
+    "image_file": "figures/1904.09479/LHC-U1.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/LHC-U1.pdf",
+    "caption_full": "Indirect searches for new physics in the flavor sector and searches at high transverse momentum are complementary. Here one sees the constraints on the mass and coupling of a vector leptoquark . The regions labeled \" \" and \" \" can explain the currently observed anomalies in two classes of -meson decays, observed primarily by LHCb, Babar, and Belle (see Fig. ). The shaded regions in the left and top-left parts of the plot are excluded by searches at high transverse momentum with the ATLAS and CMS experiments. From Ref. .",
+    "caption_excerpt": "Indirect searches for new physics in the flavor sector and searches at high transverse momentum are complementary. Here one sees the constraints on the mass and coupling of a vector leptoquark . The regions labeled \" \" and \" \" can explain the currently observed anomalies in two classes of -meson decays, observed primarily by LHCb, Babar, and Belle (see Fig. ). The shaded regions in the left and top-left parts of the plot are excluded by searches at high transverse momentum with the ATLAS and CMS experiments. From Ref. ."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/QuarkExp.tex",
+    "image_file": "figures/1904.09479/rhoeta-fullfit-sm-crop.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/rhoeta-fullfit-sm-crop.pdf",
+    "caption_full": "Constraints on two of the four independent parameters of the Cabibbo-Kobayashi-Maskawa quark mixing matrix, as of summer 2018 . These constraints are obtained by combining experimental measurements of decay rates and other observables with calculations in the Standard Model, in many cases using lattice QCD. The constraints presently all overlap in the small region outlined in black that corresponds to the apex of the unitarity triangle. With more precise lattice QCD calculations and future experimental data, inconsistencies due to physics beyond the Standard Model might be revealed. In fact, two classes of meson decay processes that are not included here already show tensions with the Standard Model (see Fig. ). From Ref. .",
+    "caption_excerpt": "Constraints on two of the four independent parameters of the Cabibbo-Kobayashi-Maskawa quark mixing matrix, as of summer 2018 . These constraints are obtained by combining experimental measurements of decay rates and other observables with calculations in the Standard Model, in many cases using lattice QCD. The constraints presently all overlap in the small region outlined in black that corresponds to the apex of the unitarity triangle. With more precise lattice QCD calculations and future experimental data, inconsistencies due to physics beyond the Standard Model might be revealed. In fact, two classes of meson decay processes that are not included here already show tensions with the Standard Model (see Fig. ). From Ref. ."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/QuarkExp.tex",
+    "image_file": "figures/1904.09479/Vub_history_paper.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/Vub_history_paper.pdf",
+    "caption_full": "The smallest and least well known element of the CKM quark mixing matrix is . As illustrated here with the history of the values reported by the Particle Data Group , there is a long-standing tension between two different methods of extracting : \"exclusive\", which combines measurements of the decay rate with lattice QCD calculations, and \"inclusive\", where the sum of the decay rates to all possible up-flavored hadrons in the final state is used.",
+    "caption_excerpt": "The smallest and least well known element of the CKM quark mixing matrix is . As illustrated here with the history of the values reported by the Particle Data Group , there is a long-standing tension between two different methods of extracting : \"exclusive\", which combines measurements of the decay rate with lattice QCD calculations, and \"inclusive\", where the sum of the decay rates to all possible up-flavored hadrons in the final state is used."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/QuarkExp.tex",
+    "image_file": "figures/1904.09479/rdrds_spring2019-crop.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/rdrds_spring2019-crop.pdf",
+    "caption_full": "Left panel: Measurements of the ratios and , where denotes an electron or muon, exceed the Standard-Model predictions with a combined significance of approximately 3 . From Ref. . Right panel: a global fit of experimental data for decays of bottom hadrons to strange hadrons and charged leptons, which uses both lattice and non-lattice calculations of hadronic matrix elements, gives nonzero beyond-the-Standard-Model couplings and with a pull of approximately . From Ref. (figure simplified).",
+    "caption_excerpt": "Left panel: Measurements of the ratios and , where denotes an electron or muon, exceed the Standard-Model predictions with a combined significance of approximately 3 . From Ref. . Right panel: a global fit of experimental data for decays of bottom hadrons to strange hadrons and charged leptons, which uses both lattice and non-lattice calculations of hadronic matrix elements, gives nonzero beyond-the-Standard-Model couplings and with a pull of approximately . From Ref. (figure simplified)."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/QuarkExp.tex",
+    "image_file": "figures/1904.09479/bsmumu_C9_C10_simplified-crop.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/bsmumu_C9_C10_simplified-crop.pdf",
+    "caption_full": "Left panel: Measurements of the ratios and , where denotes an electron or muon, exceed the Standard-Model predictions with a combined significance of approximately 3 . From Ref. . Right panel: a global fit of experimental data for decays of bottom hadrons to strange hadrons and charged leptons, which uses both lattice and non-lattice calculations of hadronic matrix elements, gives nonzero beyond-the-Standard-Model couplings and with a pull of approximately . From Ref. (figure simplified).",
+    "caption_excerpt": "Left panel: Measurements of the ratios and , where denotes an electron or muon, exceed the Standard-Model predictions with a combined significance of approximately 3 . From Ref. . Right panel: a global fit of experimental data for decays of bottom hadrons to strange hadrons and charged leptons, which uses both lattice and non-lattice calculations of hadronic matrix elements, gives nonzero beyond-the-Standard-Model couplings and with a pull of approximately . From Ref. (figure simplified)."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/LeptonLat.tex",
+    "image_file": "figures/1904.09479/hvp.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/hvp.pdf",
+    "caption_full": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown.",
+    "caption_excerpt": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/LeptonLat.tex",
+    "image_file": "figures/1904.09479/hvp-disc.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/hvp-disc.pdf",
+    "caption_full": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown.",
+    "caption_excerpt": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/LeptonLat.tex",
+    "image_file": "figures/1904.09479/hvp-conn-nlo.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/hvp-conn-nlo.pdf",
+    "caption_full": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown.",
+    "caption_excerpt": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/LeptonLat.tex",
+    "image_file": "figures/1904.09479/hvp-disc-nlo.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/hvp-disc-nlo.pdf",
+    "caption_full": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown.",
+    "caption_excerpt": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/LeptonLat.tex",
+    "image_file": "figures/1904.09479/hlbl.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/hlbl.pdf",
+    "caption_full": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown.",
+    "caption_excerpt": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/LeptonLat.tex",
+    "image_file": "figures/1904.09479/hlbl-disc.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/hlbl-disc.pdf",
+    "caption_full": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown.",
+    "caption_excerpt": "The upper diagrams from left to right show the leading-order (LO) quark-connected, LO quark-disconnected, LO QED corrections, and an example of next-to-leading order (in ) HVP diagrams. The lower diagrams show the leading quark-connected (left) and quark-disconnected (right) contributions to the HLbL contribution. Subleading diagrams with up to four quark loops in light-by-light scattering are not shown."
+  },
+  {
+    "arxiv_id": "1904.09479",
+    "arxiv_link": "https://arxiv.org/abs/1904.09479",
+    "source_tex": "chapters/LeptonLat.tex",
+    "image_file": "figures/1904.09479/hvpsummary.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09479_urp64938/src/chapters/figs/hvpsummary.pdf",
+    "caption_full": "Leading-order HVP contributions to from recent lattice (blue) and dispersive (red) calculations. The purple data-point is a combined analysis of lattice and dispersive input . The referenced contributions are ETMC 2013 , HPQCD 2016 , Mainz 2017 , BMW 2017 , RBC/UKQCD 2018 , ETMC 2018 , SK 2019 , FNAL/HPQCD/MILC 2019 , Mainz 2019 , HLMNT 2011 , DHMZ 2012 , DHMZ 2017 , Jegerlehner 2017 , KNT 2018 , and \"No new physics\" . The innermost error-bar corresponds to the statistical uncertainty.",
+    "caption_excerpt": "Leading-order HVP contributions to from recent lattice (blue) and dispersive (red) calculations. The purple data-point is a combined analysis of lattice and dispersive input . The referenced contributions are ETMC 2013 , HPQCD 2016 , Mainz 2017 , BMW 2017 , RBC/UKQCD 2018 , ETMC 2018 , SK 2019 , FNAL/HPQCD/MILC 2019 , Mainz 2019 , HLMNT 2011 , DHMZ 2012 , DHMZ 2017 , Jegerlehner 2017 , KNT 2018 , and \"No new physics\" . The innermost error-bar corresponds to the statistical uncertainty."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "intro.tex",
+    "image_file": "figures/1904.09931/fluxes.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/fluxes.png",
+    "caption_full": "Energy spectrum of the neutrino beam for several experiments. In particular, most of DUNE's beam lies in the range GeV. Courtesy Laura Fields .",
+    "caption_excerpt": "Energy spectrum of the neutrino beam for several experiments. In particular, most of DUNE's beam lies in the range GeV. Courtesy Laura Fields ."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "intro.tex",
+    "image_file": "figures/1904.09931/cc_inclusive_nu.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/cc_inclusive_nu.pdf",
+    "caption_full": "Cross sections vs neutrino energy (left) or antineutrino energy (right), showing the relative contributions of the underlying processes quasielastic scattering, resonance production, and deep-inelastic scattering .",
+    "caption_excerpt": "Cross sections vs neutrino energy (left) or antineutrino energy (right), showing the relative contributions of the underlying processes quasielastic scattering, resonance production, and deep-inelastic scattering ."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "intro.tex",
+    "image_file": "figures/1904.09931/cc_inclusive_nubar.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/cc_inclusive_nubar.pdf",
+    "caption_full": "Cross sections vs neutrino energy (left) or antineutrino energy (right), showing the relative contributions of the underlying processes quasielastic scattering, resonance production, and deep-inelastic scattering .",
+    "caption_excerpt": "Cross sections vs neutrino energy (left) or antineutrino energy (right), showing the relative contributions of the underlying processes quasielastic scattering, resonance production, and deep-inelastic scattering ."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "resonance.tex",
+    "image_file": "figures/1904.09931/rho_resonance.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/rho_resonance.pdf",
+    "caption_full": "The upper and lower panels show the and elastic scattering cross sections, respectively, as a function of energy, with the resonance clearly visible .",
+    "caption_excerpt": "The upper and lower panels show the and elastic scattering cross sections, respectively, as a function of energy, with the resonance clearly visible ."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "easy.tex",
+    "image_file": "figures/1904.09931/rA2-cross.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/rA2-cross.pdf",
+    "caption_full": "Quasielastic neutrino-neutron cross section assuming current uncertainties for all crucial inputs except , for which a 20\\% uncertainty is assumed. The hatched (yellow) error band stems from this putative (all other inputs); the green band is the sum in quadrature. From Ref. .",
+    "caption_excerpt": "Quasielastic neutrino-neutron cross section assuming current uncertainties for all crucial inputs except , for which a 20\\% uncertainty is assumed. The hatched (yellow) error band stems from this putative (all other inputs); the green band is the sum in quadrature. From Ref. ."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "easy.tex",
+    "image_file": "figures/1904.09931/GE.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/GE.pdf",
+    "caption_full": "Electric (left) and isovector axial (right) form factors of the nucleon vs . Data from Ref. .",
+    "caption_excerpt": "Electric (left) and isovector axial (right) form factors of the nucleon vs . Data from Ref. ."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "easy.tex",
+    "image_file": "figures/1904.09931/GA.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/GA.pdf",
+    "caption_full": "Electric (left) and isovector axial (right) form factors of the nucleon vs . Data from Ref. .",
+    "caption_excerpt": "Electric (left) and isovector axial (right) form factors of the nucleon vs . Data from Ref. ."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "easy.tex",
+    "image_file": "figures/1904.09931/gA-comp-mag-2019-04-09.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/gA-comp-mag-2019-04-09.pdf",
+    "caption_full": "Status of lattice-QCD calculations of (left) and (right), together with non-lattice determinations. Left: Filled green (unfilled red) lattice-QCD results have (in)complete error budgets. The violet line in the upper panel is the PDG average of the results in the bottom panel, in which the scale is blown up by a factor of 10. Right: As discussed in the text, the error bars on from dipole fits are underestimated and the two small lattice-QCD error bars stem from incomplete error analyses (critiqued below). The references for from top to bottom are as follows: \" and (dipole)\" , \" ( exp.)\" , \"MuCap this work\" , LHPC (NB: one lattice spacing and MeV), ETMC (NB: no strange sea and a small volume such that ), CLS , PNDME. From Refs. (left) and (right, adapted with permission).",
+    "caption_excerpt": "Status of lattice-QCD calculations of (left) and (right), together with non-lattice determinations. Left: Filled green (unfilled red) lattice-QCD results have (in)complete error budgets. The violet line in the upper panel is the PDG average of the results in the bottom panel, in which the scale is blown up by a factor of 10. Right: As discussed in the text, the error bars on from dipole fits are underestimated and the two small lattice-QCD error bars stem from incomplete error analyses (critiqued below). The references for from top to bottom are as follows: \" and (dipole)\" , \" ( exp.)\" , \"MuCap this work\" , LHPC (NB: one lattice spacing and MeV), ETMC (NB: no strange sea and a small volume such that ), CLS , PNDME. From Refs. (left) and (right, adapted with permission)."
+  },
+  {
+    "arxiv_id": "1904.09931",
+    "arxiv_link": "https://arxiv.org/abs/1904.09931",
+    "source_tex": "easy.tex",
+    "image_file": "figures/1904.09931/rA2-norefs.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09931_22fe71xp/src/figs/rA2-norefs.pdf",
+    "caption_full": "Status of lattice-QCD calculations of (left) and (right), together with non-lattice determinations. Left: Filled green (unfilled red) lattice-QCD results have (in)complete error budgets. The violet line in the upper panel is the PDG average of the results in the bottom panel, in which the scale is blown up by a factor of 10. Right: As discussed in the text, the error bars on from dipole fits are underestimated and the two small lattice-QCD error bars stem from incomplete error analyses (critiqued below). The references for from top to bottom are as follows: \" and (dipole)\" , \" ( exp.)\" , \"MuCap this work\" , LHPC (NB: one lattice spacing and MeV), ETMC (NB: no strange sea and a small volume such that ), CLS , PNDME. From Refs. (left) and (right, adapted with permission).",
+    "caption_excerpt": "Status of lattice-QCD calculations of (left) and (right), together with non-lattice determinations. Left: Filled green (unfilled red) lattice-QCD results have (in)complete error budgets. The violet line in the upper panel is the PDG average of the results in the bottom panel, in which the scale is blown up by a factor of 10. Right: As discussed in the text, the error bars on from dipole fits are underestimated and the two small lattice-QCD error bars stem from incomplete error analyses (critiqued below). The references for from top to bottom are as follows: \" and (dipole)\" , \" ( exp.)\" , \"MuCap this work\" , LHPC (NB: one lattice spacing and MeV), ETMC (NB: no strange sea and a small volume such that ), CLS , PNDME. From Refs. (left) and (right, adapted with permission)."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/summary.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/summary.pdf",
+    "caption_full": "Summary of primary Fundamental Symmetries subjects discussed in this whitepaper.",
+    "caption_excerpt": "Summary of primary Fundamental Symmetries subjects discussed in this whitepaper."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/0vbbchart.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/0vbbchart.pdf",
+    "caption_full": "The role of LQCD in searches for new physics is demonstrated through the example of decay. To plan the design of new experiments, and to interpret any potential observation, theorists will need to apply a multi-scale matching program to connect the observed rate in heavy isotopes to the expectation from lepton-number violating models at a high scale, see e.g., Ref. . LQCD is the only reliable method that enables taking step (3) in the chart, bridging between perturbative and nonperturbative QCD regimes, and providing new LECs of nuclear EFTs in the few-body sector that can be fed into ab initio nuclear structure calculations of the isotopes of relevance to experiment.",
+    "caption_excerpt": "The role of LQCD in searches for new physics is demonstrated through the example of decay. To plan the design of new experiments, and to interpret any potential observation, theorists will need to apply a multi-scale matching program to connect the observed rate in heavy isotopes to the expectation from lepton-number violating models at a high scale, see e.g., Ref. . LQCD is the only reliable method that enables taking step (3) in the chart, bridging between perturbative and nonperturbative QCD regimes, and providing new LECs of nuclear EFTs in the few-body sector that can be fed into ab initio nuclear structure calculations of the isotopes of relevance to experiment."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/edm-bounds.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/edm-bounds.pdf",
+    "caption_full": "The table shows approximate limits (in units of cm) on EDMs of various systems and their predictions from the CP-violation within the SM through the CKM mechanism . The plot indicates that progress has slowed down in nEDM measurements, but future experiments are planned to increase the precision by up to two orders of magnitude .",
+    "caption_excerpt": "The table shows approximate limits (in units of cm) on EDMs of various systems and their predictions from the CP-violation within the SM through the CKM mechanism . The plot indicates that progress has slowed down in nEDM measurements, but future experiments are planned to increase the precision by up to two orders of magnitude ."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/pdecay.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/pdecay.pdf",
+    "caption_full": "The form factors parametrizing the shown MEs contributing to the proton decay at given values of momentum-transfer-squared, obtained from a recent LQCD study using \"direct\" (blue) and \"indirect\" (green) methods with 2+1 flavor dynamical domain-wall fermions with Iwasaki gauge action generated by RBC and UKQCD collaborations . is a given linear combination of and form factors, see Ref. . The smaller panel is an illustration of the quark and lepton-level process mediated by an effective operator, denoted by the green circle.",
+    "caption_excerpt": "The form factors parametrizing the shown MEs contributing to the proton decay at given values of momentum-transfer-squared, obtained from a recent LQCD study using \"direct\" (blue) and \"indirect\" (green) methods with 2+1 flavor dynamical domain-wall fermions with Iwasaki gauge action generated by RBC and UKQCD collaborations . is a given linear combination of and form factors, see Ref. . The smaller panel is an illustration of the quark and lepton-level process mediated by an effective operator, denoted by the green circle."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/2vbbnplqcd.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/2vbbnplqcd.pdf",
+    "caption_full": "As a preliminary step towards constraining the MEs relevant to with a light Majorana neutrino, the NPLQCD collaboration performed a calculation of the ME of two axial vector currents that induce the SM counterpart of decay process, namely the decay, in the two-nucleon system . This first study was performed at a single lattice spacing and lattice volume and with quark masses corresponding to a pion mass of , at which point the two-nucleon systems are found to be rather deeply bound . The new short-range operator in the two-nucleon EFT was identified and its corresponding LEC, , was constrained from the result of the LQCD calculation. This study will be further developed in the next five years to account for the exotic process of decay, and towards physical values of quark masses, such that it will impact ab initio nuclear structure calculations of this process in larger nuclei.",
+    "caption_excerpt": "As a preliminary step towards constraining the MEs relevant to with a light Majorana neutrino, the NPLQCD collaboration performed a calculation of the ME of two axial vector currents that induce the SM counterpart of decay process, namely the decay, in the two-nucleon system . This first study was performed at a single lattice spacing and lattice volume and with quark masses corresponding to a pion mass of , at which point the two-nucleon systems are found to be rather deeply bound . The new short-range operator in the two-nucleon EFT was identified and its corresponding LEC, , was constrained from the result of the LQCD calculation. This study will be further developed in the next five years to account for the exotic process of decay, and towards physical values of quark masses, such that it will impact ab initio nuclear structure calculations of this process in larger nuclei."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/0vbbcallat.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/0vbbcallat.pdf",
+    "caption_full": "Within the Weinberg power counting of nuclear forces, an organizational scheme was proposed in Ref. to identify the dominant contributions to the decay of two neutrons at low energies, as depicted in the upper panel. The CalLat collaboration performed the first calculation of the MEs of four-quark operators (arising from heavy-scale scenarios for ) in the pion, hence constraining part of the amplitude for in which the pion exchanged between the two nucleons undergoes a decay . The study was performed on USQCD's MILC ensembles of gauge-field configurations and included continuum, finite-volume and chiral extrapolations. The lower-right plot displays the MEs corresponding to a set of four-quark operators, , as defined in the reference. Within the next five years, further developments will enable computations of more challenging , MEs.",
+    "caption_excerpt": "Within the Weinberg power counting of nuclear forces, an organizational scheme was proposed in Ref. to identify the dominant contributions to the decay of two neutrons at low energies, as depicted in the upper panel. The CalLat collaboration performed the first calculation of the MEs of four-quark operators (arising from heavy-scale scenarios for ) in the pion, hence constraining part of the amplitude for in which the pion exchanged between the two nucleons undergoes a decay . The study was performed on USQCD's MILC ensembles of gauge-field configurations and included continuum, finite-volume and chiral extrapolations. The lower-right plot displays the MEs corresponding to a set of four-quark operators, , as defined in the reference. Within the next five years, further developments will enable computations of more challenging , MEs."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/nnbar-diagram.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/nnbar-diagram.pdf",
+    "caption_full": "The left diagram schematically shows how a neutron two-point correlation function can be constructed from three copies of a single quark propagator. Calculations of three-point functions including operator insertions are typically more expensive because they require multiple quark propagator calculations, but using the construction schematically depicted on the right, MEs can be constructed from the same quark propagator used to construct the neutron two-point function. The quark propagator source point is taken to be the operator insertion point (black dot) and extends forward in time to a neutron annihilation operator or backward in time to an anitneutron creation operator.",
+    "caption_excerpt": "The left diagram schematically shows how a neutron two-point correlation function can be constructed from three copies of a single quark propagator. Calculations of three-point functions including operator insertions are typically more expensive because they require multiple quark propagator calculations, but using the construction schematically depicted on the right, MEs can be constructed from the same quark propagator used to construct the neutron two-point function. The quark propagator source point is taken to be the operator insertion point (black dot) and extends forward in time to a neutron annihilation operator or backward in time to an anitneutron creation operator."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/mu2e.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/mu2e.pdf",
+    "caption_full": "The left panel shows limits on the branching ratio of LFV muon decays as a function of the year . The right panel depicts examples of LFV interactions induced by the dimension-6 operators. denotes the atomic number of the target nucleus.",
+    "caption_excerpt": "The left panel shows limits on the branching ratio of LFV muon decays as a function of the year . The right panel depicts examples of LFV interactions induced by the dimension-6 operators. denotes the atomic number of the target nucleus."
+  },
+  {
+    "arxiv_id": "1904.09704",
+    "arxiv_link": "https://arxiv.org/abs/1904.09704",
+    "source_tex": "fs-wp-v.fin.tex",
+    "image_file": "figures/1904.09704/scalarnplqcd.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09704_jk6t4ulo/src/figures/scalarnplqcd.pdf",
+    "caption_full": "The left panel (courtesy of the NPLQCD collaboration) shows deviation of the MEs of scalar, axial and tensor interactions in nuclei up to from their values in a noninteracting nucleon model, using LQCD albeit at an unphysically large quark masses. The quantities are defined in Ref. . This investigation indicates a large ( -level) nuclear effect for scalar interactions, which if it persists at physical values of the quark masses, can have a significant effect in MEs of scalar currents in large isotopes (a large quenching can be a possibility considering the quenching of the axial charge in such isotopes ). Reliable theory input for scalar nuclear MEs will be crucial to interpret experimental searches in terms of the popular scalar portal scenarios. As is seen in the right panel (courtesy of Kaixuan Ni), the remaining not-yet-excluded region of the WIMP mass given the cross-section sensitivity of experiments will be considerably reduced in upcoming years, and reliable interpretation of the outcome of these searches will depend upon controlled nuclear MEs.",
+    "caption_excerpt": "The left panel (courtesy of the NPLQCD collaboration) shows deviation of the MEs of scalar, axial and tensor interactions in nuclei up to from their values in a noninteracting nucleon model, using LQCD albeit at an unphysically large quark masses. The quantities are defined in Ref. . This investigation indicates a large ( -level) nuclear effect for scalar interactions, which if it persists at physical values of the quark masses, can have a significant effect in MEs of scalar currents in large isotopes (a large quenching can be a possibility considering the quenching of the axial charge in such isotopes ). Reliable theory input for scalar nuclear MEs will be crucial to interpret experimental searches in terms of the popular scalar portal scenarios. As is seen in the right panel (courtesy of Kaixuan Ni), the remaining not-yet-excluded region of the WIMP mass given the cross-section sensitivity of experiments will be considerably reduced in upcoming years, and reliable interpretation of the outcome of these searches will depend upon controlled nuclear MEs."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "solvers.tex",
+    "image_file": "figures/1904.09725/CloverSolverMassScalings.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/CloverSolverMassScalings.pdf",
+    "caption_full": "Scaling of solvers with bare quark mass parameter. One can see that CGNR and BiCGStab solvers diverge in terms of solve time as the quark mass is reduced, while the scaling of multi-gird with decreasing quark mass is comparatively flat. From Ref. .",
+    "caption_excerpt": "Scaling of solvers with bare quark mass parameter. One can see that CGNR and BiCGStab solvers diverge in terms of solve time as the quark mass is reduced, while the scaling of multi-gird with decreasing quark mass is comparatively flat. From Ref. ."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "solvers.tex",
+    "image_file": "figures/1904.09725/CloverError.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/CloverError.pdf",
+    "caption_full": "Scaling of solvers with bare quark mass parameter. One can see that CGNR and BiCGStab solvers diverge in terms of solve time as the quark mass is reduced, while the scaling of multi-gird with decreasing quark mass is comparatively flat. From Ref. .",
+    "caption_excerpt": "Scaling of solvers with bare quark mass parameter. One can see that CGNR and BiCGStab solvers diverge in terms of solve time as the quark mass is reduced, while the scaling of multi-gird with decreasing quark mass is comparatively flat. From Ref. ."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "solvers.tex",
+    "image_file": "figures/1904.09725/eval.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/eval.pdf",
+    "caption_full": "Eigenvalues of the preconditioned M\\\"obius domain-wall Dirac operator on 2+1 flavor M\\\"obius ensemble (48I, 64I). See Ref. for details.",
+    "caption_excerpt": "Eigenvalues of the preconditioned M\\\"obius domain-wall Dirac operator on 2+1 flavor M\\\"obius ensemble (48I, 64I). See Ref. for details."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "solvers.tex",
+    "image_file": "figures/1904.09725/mgl.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/mgl.pdf",
+    "caption_full": "Eigenvalues of the preconditioned M\\\"obius domain-wall Dirac operator on 2+1 flavor M\\\"obius ensemble (48I, 64I). See Ref. for details.",
+    "caption_excerpt": "Eigenvalues of the preconditioned M\\\"obius domain-wall Dirac operator on 2+1 flavor M\\\"obius ensemble (48I, 64I). See Ref. for details."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "solvers.tex",
+    "image_file": "figures/1904.09725/SplitGrid.jpeg",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/SplitGrid.jpeg",
+    "caption_full": "Illustration of split grid.",
+    "caption_excerpt": "Illustration of split grid."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "solvers.tex",
+    "image_file": "figures/1904.09725/BL.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/BL.pdf",
+    "caption_full": "Illustration of split grid.",
+    "caption_excerpt": "Illustration of split grid."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "gauge_gen.tex",
+    "image_file": "figures/1904.09725/Wallclocks.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/Wallclocks.pdf",
+    "caption_full": "Wallclock times for running a Wilson-clover gauge generation benchmark, on Titan (red bars) and Summit (green bars) prior to (left) and after (right) algorithmic and code optimizations",
+    "caption_excerpt": "Wallclock times for running a Wilson-clover gauge generation benchmark, on Titan (red bars) and Summit (green bars) prior to (left) and after (right) algorithmic and code optimizations"
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "gauge_gen.tex",
+    "image_file": "figures/1904.09725/SummaryPlot-NB.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/SummaryPlot-NB.pdf",
+    "caption_full": "Computational costs for generating an independent configuration from the standard HMC, the RMHMC and LAHMC algorithms. % These preliminary results suggest a speedup from these new methods. % The look-ahead HMC (LAHMC) algorithm , not discussed here, does not require detailed balance and allows speculative, long % trajectories to be attempted. % LAHMC has data for only 1- and 2- MD units per trajectory.",
+    "caption_excerpt": "Computational costs for generating an independent configuration from the standard HMC, the RMHMC and LAHMC algorithms. % These preliminary results suggest a speedup from these new methods. % The look-ahead HMC (LAHMC) algorithm , not discussed here, does not require detailed balance and allows speculative, long % trajectories to be attempted. % LAHMC has data for only 1- and 2- MD units per trajectory."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "ml.tex",
+    "image_file": "figures/1904.09725/figv116.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/figures/figv116.pdf",
+    "caption_full": "Machine learning applied to parameter regression in Ref. .",
+    "caption_excerpt": "Machine learning applied to parameter regression in Ref. ."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "quantum.tex",
+    "image_file": "figures/1904.09725/QC-IBM.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/quantum/QC-IBM.png",
+    "caption_full": "Dilution refrigerator housing the superconducting quantum hardware (left) and the IBM QX2 quantum chip comprised of five qubits and radio-frequency couplings (right).",
+    "caption_excerpt": "Dilution refrigerator housing the superconducting quantum hardware (left) and the IBM QX2 quantum chip comprised of five qubits and radio-frequency couplings (right)."
+  },
+  {
+    "arxiv_id": "1904.09725",
+    "arxiv_link": "https://arxiv.org/abs/1904.09725",
+    "source_tex": "quantum.tex",
+    "image_file": "figures/1904.09725/QC-IBM2.png",
+    "original_path": "/var/folders/nk/m9d98xfn0cs8zsgn4mk4zcz00000gn/T/arxiv_1904.09725_hfjyhccj/src/quantum/QC-IBM2.png",
+    "caption_full": "Dilution refrigerator housing the superconducting quantum hardware (left) and the IBM QX2 quantum chip comprised of five qubits and radio-frequency couplings (right).",
+    "caption_excerpt": "Dilution refrigerator housing the superconducting quantum hardware (left) and the IBM QX2 quantum chip comprised of five qubits and radio-frequency couplings (right)."
+  }
+]

@@ -1,0 +1,214 @@
+{
+  "source": "Compiled from USQCD links page and verified official conference sites",
+  "last_verified": "2026-02-08",
+  "lattice_conferences": [
+    {
+      "year": 2026,
+      "title": "Lattice 2026 (planned) — University of Maryland",
+      "href": null,
+      "dates": null,
+      "location": "University of Maryland, USA (expected)",
+      "planned": true
+    },
+    {
+      "year": 2025,
+      "title": "Lattice 2025",
+      "href": "https://indico.global/event/14504/",
+      "dates": "2–8 November 2025",
+      "location": "Mumbai, India",
+      "planned": false
+    },
+    {
+      "year": 2024,
+      "title": "Lattice 2024",
+      "href": "https://conference.ippp.dur.ac.uk/e/Lattice2024",
+      "dates": "28 July–3 August 2024",
+      "location": "Liverpool, United Kingdom",
+      "planned": false
+    },
+    {
+      "year": 2023,
+      "title": "Lattice 2023",
+      "href": "https://indico.fnal.gov/event/57249/",
+      "dates": "31 July–4 August 2023",
+      "location": "Fermilab, USA",
+      "planned": false
+    },
+    {
+      "year": 2022,
+      "title": "Lattice 2022",
+      "href": null,
+      "dates": "8–13 August 2022",
+      "location": "Bonn, Germany",
+      "planned": false
+    },
+    {
+      "year": 2021,
+      "title": "Lattice 2021",
+      "href": "https://indico.cern.ch/event/1006302/",
+      "dates": "26–30 July 2021",
+      "location": "Virtual (MIT host)",
+      "planned": false
+    },
+    {
+      "year": 2020,
+      "title": "Lattice 2020 (cancelled)",
+      "href": null,
+      "dates": null,
+      "location": null,
+      "planned": false
+    },
+    {
+      "year": 2019,
+      "title": "Lattice 2019",
+      "href": null,
+      "dates": "28 July–3 August 2019",
+      "location": "Wuhan, China",
+      "planned": false
+    },
+    {
+      "year": 2018,
+      "title": "Lattice 2018",
+      "href": null,
+      "dates": "30 July–4 August 2018",
+      "location": "East Lansing, USA",
+      "planned": false
+    },
+    {
+      "year": 2017,
+      "title": "Lattice 2017",
+      "href": null,
+      "dates": "31 July–5 August 2017",
+      "location": "Granada, Spain",
+      "planned": false
+    },
+    {
+      "year": 2016,
+      "title": "Lattice 2016",
+      "href": null,
+      "dates": "24–30 July 2016",
+      "location": "Southampton, United Kingdom",
+      "planned": false
+    },
+    {
+      "year": 2015,
+      "title": "Lattice 2015",
+      "href": null,
+      "dates": "13–18 July 2015",
+      "location": "Kobe, Japan",
+      "planned": false
+    },
+    {
+      "year": 2014,
+      "title": "Lattice 2014",
+      "href": null,
+      "dates": "6–11 July 2014",
+      "location": "New York, USA",
+      "planned": false
+    },
+    {
+      "year": 2013,
+      "title": "Lattice 2013",
+      "href": null,
+      "dates": "25–31 August 2013",
+      "location": "Mainz, Germany",
+      "planned": false
+    },
+    {
+      "year": 2012,
+      "title": "Lattice 2012",
+      "href": null,
+      "dates": "24–29 June 2012",
+      "location": "Cairns, Australia",
+      "planned": false
+    },
+    {
+      "year": 2011,
+      "title": "Lattice 2011",
+      "href": null,
+      "dates": "10–16 July 2011",
+      "location": "Squaw Valley, USA",
+      "planned": false
+    },
+    {
+      "year": 2010,
+      "title": "Lattice 2010",
+      "href": "http://www.infn.it/Lattice2010",
+      "dates": "14–19 June 2010",
+      "location": "Villasimius, Sardinia",
+      "planned": false
+    },
+    {
+      "year": 2009,
+      "title": "Lattice 2009",
+      "href": null,
+      "dates": "26–31 July 2009",
+      "location": "Beijing, China",
+      "planned": false
+    },
+    {
+      "year": 2008,
+      "title": "Lattice 2008",
+      "href": null,
+      "dates": "14–19 July 2008",
+      "location": "Williamsburg, USA",
+      "planned": false
+    },
+    {
+      "year": 2007,
+      "title": "Lattice 2007",
+      "href": null,
+      "dates": "30 July–4 August 2007",
+      "location": "Regensburg, Germany",
+      "planned": false
+    },
+    {
+      "year": 2006,
+      "title": "Lattice 2006",
+      "href": null,
+      "dates": "23–28 July 2006",
+      "location": "Tucson, USA",
+      "planned": false
+    },
+    {
+      "year": 2005,
+      "title": "Lattice 2005",
+      "href": null,
+      "dates": "25–30 July 2005",
+      "location": "Dublin, Ireland",
+      "planned": false
+    },
+    {
+      "year": 2004,
+      "title": "Lattice 2004",
+      "href": null,
+      "dates": "19–24 July 2004",
+      "location": "Fermilab, USA",
+      "planned": false
+    },
+    {
+      "year": 2003,
+      "title": "Lattice 2003",
+      "href": null,
+      "dates": "28 July–2 August 2003",
+      "location": "Tsukuba, Japan",
+      "planned": false
+    },
+    {
+      "year": 2002,
+      "title": "Lattice 2002",
+      "href": null,
+      "dates": "24–29 June 2002",
+      "location": "Boston, USA",
+      "planned": false
+    },
+    {
+      "year": 2001,
+      "title": "Lattice 2001",
+      "href": null,
+      "dates": "19–24 August 2001",
+      "location": "Berlin, Germany",
+      "planned": false
+    }
+  ]
+}

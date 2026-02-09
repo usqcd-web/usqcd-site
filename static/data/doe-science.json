@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Scientists Calculate Predictions for Electron-Ion Collider Measurements",
+    "link": "https://science.osti.gov/np/Highlights/2025/5a",
+    "description": "Calculations of charge distribution in mesons provide a benchmark for experimental measurements and validate widely used 'factorization' method.",
+    "image_file": "figures/doe-science/BNL-Meson-Charge-Factorization.jpg"
+  },
+  {
+    "title": "A Subatomic Challenge Resolved: Supercomputer Calculations Produce the First Accurate Theoretical View of the Sigma Meson",
+    "link": "https://science.osti.gov/np/Highlights/2025/3g",
+    "description": "A Subatomic Challenge Resolved: Supercomputer Calculations Produce the First Accurate Theoretical View of the Sigma Meson",
+    "image_file": "figures/doe-science/SigmaMesonCalc.jpg"
+  },
+  {
+    "title": "To Understand a Special Hadron, Researchers Turn to Supercomputers and Quantum Chromodynamics",
+    "link": "https://science.osti.gov/np/Highlights/2024/12d",
+    "description": "Scientists Gain new insights into the nature of the puzzling lambda 1405 hyperon resonance and its controversial partner.",
+    "image_file": "figures/doe-science/MIT-Lattice-QCD.jpg"
+  },
+  {
+    "title": "Calculation Sharpens Imaging of Protons’ Insides",
+    "link": "https://science.osti.gov/np/Highlights/2024/10d",
+    "description": "New theory-based approach gives access to quarks’ tiny transverse motion within protons.",
+    "image_file": "figures/doe-science/DOE_NP_Highlight_RenderResult_BG_Composite_300dpi.jpg"
+  },
+  {
+    "title": "Scientists Gain New Insights into How Mass Is Distributed in Hadrons",
+    "link": "https://science.osti.gov/np/Highlights/2024/10c",
+    "description": "Nuclear theorists reveal mass distribution within the pion and the proton from first principle numerical calculations.",
+    "image_file": "figures/doe-science/Trace-Anomaly.png"
+  },
+  {
+    "title": "Scientists Discover Energy and Pressure Analogies Linking Hadrons, Superconductors, and Cosmic Expansion",
+    "link": "https://science.osti.gov/np/Highlights/2024/6e",
+    "description": "From the microscopic world to the entire Universe, pressure and energy relate in a similar manner.",
+    "image_file": "figures/doe-science/Hadron_confinement_illustration.jpg"
+  },
+  {
+    "title": "Theory Offers a High-Resolution View of Quarks Inside Protons",
+    "link": "https://science.osti.gov/np/Highlights/2023/NP-2023-09-b",
+    "description": "Theorists predict differential distribution of 'up' and 'down' quarks within protons—and differential contributions to the proton's properties.",
+    "image_file": "figures/doe-science/NP-2023-09-b.jpg"
+  },
+  {
+    "title": "Calculation Shows Why Heavy Quarks Get Caught Up in the Flow",
+    "link": "https://science.osti.gov/np/Highlights/2023/NP-2023-08-b",
+    "description": "New results will help physicists interpret experimental data from particle collisions and better understand the interactions of quarks and gluons.",
+    "image_file": "figures/doe-science/NP-2023-08-b.jpg"
+  },
+  {
+    "title": "In Preparation for DUNE, Scientists Examine Modern Nuclear Theory for Neutrino Oscillation Physics",
+    "link": "https://science.osti.gov/np/Highlights/2023/NP-2023-07-d",
+    "description": "Modern nuclear theory predicts that nucleons appear less “squishy” when probed with neutrinos than was previously inferred from experimental data.",
+    "image_file": "figures/doe-science/NP-2023-07-d.jpg"
+  },
+  {
+    "title": "Getting to the Bottom of When the Smallest Meson Melts",
+    "link": "https://science.osti.gov/np/Highlights/2023/NP-2023-05-c",
+    "description": "Calculations predict the temperature at which bottomonium melts in the hot matter created in heavy ion collisions.",
+    "image_file": "figures/doe-science/NP-2023-05-c.jpg"
+  },
+  {
+    "title": "A Low-Energy ‘Off Switch’ for Quark-Gluon Plasma",
+    "link": "https://science.osti.gov/np/Highlights/2023/NP-2023-05-a",
+    "description": "Data on protons emitted from wide range of gold-gold collision energies shows absence of a quark-gluon plasma (QGP) at the lowest energy.",
+    "image_file": "figures/doe-science/NP-2023-05-a.jpeg"
+  },
+  {
+    "title": "Supercomputer Calculations May Give First Look at the Structure of Two-Faced Pions",
+    "link": "https://science.osti.gov/np/Highlights/2021/NP-2021-03-c",
+    "description": "Nuclear theorists put pen to paper and code to computer to detail this subatomic particle’s inner structure.",
+    "image_file": "figures/doe-science/NP-2021-03-c.jpg"
+  },
+  {
+    "title": "Highest Precision Prediction of Muon “Wobble”",
+    "link": "https://science.osti.gov/hep/Highlights/2018/HEP-2018-08-a",
+    "description": "Comparing new prediction to measurements of muons’ precession could potentially help scientists discover new subatomic particles.",
+    "image_file": "figures/doe-science/HEP-2018-08-a-lrg.jpg"
+  },
+  {
+    "title": "Supercomputing on a Budget",
+    "link": "https://science.osti.gov/np/Highlights/2013/NP-2013-06-a",
+    "description": "The optimization of commercial hardware and specialized software enables cost-effective supercomputing.",
+    "image_file": "figures/doe-science/k20-supercomputer-large.jpg"
+  },
+  {
+    "title": "Zeroing in on a Fundamental Property of the Proton’s Internal Dynamics",
+    "link": "https://science.osti.gov/np/Highlights/2023/NP-2023-04-a",
+    "description": "Theory and experiment combine to provide the most precise empirical extraction of the proton’s tensor charge, a fundamental property of the proton.",
+    "image_file": "figures/doe-science/NP-2023-04-a.jpg"
+  }
+]

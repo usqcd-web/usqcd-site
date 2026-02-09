@@ -1,0 +1,27 @@
+{
+  "executive_committee": [
+    { "name": "Thomas Blum", "role": "Chair" },
+    { "name": "William Detmold", "role": "Deputy Chair" },
+    { "name": "Peter Boyle", "role": "Member" },
+    { "name": "Martha Constantinou", "role": "Member" },
+    { "name": "Carleton DeTar", "role": "Member" },
+    { "name": "Robert Edwards", "role": "Member" },
+    { "name": "Anna Hasenfratz", "role": "Member" },
+    { "name": "Andreas Kronfeld", "role": "Member" },
+    { "name": "Huey-Wen Lin", "role": "Member" },
+    { "name": "Stefan Meinel", "role": "Member (also SPC Chair)" },
+    { "name": "Kostas Orginos", "role": "Member" }
+  ],
+  "scientific_program_committee": [
+    { "name": "Stefan Meinel", "role": "Chair" },
+    { "name": "Zohreh Davoudi", "role": "Member" },
+    { "name": "Christopher Kelly", "role": "Member" },
+    { "name": "Christopher Monahan", "role": "Member" },
+    { "name": "Peter Petreczky", "role": "Member" },
+    { "name": "James Simone", "role": "Member" }
+  ],
+  "source": {
+    "url": "https://www.usqcd.org/collaboration.html",
+    "last_verified": "2026-02-08"
+  }
+}

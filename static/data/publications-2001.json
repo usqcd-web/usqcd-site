@@ -1,0 +1,3767 @@
+{
+  "generated": "2026-02-08T20:52:28.962374+00:00Z",
+  "count": 115,
+  "publications": [
+    {
+      "id": "hep-lat/0112045v1",
+      "title": "Application of heavy-quark effective theory to lattice QCD: III. Radiative corrections to heavy-heavy currents",
+      "summary": "We apply heavy-quark effective theory (HQET) to separate long- and short-distance effects of heavy quarks in lattice gauge theory. In this paper we focus on flavor-changing currents that mediate transitions from one heavy flavor to another. We stress differences in the formalism for heavy-light currents, which are discussed in a companion paper, showing how HQET provides a systematic matching procedure. We obtain one-loop results for the matching factors of lattice currents, needed for heavy-quark phenomenology, such as the calculation of zero-recoil form factors for the semileptonic decays $B\\to D^{(*)}lν$. Results for the Brodsky-Lepage-Mackenzie scale $q^*$ are also given.",
+      "authors": [
+        "Junpei Harada",
+        "Shoji Hashimoto",
+        "Andreas S. Kronfeld",
+        "Tetsuya Onogi"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112045v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112045v1",
+      "published": "2001-12-20T20:03:51Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "568743",
+        "inspire_url": "https://inspirehep.net/literature/568743",
+        "doi": "10.1103/PhysRevD.65.094514",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "094514",
+            "year": 2002
+          }
+        ],
+        "citation_count": 58,
+        "journal_ref": "Phys.Rev.D, 65, artid 094514, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0112044v2",
+      "title": "Application of heavy-quark effective theory to lattice QCD: II. Radiative corrections to heavy-light currents",
+      "summary": "We apply heavy-quark effective theory to separate long- and short-distance effects of heavy quarks in lattice gauge theory. In this approach, the inverse heavy-quark mass and the lattice spacing are treated as short distances, and their effects are lumped into short-distance coefficients. We show how to use this formalism to match lattice gauge theory to continuum QCD, order by order in the heavy-quark expansion. In this paper, we focus on heavy-light currents. In particular, we obtain one-loop results for the matching factors of lattice currents, needed for heavy-quark phenomenology, such as the calculation of heavy-light decay constants, and heavy-to-light transition form factors. Results for the Brodsky-Lepage-Mackenzie scale $q^*$ are also given.",
+      "authors": [
+        "Junpei Harada",
+        "Shoji Hashimoto",
+        "Ken-Ichi Ishikawa",
+        "Andreas S. Kronfeld",
+        "Tetsuya Onogi",
+        "Norikazu Yamada"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112044v2",
+      "link": "https://arxiv.org/abs/hep-lat/0112044v2",
+      "published": "2001-12-20T19:54:46Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "568742",
+        "inspire_url": "https://inspirehep.net/literature/568742",
+        "doi": "10.1103/PhysRevD.71.019903",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "094513",
+            "year": 2002
+          },
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "71",
+            "artid": "019903",
+            "year": 2005
+          }
+        ],
+        "citation_count": 76,
+        "journal_ref": "Phys.Rev.D, 65, artid 094513, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0112040v1",
+      "title": "A Lattice Study of the Magnetic Moment and the Spin Structure of the Nucleon",
+      "summary": "Using an approach free from momentum extrapolation, we calculate the nucleon magnetic moment and the fraction of the nucleon spin carried by the quark angular momentum in the quenched lattice QCD approximation. Quarks with three values of lattice masses, 210, 124 and 80 MeV, are formulated on the lattice using the standard Wilson approach. At every mass, 100 gluon configurations on 16^3 x 32 lattice with β=6.0 are used for statistical averaging. The results are compared with the previous calculations with momentum extrapolation. The contribution of the disconnected diagrams is studied at the largest quark mass using noise theory technique.",
+      "authors": [
+        "Valeriya Gadiyak",
+        "Xiangdong Ji",
+        "Chulwoo Jung"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112040v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112040v1",
+      "published": "2001-12-19T21:17:56Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "568738",
+        "inspire_url": "https://inspirehep.net/literature/568738",
+        "doi": "10.1103/PhysRevD.65.094510",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "094510",
+            "year": 2002
+          }
+        ],
+        "citation_count": 30,
+        "journal_ref": "Phys.Rev.D, 65, artid 094510, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0112039v1",
+      "title": "Cost of dynamical quark simulations with improved staggered quarks",
+      "summary": "The cost of dynamical quark simulations with improved staggered quarks is estimated based on current and planned running by the MILC collaboration. I find that a few 10s of Teraflop years should be sufficient to calculate down to a lattice spacing of 0.045 fm.",
+      "authors": [
+        "Steven Gottlieb"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112039v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112039v1",
+      "published": "2001-12-19T17:27:36Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "568674",
+        "inspire_url": "https://inspirehep.net/literature/568674",
+        "doi": "10.1016/S0920-5632(01)01659-0",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "189",
+            "year": 2002,
+            "page_end": "190"
+          }
+        ],
+        "citation_count": 7,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 189, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0112038v1",
+      "title": "Benchmarking and tuning the MILC code on clusters and supercomputers",
+      "summary": "Recently, we have benchmarked and tuned the MILC code on a number of architectures including Intel Itanium and Pentium IV (PIV), dual-CPU Athlon, and the latest Compaq Alpha nodes. Results will be presented for many of these, and we shall discuss some simple code changes that can result in a very dramatic speedup of the KS conjugate gradient on processors with more advanced memory systems such as PIV, IBM SP and Alpha.",
+      "authors": [
+        "Steven Gottlieb"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112038v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112038v1",
+      "published": "2001-12-19T17:17:33Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "568673",
+        "inspire_url": "https://inspirehep.net/literature/568673",
+        "doi": "10.1016/S0920-5632(01)01918-1",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "1031",
+            "year": 2002,
+            "page_end": "1033"
+          }
+        ],
+        "citation_count": 5,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 1031, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0112033v1",
+      "title": "The Kentucky Noisy Monte Carlo Algorithm for Wilson Dynamical Fermions",
+      "summary": "We develop an implementation for a recently proposed Noisy Monte Carlo approach to the simulation of lattice QCD with dynamical fermions by incorporating the full fermion determinant directly. Our algorithm uses a quenched gauge field update with a shifted gauge coupling to minimize fluctuations in the trace log of the Wilson Dirac matrix. The details of tuning the gauge coupling shift as well as results for the distribution of noisy estimators in our implementation are given. We present data for some basic observables from the noisy method, as well as acceptance rate information and discuss potential autocorrelation and sign violation effects. Both the results and the efficiency of the algorithm are compared against those of Hybrid Monte Carlo.\n  PACS Numbers: 12.38.Gc, 11.15.Ha, 02.70.Uu Keywords: Noisy Monte Carlo, Lattice QCD, Determinant, Finite Density, QCDSP",
+      "authors": [
+        "B. Joo",
+        "I. Horvath",
+        "K. F. Liu"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112033v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112033v1",
+      "published": "2001-12-19T03:50:28Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "568668",
+        "inspire_url": "https://inspirehep.net/literature/568668",
+        "doi": "10.1103/PhysRevD.67.074505",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "67",
+            "artid": "074505",
+            "year": 2003
+          }
+        ],
+        "citation_count": 19,
+        "journal_ref": "Phys.Rev.D, 67, artid 074505, 2003"
+      }
+    },
+    {
+      "id": "hep-lat/0112031v2",
+      "title": "Excited nucleon spectrum using a non-perturbatively improved clover fermion action",
+      "summary": "We discuss the extraction of negative-parity baryon masses from lattice QCD calculations. The mass of the lowest-lying negative-parity $J = 1/2^{-}$ state is computed in quenched lattice QCD using an ${\\cal O}(a)$-improved clover fermion action, and a splitting found with the nucleon mass. The calculation is performed on two lattice volumes, and three lattice spacings enabling a study of both finite-volume and finite-lattice-spacing uncertainties. A measurement of the first excited radial excitation of the nucleon finds a mass considerably larger than that of the negative-parity ground state, in accord with other lattice determinations but in disagreement with experiment. Results are also presented for the lightest negative-parity $I=3/2$ state.",
+      "authors": [
+        " LHPC Collaboration",
+        "D. G. Richards",
+        "QCDSF Collaboration",
+        " :",
+        "M. Gockeler",
+        "R. Horsley",
+        "D. Pleiter",
+        "P. E. L. Rakow",
+        "G. Schierholz",
+        "UKQCD Collaboration",
+        " :",
+        "C. M. Maynard"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112031v2",
+      "link": "https://arxiv.org/abs/hep-lat/0112031v2",
+      "published": "2001-12-18T22:28:40Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "568666",
+        "inspire_url": "https://inspirehep.net/literature/568666",
+        "doi": "10.1016/S0920-5632(02)01395-6",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "109",
+            "page_start": "89",
+            "year": 2002,
+            "page_end": "95"
+          },
+          {
+            "page_start": "89",
+            "page_end": "95"
+          }
+        ],
+        "citation_count": 32,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 109, p. 89, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0112029v3",
+      "title": "Is strong CP invariance due to a massless up quark?",
+      "summary": "A standing mystery in the Standard Model is the unnatural smallness of the strong CP violating phase. A massless up quark has long been proposed as one potential solution. A lattice calculation of the constants of the chiral Lagrangian essential for the determination of the up quark mass, 2 alpha_8 - alpha_5, is presented. We find 2 alpha_8 - alpha_5 = 0.29 +/- 0.18, which corresponds to m_u / m_d = 0.410 +/- 0.036. This is the first such calculation using a physical number of dynamical light quarks, N_f = 3.",
+      "authors": [
+        "Daniel R. Nelson",
+        "George T. Fleming",
+        "Gregory W. Kilcup"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112029v3",
+      "link": "https://arxiv.org/abs/hep-lat/0112029v3",
+      "published": "2001-12-18T06:11:39Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "568509",
+        "inspire_url": "https://inspirehep.net/literature/568509",
+        "doi": "10.1103/PhysRevLett.90.021601",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "90",
+            "artid": "021601",
+            "year": 2003
+          }
+        ],
+        "citation_count": 50,
+        "journal_ref": "Phys.Rev.Lett., 90, artid 021601, 2003"
+      }
+    },
+    {
+      "id": "hep-lat/0112026v1",
+      "title": "Cost-Effective Clustering",
+      "summary": "Small Beowulf clusters can effectively serve as personal or group supercomputers. In such an environment, a cluster can be optimally designed for a specific problem (or a small set of codes). We discuss how theoretical analysis of the code and benchmarking on similar hardware lead to optimal systems.",
+      "authors": [
+        "Steven Gottlieb"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112026v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112026v1",
+      "published": "2001-12-17T21:26:33Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "568506",
+        "inspire_url": "https://inspirehep.net/literature/568506",
+        "doi": "10.1016/S0010-4655(01)00312-5",
+        "publication_info": [
+          {
+            "journal_title": "Comput.Phys.Commun.",
+            "journal_volume": "142",
+            "page_start": "43",
+            "year": 2001,
+            "page_end": "48"
+          },
+          {}
+        ],
+        "citation_count": 6,
+        "journal_ref": "Comput.Phys.Commun., 142, p. 43, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0112025v1",
+      "title": "Testing a Fourier Accelerated Hybrid Monte Carlo Algorithm",
+      "summary": "We describe a Fourier Accelerated Hybrid Monte Carlo algorithm suitable for dynamical fermion simulations of non-gauge models. We test the algorithm in supersymmetric quantum mechanics viewed as a one-dimensional Euclidean lattice field theory. We find dramatic reductions in the autocorrelation time of the algorithm in comparison to standard HMC.",
+      "authors": [
+        "S. Catterall",
+        "S. Karamov"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112025v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112025v1",
+      "published": "2001-12-17T20:52:58Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "568390",
+        "inspire_url": "https://inspirehep.net/literature/568390",
+        "doi": "10.1016/S0370-2693(02)01217-0",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "528",
+            "page_start": "301",
+            "year": 2002,
+            "page_end": "305"
+          }
+        ],
+        "citation_count": 27,
+        "journal_ref": "Phys.Lett.B, 528, p. 301, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0112023v1",
+      "title": "Bayesian curve fitting for lattice gauge theorists",
+      "summary": "A new method of extracting the low-lying energy spectrum from Monte Carlo estimates of Euclidean-space correlation functions which incorporates Bayesian inference is described and tested. The procedure fully exploits the information present in the correlation functions at small temporal separations and uses this information in a way consistent with fundamental probabilistic hypotheses. The computed errors on the best-fit energies include both statistical uncertainties and systematic errors associated with the treatment of contamination from higher-lying stationary states. Difficulties in performing the integrals needed to compute these error estimates are briefly discussed.",
+      "authors": [
+        "Colin Morningstar"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112023v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112023v1",
+      "published": "2001-12-17T16:17:57Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "568388",
+        "inspire_url": "https://inspirehep.net/literature/568388",
+        "doi": "10.1016/S0920-5632(02)01413-5",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "109",
+            "page_start": "185",
+            "year": 2002,
+            "page_end": "191"
+          },
+          {
+            "page_start": "185",
+            "page_end": "191"
+          }
+        ],
+        "citation_count": 37,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 109, p. 185, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0112004v1",
+      "title": "Is the Graviton a Domain Wall Glueball?",
+      "summary": "Strong coupling calculations for the glueball spectrum in an $AdS^7$ black hole are modified by introducing an UV cut-off at a Planck brane. A new normalizable state in the tensor spectrum is found which reproduces Einstein-Hilbert gravity up to exponentially small corrections due to off shell mixing with massive glueballs.",
+      "authors": [
+        "Richard C. Brower"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0112004v1",
+      "link": "https://arxiv.org/abs/hep-lat/0112004v1",
+      "published": "2001-12-03T22:18:29Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "567718",
+        "inspire_url": "https://inspirehep.net/literature/567718",
+        "doi": "10.1016/S0920-5632(01)01915-6",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "1016",
+            "year": 2002,
+            "page_end": "1018"
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 1016, 2002"
+      }
+    },
+    {
+      "id": "hep-ph/0111376v1",
+      "title": "Lattice QCD and the Unitarity Triangle",
+      "summary": "Theoretical and computational advances in lattice calculations are reviewed, with focus on examples relevant to the unitarity triangle of the CKM matrix. Recent progress in semi-leptonic form factors for B -> pi l nu and B -> D* l nu, as well as the parameter ξin B-Bbar mixing, are highlighted.",
+      "authors": [
+        "Andreas S. Kronfeld"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0111376v1",
+      "link": "https://arxiv.org/abs/hep-ph/0111376v1",
+      "published": "2001-11-28T14:47:36Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "567362",
+        "inspire_url": "https://inspirehep.net/literature/567362",
+        "doi": "10.1063/1.1478865",
+        "publication_info": [
+          {
+            "journal_title": "AIP Conf.Proc.",
+            "journal_volume": "618",
+            "page_start": "459",
+            "year": 2002,
+            "journal_issue": "1",
+            "page_end": "469"
+          }
+        ],
+        "citation_count": 9,
+        "journal_ref": "AIP Conf.Proc., 618, p. 459, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111055v1",
+      "title": "Probing the QCD vacuum with overlap fermions",
+      "summary": "We use low lying eigenvectors of the overlap-Dirac operator as a probe of the QCD vacuum. If instantons play a significant role one would expect the low lying eigenmodes of the overlap-Dirac operator to consist mainly of the mixed ``would be zero modes''. Then, the eigenmodes should exhibit local chirality. Studying a recently introduced local chirality parameter, we find evidence supporting this picture.",
+      "authors": [
+        "Robert G. Edwards",
+        "Urs M. Heller"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111055v1",
+      "link": "https://arxiv.org/abs/hep-lat/0111055v1",
+      "published": "2001-11-28T01:49:33Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "567340",
+        "inspire_url": "https://inspirehep.net/literature/567340",
+        "doi": "10.1016/S0920-5632(02)01401-9",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "109",
+            "page_start": "124",
+            "year": 2002,
+            "page_end": "128"
+          },
+          {
+            "page_start": "124",
+            "page_end": "128"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 109, p. 124, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111054v1",
+      "title": "Unquenched Studies Using the Truncated Determinant Algorithm",
+      "summary": "A truncated determinant algorithm is used to study the physical effects of the quark eigenmodes associated with eigenvalues below 420 MeV. This initial high statistics study focuses on coarse ($6^4$) lattices (with O($a^2$) improved gauge action), light internal quark masses and large physical volumes. Three features of full QCD are examined: topological charge distributions, string breaking as observed in the static energy and the eta prime mass.",
+      "authors": [
+        "A. Duncan",
+        "E. Eichten",
+        "H. Thacker"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111054v1",
+      "link": "https://arxiv.org/abs/hep-lat/0111054v1",
+      "published": "2001-11-27T22:55:03Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "567339",
+        "inspire_url": "https://inspirehep.net/literature/567339",
+        "doi": "10.1016/S0920-5632(01)01781-9",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "572",
+            "year": 2002,
+            "page_end": "574"
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 572, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111051v3",
+      "title": "Chiral Logs in the Presence of Staggered Flavor Symmetry Breaking",
+      "summary": "Chiral logarithms in $m_π^2$ are calculated at one loop, taking into account the leading contributions to flavor symmetry breaking due to staggered fermions. I treat both the full QCD case (2+1 light dynamical flavors) and the quenched case; finite volume corrections are included. My starting point is the effective chiral Lagrangian introduced by Lee and Sharpe. It is necessary to understand the one-loop diagrams in the ``quark flow'' picture in order to adjust the calculation to correspond to the desired number of dynamical quarks.",
+      "authors": [
+        "C. Bernard"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111051v3",
+      "link": "https://arxiv.org/abs/hep-lat/0111051v3",
+      "published": "2001-11-26T19:12:33Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "567191",
+        "inspire_url": "https://inspirehep.net/literature/567191",
+        "doi": "10.1103/PhysRevD.65.054031",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "054031",
+            "year": 2002
+          }
+        ],
+        "citation_count": 122,
+        "journal_ref": "Phys.Rev.D, 65, artid 054031, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111050v1",
+      "title": "Baryons in Partially Quenched Chiral Perturbation Theory",
+      "summary": "We include the lowest-lying octet- and decuplet-baryons into partially quenched chiral perturbation theory. Perturbing about the chiral limit of the graded SU(6|3)_L x SU(6|3)_R flavor group of partially quenched QCD, we compute the leading one-loop contributions to the octet-baryon masses, magnetic moments and matrix elements of isovector twist-2 operators. We work in the isospin limit and keep two of the three sea quarks degenerate. The usefulness of the non-unique extension of the electric charge matrix and the isovector twist-2 operators from QCD to partially quenched QCD is discussed.",
+      "authors": [
+        "Jiunn-Wei Chen",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111050v1",
+      "link": "https://arxiv.org/abs/hep-lat/0111050v1",
+      "published": "2001-11-26T01:55:35Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "567190",
+        "inspire_url": "https://inspirehep.net/literature/567190",
+        "doi": "10.1103/PhysRevD.65.094001",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "094001",
+            "year": 2002
+          }
+        ],
+        "citation_count": 95,
+        "journal_ref": "Phys.Rev.D, 65, artid 094001, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111019v1",
+      "title": "The Relationship of the Laplacian Gauge to the Landau Gauge",
+      "summary": "The Laplacian gauge for gauge group SU(N) is discussed in perturbation theory. It is shown that to the lowest non-trivial order, O(g^1), configurations in the Laplacian gauge automatically satisfy the (finite difference) Landau gauge condition. Laplacian gauge fixed configurations are examined numerically and it is seen that to O(g^2) they do not remain in the Landau gauge.",
+      "authors": [
+        "Jeffrey E. Mandula"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111019v1",
+      "link": "https://arxiv.org/abs/hep-lat/0111019v1",
+      "published": "2001-11-12T17:22:50Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "566215",
+        "inspire_url": "https://inspirehep.net/literature/566215",
+        "doi": "10.1016/S0920-5632(01)01909-0",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "998",
+            "year": 2002,
+            "page_end": "1000"
+          }
+        ],
+        "citation_count": 3,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 998, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111014v1",
+      "title": "Physics development of web-based tools for use in hardware clusters doing lattice physics",
+      "summary": "Jefferson Lab and MIT are developing a set of web-based tools within the Lattice Hadron Physics Collaboration to allow lattice QCD theorists to treat the computational facilities located at the two sites as a single meta-facility. The prototype Lattice Portal provides researchers the ability to submit jobs to the cluster, browse data caches, and transfer files between cache and off-line storage. The user can view the configuration of the PBS servers and to monitor both the status of all batch queues as well as the jobs in each queue. Work is starting on expanding the present system to include job submissions at the meta-facility level (shared queue), as well as multi-site file transfers and enhanced policy-based data management capabilities.",
+      "authors": [
+        "P. Dreher",
+        "W. Akers",
+        "J. Chen",
+        "Y. Chen",
+        "C. Watson"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111014v1",
+      "link": "https://arxiv.org/abs/hep-lat/0111014v1",
+      "published": "2001-11-08T22:32:36Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "566132",
+        "inspire_url": "https://inspirehep.net/literature/566132",
+        "doi": "10.1016/S0920-5632(01)01921-1",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "1040",
+            "year": 2002,
+            "page_end": "1042"
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 1040, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111009v2",
+      "title": "Topology and Low Lying Fermion Modes",
+      "summary": "Recent results concerning the relation of topology and low-lying fermion modes are summarized.",
+      "authors": [
+        "Robert G. Edwards"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111009v2",
+      "link": "https://arxiv.org/abs/hep-lat/0111009v2",
+      "published": "2001-11-08T07:16:34Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "565990",
+        "inspire_url": "https://inspirehep.net/literature/565990",
+        "doi": "10.1016/S0920-5632(01)01641-3",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "38",
+            "year": 2002,
+            "page_end": "46"
+          }
+        ],
+        "citation_count": 17,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 38, 2002"
+      }
+    },
+    {
+      "id": "hep-ph/0111048v2",
+      "title": "Leading Chiral Contributions to the Spin Structure of the Proton",
+      "summary": "The leading chiral contributions to the quark and gluon components of the proton spin are calculated using heavy-baryon chiral perturbation theory. Similar calculations are done for the moments of the generalized parton distributions relevant to the quark and gluon angular momentum densities. These results provide useful insight about the role of pions in the spin structure of the nucleon, and can serve as a guidance for extrapolating lattice QCD calculations at large quark masses to the chiral limit.",
+      "authors": [
+        "Jiunn-Wei Chen",
+        "Xiangdong Ji"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0111048v2",
+      "link": "https://arxiv.org/abs/hep-ph/0111048v2",
+      "published": "2001-11-06T19:50:59Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "565721",
+        "inspire_url": "https://inspirehep.net/literature/565721",
+        "doi": "10.1103/PhysRevLett.88.052003",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "88",
+            "artid": "052003",
+            "year": 2002
+          }
+        ],
+        "citation_count": 76,
+        "journal_ref": "Phys.Rev.Lett., 88, artid 052003, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111004v2",
+      "title": "Weak matrix elements for CP violation",
+      "summary": "We present preliminary results of matrix elements of four-fermion operators relevant to the determination of e and e'/e using staggered fermions.",
+      "authors": [
+        "T. Bhattacharya",
+        "G. T. Fleming",
+        "G. Kilcup",
+        "R. Gupta",
+        "W. Lee",
+        "S. Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111004v2",
+      "link": "https://arxiv.org/abs/hep-lat/0111004v2",
+      "published": "2001-11-04T20:40:07Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "565521",
+        "inspire_url": "https://inspirehep.net/literature/565521",
+        "doi": "10.1016/S0920-5632(01)01698-X",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "311",
+            "year": 2002,
+            "page_end": "313"
+          }
+        ],
+        "citation_count": 23,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 311, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111002v1",
+      "title": "Renormalization constants using quark states in Landau gauge",
+      "summary": "We show that given one O(a) improvement constant, b_m, all the remaining quantities needed to define the renormalized and O(a) improved dimension-3 quark bilinears can be obtained by studying the matrix elements of these operators between external quark states in a fixed gauge.",
+      "authors": [
+        "Tanmoy Bhattacharya",
+        "Rajan Gupta",
+        "Weonjong Lee"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111002v1",
+      "link": "https://arxiv.org/abs/hep-lat/0111002v1",
+      "published": "2001-11-02T20:44:03Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "565442",
+        "inspire_url": "https://inspirehep.net/literature/565442",
+        "doi": "10.1016/S0920-5632(01)01843-6",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "786",
+            "year": 2002,
+            "page_end": "788"
+          }
+        ],
+        "citation_count": 4,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 786, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0111001v1",
+      "title": "Scaling behavior of improvement and renormalization constants",
+      "summary": "This talk summarizes results for all the scale independent renormalization constants for bilinear currents ($Z_A$, $Z_V$, and $Z_S/Z_P$), the improvement constants ($c_A$, $c_V$, and $c_T$), the quark mass dependence of $Z_O$, and the coefficients of the equation of motion operators for $O(a)$ improved lattice QCD. Using data at $β=6.0$, 6.2 and 6.4 we study the scaling behavior of these quantities and quantify residual discretization errors.",
+      "authors": [
+        "Tanmoy Bhattacharya",
+        "Rajan Gupta",
+        "Weonjong Lee",
+        "Stephen Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0111001v1",
+      "link": "https://arxiv.org/abs/hep-lat/0111001v1",
+      "published": "2001-11-02T20:32:36Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "565441",
+        "inspire_url": "https://inspirehep.net/literature/565441",
+        "doi": "10.1016/S0920-5632(01)01844-8",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "789",
+            "year": 2002,
+            "page_end": "791"
+          }
+        ],
+        "citation_count": 23,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 789, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110215v1",
+      "title": "From Spin Ladders to the 2-d O(3) Model at Non-Zero Density",
+      "summary": "The numerical simulation of various field theories at non-zero chemical potential suffers from severe complex action problems. In particular, QCD at non-zero quark density can presently not be simulated for that reason. A similar complex action problem arises in the 2-d O(3) model -- a toy model for QCD. Here we construct the 2-d O(3) model at non-zero density via dimensional reduction of an antiferromagnetic quantum spin ladder in a magnetic field. The complex action problem of the 2-d O(3) model manifests itself as a sign problem of the ladder system. This sign problem is solved completely with a meron-cluster algorithm.",
+      "authors": [
+        "S. Chandrasekharan",
+        "B. Scarlet",
+        "U. -J. Wiese"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110215v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110215v1",
+      "published": "2001-10-29T22:23:59Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "565224",
+        "inspire_url": "https://inspirehep.net/literature/565224",
+        "doi": "10.1016/S0010-4655(02)00311-9",
+        "publication_info": [
+          {
+            "journal_title": "Comput.Phys.Commun.",
+            "journal_volume": "147",
+            "page_start": "388",
+            "year": 2002,
+            "page_end": "393"
+          },
+          {}
+        ],
+        "citation_count": 17,
+        "journal_ref": "Comput.Phys.Commun., 147, p. 388, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110208v2",
+      "title": "A Lattice Calculation of Thermal Dilepton Rates",
+      "summary": "Using clover improved Wilson fermions we calculate thermal vector meson correlation functions above the deconfinement phase transition of quenched QCD. At temperatures 1.5 Tc and 3Tc they are found to differ by less than 15% from that of a freely propagating quark anti-quark pair. This puts severe constraints on the dilepton production rate and in particular rules out a strong divergence of the dilepton rate at low energies. The vector spectral function, which has been reconstructed using the Maximum Entropy Method, yields an enhancement of the dilepton rate over the Born rate of at most a factor two in the energy interval 4 < E/T < 8 and suggests that the spectrum is cut-off at low energies by a thermal mass threshold of about (2-3)T.",
+      "authors": [
+        "F. Karsch",
+        "E. Laermann",
+        "P. Petreczky",
+        "S. Stickan",
+        "I. Wetzorke"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110208v2",
+      "link": "https://arxiv.org/abs/hep-lat/0110208v2",
+      "published": "2001-10-27T14:05:12Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "565151",
+        "inspire_url": "https://inspirehep.net/literature/565151",
+        "doi": "10.1016/S0370-2693(02)01326-6",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "530",
+            "page_start": "147",
+            "year": 2002,
+            "page_end": "152"
+          }
+        ],
+        "citation_count": 164,
+        "journal_ref": "Phys.Lett.B, 530, p. 147, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110194v1",
+      "title": "The anti-B --> D* lepton anti-neutrino form factor at zero recoil and the determination of V(cb)",
+      "summary": "We summarize our lattice QCD study of the form factor at zero recoil in the decay anti-B --> D* lepton anti-neutrino. After careful consideration of all sources of systematic uncertainty, we find,\n  h_A1(1) = 0.913(+0.024-0.017)(+0.017-0.030), where the first uncertainty is from statistics and fitting while the second combined uncertainty is from all other systematic effects.",
+      "authors": [
+        "J. N. Simone",
+        "S. Hashimoto",
+        "A. S. Kronfeld",
+        "P. B. Mackenzie",
+        "S. M. Ryan"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110194v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110194v1",
+      "published": "2001-10-24T15:30:10Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564825",
+        "inspire_url": "https://inspirehep.net/literature/564825",
+        "doi": "10.1016/S0920-5632(01)01725-X",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "394",
+            "year": 2002,
+            "page_end": "396"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 394, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110175v1",
+      "title": "Constrained Curve Fitting",
+      "summary": "We survey techniques for constrained curve fitting, based upon Bayesian statistics, that offer significant advantages over conventional techniques used by lattice field theorists.",
+      "authors": [
+        "G. P. Lepage",
+        "B. Clark",
+        "C. T. H. Davies",
+        "K. Hornbostel",
+        "P. B. Mackenzie",
+        "C. Morningstar",
+        "H. Trottier"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110175v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110175v1",
+      "published": "2001-10-20T02:16:21Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564688",
+        "inspire_url": "https://inspirehep.net/literature/564688",
+        "doi": "10.1016/S0920-5632(01)01638-3",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "12",
+            "year": 2002,
+            "page_end": "20"
+          }
+        ],
+        "citation_count": 339,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 12, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110172v1",
+      "title": "Staggered domain wall fermions",
+      "summary": "Staggered Domain Wall Fermions (SDWF) combine the attractive chiral properties of staggered fermions with those of domain wall fermions. SDWF describe four flavors with exact U(1)xU(1) flavor chiral symmetry. An extra lattice dimension is introduced and the full SU(4)xSU(4) flavor chiral symmetry is recovered as its size is increased. Here, the free theory of SDWF is described and a preliminary discussion of the interacting case is presented. SDWF may be well suited for numerical simulation of lattice QCD thermodynamics.",
+      "authors": [
+        "G. T. Fleming",
+        "P. M. Vranas"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110172v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110172v1",
+      "published": "2001-10-19T19:26:09Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564638",
+        "inspire_url": "https://inspirehep.net/literature/564638",
+        "doi": "10.1016/S0920-5632(01)01828-X",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "724",
+            "year": 2002,
+            "page_end": "729"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 724, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110161v1",
+      "title": "Heavy-light physics using NRQCD-staggered actions",
+      "summary": "One leading source of uncertainty in the lattice computation of semi-leptonic form factors in B decay, and to a lesser extent B meson decay constants, comes from the extrapolation of the light quark mass to the physical up/down mass. This talk presents first explorations of simulating the light quark with staggered fermion actions, which are free of the spurious zero modes that effect Wilson-like Dirac operators and are less costly. Methods for fitting to Euclidean-time NRQCD-staggered meson propagators are discussed, and some preliminary spectrum results are presented.",
+      "authors": [
+        "Matthew Wingate",
+        "Junko Shigemitsu",
+        "G. Peter Lepage"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110161v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110161v1",
+      "published": "2001-10-18T15:38:31Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564577",
+        "inspire_url": "https://inspirehep.net/literature/564577",
+        "doi": "10.1016/S0920-5632(01)01720-0",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "379",
+            "year": 2002,
+            "page_end": "381"
+          }
+        ],
+        "citation_count": 3,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 379, 2002"
+      }
+    },
+    {
+      "id": "hep-ph/0110253v1",
+      "title": "Lattice calculation of the zero-recoil form factor of anti-B --> D* lepton anti-neutrino: toward a model independent determination of |V(cb)|",
+      "summary": "We develop a new method in lattice QCD to calculate the form factor F(1) at zero recoil. This is the main theoretical ingredient needed to determine |V(cb)| from the exclusive decay anti-B --> D* lepton anti-neutrino. We introduce three ratios, in which most of statistical and systematic error cancels, making a precise calculation possible. We fit the heavy-quark mass dependence directly, and extract the 1/m_Q^2 and three of the four 1/m_Q^3 corrections in the heavy-quark expansion. In this paper we show how the method works in the quenched approximation, obtaining F(1) = 0.913 (+0.024-0.017)(+/-0.016)(+0.003-0.014)(+0.000-0.016)(+0.006-0.014) where the uncertainties come, respectively, from statistics and fitting, matching lattice gauge theory to QCD, lattice spacing dependence, light quark mass effects, and the quenched approximation. We also discuss how to reduce these uncertainties and, thus, to obtain a model-independent determination of |V(cb)|.",
+      "authors": [
+        "Shoji Hashimoto",
+        "Andreas S. Kronfeld",
+        "Paul B. Mackenzie",
+        "Sinead M. Ryan",
+        "James N. Simone"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0110253v1",
+      "link": "https://arxiv.org/abs/hep-ph/0110253v1",
+      "published": "2001-10-18T14:39:45Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564589",
+        "inspire_url": "https://inspirehep.net/literature/564589",
+        "doi": "10.1103/PhysRevD.66.014503",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "66",
+            "artid": "014503",
+            "year": 2002
+          }
+        ],
+        "citation_count": 160,
+        "journal_ref": "Phys.Rev.D, 66, artid 014503, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110147v1",
+      "title": "Highly Improved Naive and Staggered Fermions",
+      "summary": "We present a new action for highly improved staggered fermions. We show that perturbative calculations for the new action are well-behaved where those of the conventional staggered action are badly behaved. We discuss the effects of the new terms in controlling flavor mixing, and discuss the design of operators for the action.",
+      "authors": [
+        "Howard D. Trottier",
+        "G. Peter Lepage",
+        "Paul B. Mackenzie",
+        "Quentin Mason",
+        "Matthew A. Nobes"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110147v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110147v1",
+      "published": "2001-10-16T20:41:33Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564513",
+        "inspire_url": "https://inspirehep.net/literature/564513",
+        "doi": "10.1016/S0920-5632(01)01866-7",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "856",
+            "year": 2002,
+            "page_end": "858"
+          }
+        ],
+        "citation_count": 9,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 856, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110146v1",
+      "title": "Large Field Cutoffs Make Perturbative Series Converge",
+      "summary": "For lambda phi^4 problems, convergent perturbative series can be obtained by cutting off the large field configurations. The modified series converge to values exponentially close to the exact ones. For lambda larger than some critical value, the method outperforms Pade approximants and Borel summations. We discuss some aspects of the semi-classical methods used to calculate the modified Feynman rules and estimate the error associated with the procedure. We provide a simple numerical example where the procedure works despite the fact that the Borel sum has singularities on the positive real axis.",
+      "authors": [
+        "Yannick Meurice"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110146v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110146v1",
+      "published": "2001-10-16T20:19:49Z",
+      "categories": [
+        "hep-lat",
+        "cond-mat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "564512",
+        "inspire_url": "https://inspirehep.net/literature/564512",
+        "doi": "10.1016/S0920-5632(01)01882-5",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "908",
+            "year": 2002,
+            "page_end": "910"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 908, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110145v1",
+      "title": "1/M correction to quenched QCD with non-zero baryon density",
+      "summary": "We study the κ^2 corrections to the quenched limit of μ>0 QCD. We use an improved reweighting procedure.",
+      "authors": [
+        "Gert Aarts",
+        "Olaf Kaczmarek",
+        "Frithjof Karsch",
+        "Ion-Olimpiu Stamatescu"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110145v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110145v1",
+      "published": "2001-10-16T18:06:56Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564444",
+        "inspire_url": "https://inspirehep.net/literature/564444",
+        "doi": "10.1016/S0920-5632(01)01745-5",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "456",
+            "year": 2002,
+            "page_end": "458"
+          }
+        ],
+        "citation_count": 22,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 456, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110143v1",
+      "title": "Hadron Spectrum for Quenched Domain-Wall Fermions with DBW2 Gauge Action",
+      "summary": "We investigate basic physical quantities for quenched simulation with domain-wall fermions and the DBW2 gauge action. Masses and decay constant of pseudoscalar mesons are measured. Scaling properties are tested.",
+      "authors": [
+        "Yasumichi Aoki",
+        "RBC collaboration"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110143v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110143v1",
+      "published": "2001-10-16T15:58:36Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564442",
+        "inspire_url": "https://inspirehep.net/literature/564442",
+        "doi": "10.1016/S0920-5632(01)01677-2",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "245",
+            "year": 2002,
+            "page_end": "247"
+          }
+        ],
+        "citation_count": 10,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 245, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110125v1",
+      "title": "Superconductivity and Chiral Symmetry Breaking with Fermion Clusters",
+      "summary": "Cluster variables have recently revolutionized numerical work in certain models involving fermionic variables. This novel representation of fermionic partition functions is continuing to find new applications. After describing results from a study of a two dimensional Hubbard type model that confirm a superconducting transition in the Kosterlitz-Thouless universality class, we show how a cluster type algorithm can be devised to study the chiral limit of strongly coupled lattice gauge theories with staggered fermions.",
+      "authors": [
+        "Shailesh Chandrasekharan"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110125v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110125v1",
+      "published": "2001-10-16T04:32:15Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564424",
+        "inspire_url": "https://inspirehep.net/literature/564424",
+        "doi": "10.1016/S0920-5632(01)01917-X",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "1025",
+            "year": 2002,
+            "page_end": "1027"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 1025, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110120v1",
+      "title": "Nonperturbative tuning of $O(a^2)$ improved staggered fermions",
+      "summary": "We perform a nonperturbative tuning of the coefficients in the $O(a^2)$ improved action for staggered fermions. The mass splitting for the pions of different doubler flavor is used as a measure of the symmetry breaking effects introduced by $O(a^2)$ discretization errors. We find that the flavor nondegeneracy can be somewhat reduced but not eliminated by such a tuning, indicating the need for new terms in the action to reduce the nondegeneracy.",
+      "authors": [
+        "Massimo Di Pierro",
+        "Paul Mackenzie"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110120v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110120v1",
+      "published": "2001-10-15T21:09:28Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564419",
+        "inspire_url": "https://inspirehep.net/literature/564419",
+        "doi": "10.1016/S0920-5632(01)01840-0",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "777",
+            "year": 2002,
+            "page_end": "779"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 777, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110118v2",
+      "title": "The Static Potential to O(α^2) in Lattice Perturbation Theory",
+      "summary": "We present a calculation of Wilson loops, and the static inter-quark potential to $O(α^2)$ in lattice perturbation theory. This is carried out with the Wilson, Symanzik-Weisz, and Iwasaki gauge actions and the Wilson, Sheikholeslami-Wohlert, and Kogut-Susskind dynamical fermion action for small Wilson loops, and with the Wilson gauge action and each of the dynamical quark actions in the case of the static potential.",
+      "authors": [
+        "Peter Boyle",
+        "Gunnar S Bali"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110118v2",
+      "link": "https://arxiv.org/abs/hep-lat/0110118v2",
+      "published": "2001-10-15T20:29:56Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564417",
+        "inspire_url": "https://inspirehep.net/literature/564417",
+        "doi": "10.1016/S0920-5632(01)01851-5",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "811",
+            "year": 2002,
+            "page_end": "813"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 811, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110112v1",
+      "title": "Is the Up Quark Massless?",
+      "summary": "Several lattice calculations of a combination of the low energy constants of the chiral Lagrangian, 2α_8-α_5, are presented. This combination is critical for the preclusion of a massless up quark. The result found is 2α_8-α_5 = 0.115 \\pm 0.051^{stat} \\pm 0.25^{syst}, which is well outside of the range allowed by a massless up quark.",
+      "authors": [
+        "Daniel R. Nelson",
+        "George T. Fleming",
+        "Greg W. Kilcup"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110112v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110112v1",
+      "published": "2001-10-15T17:37:29Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564321",
+        "inspire_url": "https://inspirehep.net/literature/564321",
+        "doi": "10.1016/S0920-5632(01)01669-3",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "221",
+            "year": 2002,
+            "page_end": "223"
+          }
+        ],
+        "citation_count": 9,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 221, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110075v2",
+      "title": "Kaon Matrix Elements and CP-violation from Quenched Lattice QCD: (I) the 3-flavor case",
+      "summary": "We report the results of a calculation of the K --> pi pi matrix elements relevant for the $\\DIhalf$ rule and $\\epe$ in quenched lattice QCD using domain wall fermions at a fixed lattice spacing $a^{-1} \\sim 2$ GeV. Working in the three-quark effective theory, where only the u, d and s quarks enter and which is known perturbatively to next-to-leading order, we calculate the lattice K --> pi and K --> |0> matrix elements of dimension six, four-fermion operators. Through lowest order chiral perturbation theory these yield K --> pi pi matrix elements, which we then normalize to continuum values through a non-perturbative renormalization technique. For the ratio of isospin amplitudes |A_0|/|A_2| we find a value of $25.3 \\pm 1.8$ (statistical error only) compared to the experimental value of 22.2, with individual isospin amplitudes 10-20% below the experimental values. For $\\epe$, using known central values for standard model parameters, we calculate $(-4.0 \\pm 2.3) \\times 10^{-4}$ (statistical error only) compared to the current experimental average of $(17.2 \\pm 1.8) \\times 10^{-4}$. Because we find a large cancellation between the I = 0 and I = 2 contributions to $\\epe$, the result may be very sensitive to the approximations employed. Among these are the use of: quenched QCD, lowest order chiral perturbation theory and continuum perturbation theory below 1.3 GeV. We have also calculated the kaon B parameter, B_K and find $B_{K,\\bar{MS}}(2 {\\rm GeV}) = 0.532(11)$. Although currently unable to give a reliable systematic error, we have control over statistical errors and more simulations will yield information about the effects of the approximations on this first-principles determination of these important quantities.",
+      "authors": [
+        "T. Blum",
+        "P. Chen",
+        "N. Christ",
+        "C. Cristian",
+        "C. Dawson",
+        "G. Fleming",
+        "R. Mawhinney",
+        "S. Ohta",
+        "G. Siegert",
+        "A. Soni",
+        "P. Vranas",
+        "M. Wingate",
+        "L. Wu",
+        "Y. Zhestkov",
+        "RBC Collaboration"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110075v2",
+      "link": "https://arxiv.org/abs/hep-lat/0110075v2",
+      "published": "2001-10-14T19:07:23Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "564286",
+        "inspire_url": "https://inspirehep.net/literature/564286",
+        "doi": "10.1103/PhysRevD.68.114506",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "68",
+            "artid": "114506",
+            "year": 2003
+          }
+        ],
+        "citation_count": 235,
+        "journal_ref": "Phys.Rev.D, 68, artid 114506, 2003"
+      }
+    },
+    {
+      "id": "hep-lat/0110072v1",
+      "title": "Heavy-light decay constants with three dynamical flavors",
+      "summary": "We present preliminary results for the heavy-light leptonic decay constants in the presence of three light dynamical flavors. We generate dynamical configurations with improved staggered and gauge actions and analyze them for heavy-light physics with tadpole improved clover valence quarks. When the scale is set by $m_ρ$, we find an increase of approximately 23% in $f_B$ with three dynamical flavors over the quenched case. Discretization errors appear to be small (of order 3% or less) in the quenched case but have not yet been measured in the dynamical case.",
+      "authors": [
+        "C. Bernard",
+        "T. Burch",
+        "S. Datta",
+        "T. DeGrand",
+        "C. DeTar",
+        "Steven Gottlieb",
+        "Urs M. Heller",
+        "K. Orginos",
+        "R. Sugar",
+        "D. Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110072v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110072v1",
+      "published": "2001-10-12T22:36:42Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564283",
+        "inspire_url": "https://inspirehep.net/literature/564283",
+        "doi": "10.1016/S0920-5632(01)01731-5",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "412",
+            "year": 2002,
+            "page_end": "414"
+          }
+        ],
+        "citation_count": 15,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 412, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110071v1",
+      "title": "A Two-Dimensional Lattice Model with Exact Supersymmetry",
+      "summary": "Starting from a simple discrete model which exhibits a supersymmetric invariance we construct a local, interacting, two-dimensional Euclidean lattice theory which also admits an exact supersymmetry. This model is shown to correspond to the Wess-Zumino model with extended N=2 supersymmetry in the continuum. We have performed dynamical fermion simulations to check the spectrum and supersymmetric Ward identities and find good agreement with theory.",
+      "authors": [
+        "S. Catterall",
+        "S. Karamov"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110071v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110071v1",
+      "published": "2001-10-12T22:18:18Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564282",
+        "inspire_url": "https://inspirehep.net/literature/564282",
+        "doi": "10.1016/S0920-5632(01)01890-4",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "935",
+            "year": 2002,
+            "page_end": "937"
+          }
+        ],
+        "citation_count": 32,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 935, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110067v1",
+      "title": "Thermodynamics with 3 and 2+1 Flavors of Improved Staggered Quarks",
+      "summary": "We present preliminary results from exploring the phase diagram of finite temperature QCD with three degenerate flavors and with two light flavors and the mass of the third held approximately at the strange quark mass. We use an order $α_s^2 a^2, a^4$ Symanzik improved gauge action and an order $α_s a^2, a^4$ improved staggered quark action. The improved staggered action leads to a dispersion relation with diminished lattice artifacts, and hence better thermodynamic properties. It decreases the flavor symmetry breaking of staggered quarks substantially, and we estimate that at the transition temperature for an $N_t=8$ to $N_t=10$ lattice {\\em all} pions will be lighter than the lightest kaon. Preliminary results on lattices with $N_t=4$, 6 and 8 are presented.",
+      "authors": [
+        "C. Bernard",
+        "T. Burch",
+        "S. Datta",
+        "T. A. DeGrand",
+        "C. E. DeTar",
+        "Steven Gottlieb",
+        "U. M. Heller",
+        "K. Orginos",
+        "R. L. Sugar",
+        "D. Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110067v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110067v1",
+      "published": "2001-10-12T16:57:13Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564216",
+        "inspire_url": "https://inspirehep.net/literature/564216",
+        "doi": "10.1016/S0920-5632(01)01736-4",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "429",
+            "year": 2002,
+            "page_end": "431"
+          }
+        ],
+        "citation_count": 6,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 429, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110066v1",
+      "title": "Susceptibility of Monte-Carlo Generated Projected Vortices",
+      "summary": "We determine the topological susceptibility from center projected vortices and demonstrate that the topological properties of the SU(2) Yang-Mills vacuum can be extracted from the vortex content. We eliminate spurious ultraviolet fluctuations by two different smoothing procedures. The extracted susceptibility is comparable to that obtained from full field configurations.",
+      "authors": [
+        "Roman Bertle",
+        "Michael Engelhardt",
+        "Manfried Faber"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110066v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110066v1",
+      "published": "2001-10-12T16:17:14Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564215",
+        "inspire_url": "https://inspirehep.net/literature/564215",
+        "doi": "10.1016/S0920-5632(01)01808-4",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "661",
+            "year": 2002,
+            "page_end": "663"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 661, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110053v1",
+      "title": "Nucleon axial charge from quenched lattice QCD with domain wall fermions and improved gauge action",
+      "summary": "In our previous DWF calculation with the Wilson gauge action at $β=6.0$ ($a^{-1}\\simeq$ 1.9 GeV) on a $16^3 \\times 32 \\times 16$ lattice, we found that $\\Ga$ had a fairly strong dependence on the quark mass. A simple linear extrapolation of $\\Ga$ to the chiral limit yielded a value that was almost a factor of two smaller than the experimental one. Here we report our recent study of this issue. In particular, we investigate possible errors arising from finite lattice volume, especially in the lighter quark mass region. We employ a RG-improved gauge action (DBW2), which maintains very good chiral behavior even on a coarse lattice ($a^{-1}\\simeq$ 1.3 GeV), in order to perform simulations at large physical volume ($> (2{\\rm fm})^3$). Our preliminary results suggest that the finite volume effect is significant.",
+      "authors": [
+        "Shoichi Sasaki",
+        "Tom Blum",
+        "Shigemi Ohta",
+        "Kostas Orginos"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110053v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110053v1",
+      "published": "2001-10-12T05:17:11Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564202",
+        "inspire_url": "https://inspirehep.net/literature/564202",
+        "doi": "10.1016/S0920-5632(01)01695-4",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "302",
+            "year": 2002,
+            "page_end": "304"
+          }
+        ],
+        "citation_count": 17,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 302, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110047v1",
+      "title": "Instabilities in Molecular Dynamics Integrators used in Hybrid Monte Carlo Simulations",
+      "summary": "We discuss an instability in the leapfrog integration algorithm, widely used in current Hybrid Monte Carlo (HMC) simulations of lattice QCD. We demonstrate the instability in the simple harmonic oscillator (SHO) system where it is manifest. We demonstrate the instability in HMC simulations of lattic QCD with dynamical Wilson-Clover fermions and discuss implications for future simulations of lattice QCD.",
+      "authors": [
+        "B. Joo",
+        "UKQCD Collaboration"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110047v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110047v1",
+      "published": "2001-10-11T16:18:27Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564104",
+        "inspire_url": "https://inspirehep.net/literature/564104",
+        "doi": "10.1016/S0920-5632(01)01932-6",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "1073",
+            "year": 2002,
+            "page_end": "1075"
+          }
+        ],
+        "citation_count": 5,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 1073, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110046v1",
+      "title": "Zero-modes of the QED Neuberger Dirac operator",
+      "summary": "We consider $4d$ compact lattice QED in the quenched approximation. First, we briefly summarize the spectrum of the staggered Dirac operator and its connection with random matrix theory. Afterwards we present results for the low-lying eigenmodes of the Neuberger overlap-Dirac operator. In the strong coupling phase we find exact zero-modes. Subsequently we discuss possibly related topological excitations of the U(1) lattice gauge theory.",
+      "authors": [
+        "Bernd A. Berg",
+        "Urs M. Heller",
+        "Harald Markum",
+        "Rainer Pullirsch",
+        "Wolfgang Sakuler"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110046v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110046v1",
+      "published": "2001-10-11T15:19:01Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564103",
+        "inspire_url": "https://inspirehep.net/literature/564103",
+        "doi": "10.1016/S0920-5632(01)01788-1",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "592",
+            "year": 2002,
+            "page_end": "597"
+          }
+        ],
+        "citation_count": 3,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 592, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110044v1",
+      "title": "Quenched Chiral Behavior of Hadrons with Overlap Fermions",
+      "summary": "We study the quenched chiral behavior of hadrons with the pseudoscalar mass as low as $\\approx 280$ MeV. We look for quenched chiral logs in the pion mass, determine the renormalized quark mass, and observe quenched artifacts in the $a_0$ and $N^*$ propagators. The calculation is done on a quenched lattice of size $20^4$ and $a = 0.148(2)$ fm using overlap fermions and an improved gauge action.",
+      "authors": [
+        "Shao-Jing Dong",
+        "Terrence Draper",
+        "Ivan Horvath",
+        "Frank Lee",
+        "Jianbo Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110044v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110044v1",
+      "published": "2001-10-11T14:34:22Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "564101",
+        "inspire_url": "https://inspirehep.net/literature/564101",
+        "doi": "10.1016/S0920-5632(01)01687-5",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "275",
+            "year": 2002,
+            "page_end": "277"
+          }
+        ],
+        "citation_count": 7,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 275, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110037v1",
+      "title": "Topological Charge Fluctuations and Low-Lying Dirac Eigenmodes",
+      "summary": "We discuss the utility of low-lying Dirac eigenmodes for studying the nature of topological charge fluctuations in QCD. The implications of previous results using the local chirality histogram method are discussed, and the new results using the overlap Dirac operator in Wilson gauge backgrounds at lattice spacings ranging from a~0.04 fm to a~0.12 fm are reported. While the degree of local chirality does not change appreciably closer to the continuum limit, we find that the size and density of local structures responsible for chiral peaking do change significantly. The resulting values are in disagreement with the assumptions of the Instanton Liquid Model. We conclude that the fluctuations of topological charge in the QCD vacuum are not locally quantized.",
+      "authors": [
+        "S. J. Dong",
+        "T. Draper",
+        "I. Horvath",
+        "N. Isgur",
+        "F. X. Lee",
+        "J. McCune",
+        "J. B. Zhang",
+        "H. B. Thacker"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110037v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110037v1",
+      "published": "2001-10-11T02:17:38Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "564094",
+        "inspire_url": "https://inspirehep.net/literature/564094",
+        "doi": "10.1016/S0920-5632(01)01778-9",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "563",
+            "year": 2002,
+            "page_end": "565"
+          }
+        ],
+        "citation_count": 8,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 563, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110030v1",
+      "title": "Thermodynamics with 2+1 and 3 Flavors of Improved Staggered Quarks",
+      "summary": "We present preliminary results from exploring the phase diagram of finite temperature QCD with three degenerate flavors and with two light flavors and the mass of the third held approximately at the strange quark mass. We use an order $α_s^2 a^2, a^4$ Symanzik improved gauge action and an order $α_s a^2, a^4$ improved staggered quark action. The improved staggered action leads to a dispersion relation with diminished lattice artifacts, and hence better thermodynamic properties. It decreases the flavor symmetry breaking of staggered quarks substantially, and we estimate that at the transition temperature for an $N_t=8$ to $N_t=10$ lattice {\\em all} pions will be lighter than the lightest kaon. Preliminary results on lattices with $N_t=4$, 6 and 8 are presented.",
+      "authors": [
+        "C. Bernard",
+        "T. Burch",
+        "S. Datta",
+        "T. A. DeGrand",
+        "C. E. DeTar",
+        "Steven Gottlieb",
+        "U. M. Heller",
+        "K. Orginos",
+        "R. L. Sugar",
+        "D. Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110030v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110030v1",
+      "published": "2001-10-09T19:57:39Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563976",
+        "inspire_url": "https://inspirehep.net/literature/563976",
+        "doi": "10.1016/S0375-9474(02)00697-8",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.A",
+            "journal_volume": "702",
+            "page_start": "140",
+            "year": 2002,
+            "page_end": "145"
+          },
+          {}
+        ],
+        "citation_count": 9,
+        "journal_ref": "Nucl.Phys.A, 702, p. 140, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110022v1",
+      "title": "Lattice QCD at finite isospin density",
+      "summary": "We have simulated QCD at a finite chemical potential $μ_I$ for isospin ($I_3$) to probe part of the phase diagram for nuclear matter. Preliminary results suggest that for $μ_I > μ_c$, this theory forms a charged pion condensate which spontaneously breaks $I_3$, and the isospin density is non zero.",
+      "authors": [
+        "J. B. Kogut",
+        "D. K. Sinclair"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110022v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110022v1",
+      "published": "2001-10-08T19:10:20Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563911",
+        "inspire_url": "https://inspirehep.net/literature/563911",
+        "doi": "10.1016/S0920-5632(01)01741-8",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "444",
+            "year": 2002,
+            "page_end": "446"
+          },
+          {
+            "page_start": "444",
+            "page_end": "446"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 444, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110021v1",
+      "title": "Improved non-perturbative renormalization without $c_{NGI}$",
+      "summary": "Recently, a method for O(a) improvement of composite operators has been proposed which uses the large momentum behavior of fixed gauge quark and gluon correlation functions (G. Martinelli et al., hep-lat/0106003). A practical problem with this method is that a particular improvement coefficient, $c_{NGI}$, which has a gauge non-covariant form, is difficult to determine. Here I work out the size of the errors made in improvement coefficients and physical quantities if one does not include the $c_{NGI}$ term.",
+      "authors": [
+        "Stephen R. Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110021v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110021v1",
+      "published": "2001-10-08T17:18:32Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563910",
+        "inspire_url": "https://inspirehep.net/literature/563910",
+        "doi": "10.1016/S0920-5632(01)01853-9",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "817",
+            "year": 2002,
+            "page_end": "819"
+          }
+        ],
+        "citation_count": 6,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 817, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110018v1",
+      "title": "Novel Quantum Monte Carlo Algorithms for Fermions",
+      "summary": "Recent research shows that the partition function for a class of models involving fermions can be written as a statistical mechanics of clusters with positive definite weights. This new representation of the model allows one to construct novel algorithms. We illustrate this through models consisting of fermions with and without spin. A Hubbard type model with both attractive and repulsive interactions becomes tractable using the new approach. Precision results in the two dimensional attractive model confirm a superfluid phase transition in the Kosterlitz-Thouless universality class.",
+      "authors": [
+        "Shailesh Chandrasekharan"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110018v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110018v1",
+      "published": "2001-10-08T14:15:22Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563907",
+        "inspire_url": "https://inspirehep.net/literature/563907",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 1
+      }
+    },
+    {
+      "id": "hep-lat/0110010v2",
+      "title": "Spectrum Results with Kogut-Susskind Quarks",
+      "summary": "I summarize recent developments in spectrum calculations using Kogut-Susskind quarks. Theoretical developments include one-loop computations with improved actions. I present some recent simulation results, mostly from a MILC collaboration project using three flavors. Effects of dynamical quarks are clearly seen in the isovector 0++ meson propagator and in the mass ratio ``J''.",
+      "authors": [
+        "Doug Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110010v2",
+      "link": "https://arxiv.org/abs/hep-lat/0110010v2",
+      "published": "2001-10-04T21:32:36Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563842",
+        "inspire_url": "https://inspirehep.net/literature/563842",
+        "doi": "10.1016/S0920-5632(01)01649-8",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "111",
+            "year": 2002,
+            "page_end": "116"
+          }
+        ],
+        "citation_count": 23,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 111, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110009v1",
+      "title": "A new fermion Hamiltonian for lattice gauge theory",
+      "summary": "We formulate Hamiltonian vector-like lattice gauge theory using the overlap formula for the spatial fermionic part, $H_f$. We define a chiral charge, $Q_5$ which commutes with $H_f$, but not with the electric field term. There is an interesting relation between the chiral charge and the fermion energy with consequences for chiral anomalies.",
+      "authors": [
+        "Michael Creutz",
+        "Ivan Horváth",
+        "Herbert Neuberger"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110009v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110009v1",
+      "published": "2001-10-04T18:05:39Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563785",
+        "inspire_url": "https://inspirehep.net/literature/563785",
+        "doi": "10.1016/S0920-5632(01)01836-9",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "760",
+            "year": 2002,
+            "page_end": "762"
+          }
+        ],
+        "citation_count": 35,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 760, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110005v1",
+      "title": "Understanding chiral symmetry breaking with the overlap action",
+      "summary": "A chiral fermion action allows one to do very clean studies of chiral symmetry breaking in QCD. I will briefly describe how to compute with the overlap action (relatively) cheaply, and then turn to physics: Low modes of the Dirac operator show a ``lumped'' chiral density which peaks at the locations of instantons and anti-instantons. These modes dominate correlation functions at small quark mass in many channels. The picture qualitatively (and in some cases quantitatively) resembles an instanton liquid model.",
+      "authors": [
+        "Thomas DeGrand"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110005v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110005v1",
+      "published": "2001-10-02T16:06:52Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563675",
+        "inspire_url": "https://inspirehep.net/literature/563675",
+        "doi": "10.1016/S0920-5632(01)01779-0",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "566",
+            "year": 2002,
+            "page_end": "568"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 566, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0110001v1",
+      "title": "Determining hybrid content of heavy quarkonia using lattice nonrelativistic QCD",
+      "summary": "Using lowest-order lattice NRQCD to create heavy meson propagators and applying the spin-dependent interaction, $c_B^{} \\frac{-g}{2m_q}\\vecσ\\cdot\\vec{B}$, at varying intermediate time slices, we compute the off-diagonal matrix element of the Hamiltonian for the quarkonium-hybrid two-state system. Diagonalizing this two-state Hamiltonian, the admixture of hybrid ($|Q\\bar{Q}g>$) in the ground state is found. We present results from a set of quenched lattices with an interpolation in quark mass to match the bottomonium spectrum.",
+      "authors": [
+        "Tommy Burch",
+        "Kostas Orginos",
+        "Doug Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0110001v1",
+      "link": "https://arxiv.org/abs/hep-lat/0110001v1",
+      "published": "2001-09-28T21:02:57Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563612",
+        "inspire_url": "https://inspirehep.net/literature/563612",
+        "doi": "10.1016/S0920-5632(01)01721-2",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "382",
+            "year": 2002,
+            "page_end": "384"
+          }
+        ],
+        "citation_count": 7,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 382, 2002"
+      }
+    },
+    {
+      "id": "cond-mat/0109424v1",
+      "title": "Kosterlitz-Thouless Universality in a Fermionic System",
+      "summary": "A new extension of the attractive Hubbard model is constructed to study the critical behavior near a finite temperature superconducting phase transition in two dimensions using the recently developed meron-cluster algorithm. Unlike previous calculations in the attractive Hubbard model which were limited to small lattices, the new algorithm is used to study the critical behavior on lattices as large as $128\\times 128$. These precise results for the first time show that a fermionic system can undergo a finite temperature phase transition whose critical behavior is well described by the predictions of Kosterlitz and Thouless almost three decades ago. In particular it is confirmed that the spatial winding number susceptibility obeys the well known predictions of finite size scaling for $T<T_c$ and up to logarithmic corrections the pair susceptibility scales as $L^{2-η}$ at large volumes with $0\\leqη\\leq 0.25$ for $0\\leq T\\leq T_c$.",
+      "authors": [
+        "Shailesh Chandrasekharan",
+        "James C. Osborn"
+      ],
+      "pdf": "https://arxiv.org/pdf/cond-mat/0109424v1",
+      "link": "https://arxiv.org/abs/cond-mat/0109424v1",
+      "published": "2001-09-22T21:44:23Z",
+      "categories": [
+        "cond-mat.str-el",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "563431",
+        "inspire_url": "https://inspirehep.net/literature/563431",
+        "doi": "10.1103/PhysRevB.66.045113",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.B",
+            "journal_volume": "66",
+            "artid": "045113",
+            "year": 2002
+          }
+        ],
+        "citation_count": 16,
+        "journal_ref": "Phys.Rev.B, 66, artid 045113, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0109020v2",
+      "title": "Calculating the I=2 Pion Scattering Length Using Tadpole Improved Clover Wilson Action on Coarse Anisotropic Lattices",
+      "summary": "In an exploratory study, using the tadpole improved clover Wilson quark action on small, coarse and anisotropic lattices, the $ππ$ scattering length in the I=2 channel is calculated within quenched approximation. A new method is proposed which enables us to make chiral extrapolation of our lattice results without calculating the decay constant on the lattice. Finite volume and finite lattice spacing errors are analyzed and the results are extrapolated towards the infinite volume and continuum limit. Comparisons of our lattice results with the new experiment and the results from Chiral Perturbation Theory are made. Good agreements are found.",
+      "authors": [
+        "Chuan Liu",
+        "Junhua Zhang",
+        "Ying Chen",
+        "J. P. Ma"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0109020v2",
+      "link": "https://arxiv.org/abs/hep-lat/0109020v2",
+      "published": "2001-09-21T07:59:57Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "563206",
+        "inspire_url": "https://inspirehep.net/literature/563206",
+        "doi": "10.1016/S0550-3213(01)00662-9",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B",
+            "journal_volume": "624",
+            "page_start": "360",
+            "year": 2002,
+            "page_end": "376"
+          }
+        ],
+        "citation_count": 62,
+        "journal_ref": "Nucl.Phys.B, 624, p. 360, 2002"
+      }
+    },
+    {
+      "id": "hep-ph/0109190v1",
+      "title": "Heavy-Meson Observables at One-Loop in Partially Quenched Chiral Perturbation Theory",
+      "summary": "I present one-loop level calculations of the Isgur-Wise functions for B -> D^{(*)} + e + nu, of the matrix elements of isovector twist-2 operators in B and D mesons, and the matrix elements for the radiative decays D^* -> D + gamma in partially quenched heavy quark chiral perturbation theory. Such expressions are required in order to extrapolate from the light quark masses used in lattice simulations of the foreseeable future to those of nature.",
+      "authors": [
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0109190v1",
+      "link": "https://arxiv.org/abs/hep-ph/0109190v1",
+      "published": "2001-09-20T22:02:00Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "563075",
+        "inspire_url": "https://inspirehep.net/literature/563075",
+        "doi": "10.1103/PhysRevD.65.034014",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "034014",
+            "year": 2002
+          }
+        ],
+        "citation_count": 32,
+        "journal_ref": "Phys.Rev.D, 65, artid 034014, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0109017v1",
+      "title": "Thermodynamics of 2 and 3 flavour QCD",
+      "summary": "We discuss recent results on the thermodynamics of QCD in the presence of light dynamical quark degrees of freedom. In particular, we concentrate on an analysis of the flavour and quark mass dependence of the QCD phase diagram, the equation of state and the transition temperature. Moreover, we present recent results on the heavy quark free energy.",
+      "authors": [
+        "Frithjof Karsch"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0109017v1",
+      "link": "https://arxiv.org/abs/hep-lat/0109017v1",
+      "published": "2001-09-20T08:34:36Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563056",
+        "inspire_url": "https://inspirehep.net/literature/563056",
+        "doi": "10.1063/1.1435943",
+        "publication_info": [
+          {
+            "journal_title": "AIP Conf.Proc.",
+            "journal_volume": "602",
+            "page_start": "323",
+            "year": 2001,
+            "journal_issue": "1",
+            "page_end": "332"
+          }
+        ],
+        "citation_count": 15,
+        "journal_ref": "AIP Conf.Proc., 602, p. 323, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0109015v2",
+      "title": "Lattice results for the decay constant of heavy-light vector mesons",
+      "summary": "We compute the leptonic decay constants of heavy-light vector mesons in the quenched approximation. The reliability of lattice computations for heavy quarks is checked by comparing the ratio of vector to pseudoscalar decay constant with the prediction of Heavy Quark Effective Theory in the limit of infinitely heavy quark mass. Good agreement is found. We then calculate the decay constant ratio for B mesons: $f_{B^*}/f_B= 1.01(0.01)(^{+0.04}_{-0.01})$. We also quote quenched $f_{B^*}=177(6)(17)$ MeV.",
+      "authors": [
+        "C. Bernard",
+        "P. Williams",
+        "S. Datta",
+        "Steven Gottlieb",
+        "C. DeTar",
+        "Urs M. Heller",
+        "C. McNeile",
+        "K. Orginos",
+        "R. Sugar",
+        "D. Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0109015v2",
+      "link": "https://arxiv.org/abs/hep-lat/0109015v2",
+      "published": "2001-09-19T20:59:59Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "563006",
+        "inspire_url": "https://inspirehep.net/literature/563006",
+        "doi": "10.1103/PhysRevD.65.014510",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "014510",
+            "year": 2002
+          }
+        ],
+        "citation_count": 20,
+        "journal_ref": "Phys.Rev.D, 65, artid 014510, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0109010v3",
+      "title": "I=2 Pion Scattering Length from a Coarse Anisotropic Lattice Calculation",
+      "summary": "Using the tadpole improved clover Wilson quark action on coarse anisotropic lattices, the $ππ$ scattering length in the I=2 channel is calculated within quenched approximation. We show that such a calculation is feasible using small lattices on small computers provided that the finite volume and finite lattice spacing errors are under control. Our results are extrapolated towards the chiral, infinite volume and continuum limit. Comparisons of our results with previous lattice results from JLQCD collaboration, the new results from E865 experiment, and the results from Chiral Perturbation Theory are made. Good agreements are found.",
+      "authors": [
+        "Chuan Liu",
+        "Junhua Zhang",
+        "Ying Chen",
+        "J. P. Ma"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0109010v3",
+      "link": "https://arxiv.org/abs/hep-lat/0109010v3",
+      "published": "2001-09-17T07:17:08Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "562884",
+        "inspire_url": "https://inspirehep.net/literature/562884",
+        "citation_count": 15
+      }
+    },
+    {
+      "id": "hep-lat/0109009v1",
+      "title": "Deflation of Eigenvalues for GMRES in Lattice QCD",
+      "summary": "Versions of GMRES with deflation of eigenvalues are applied to lattice QCD problems. Approximate eigenvectors corresponding to the smallest eigenvalues are generated at the same time that linear equations are solved. The eigenvectors improve convergence for the linear equations, and they help solve other right-hand sides.",
+      "authors": [
+        "Ronald B. Morgan",
+        "Walter Wilcox"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0109009v1",
+      "link": "https://arxiv.org/abs/hep-lat/0109009v1",
+      "published": "2001-09-13T22:22:17Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "562699",
+        "inspire_url": "https://inspirehep.net/literature/562699",
+        "doi": "10.1016/S0920-5632(01)01930-2",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "1067",
+            "year": 2002,
+            "page_end": "1069"
+          }
+        ],
+        "citation_count": 22,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 1067, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0109008v1",
+      "title": "Heatbath Noise Methods in Lattice QCD",
+      "summary": "In a recent paper, de Forcrand has pointed out that matrix inversions using Gaussian noise need not be iterated to full convergence, but instead may be solved approximately and treated as a heatbath. Gaussian noise however is not optimal for minimizing variance. It shown here how his algorithm may be generalized to a mixture of Gaussian and Z(N) noise, resulting in a smaller effective variance for some operators.",
+      "authors": [
+        "Walter Wilcox"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0109008v1",
+      "link": "https://arxiv.org/abs/hep-lat/0109008v1",
+      "published": "2001-09-13T22:09:21Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "562698",
+        "inspire_url": "https://inspirehep.net/literature/562698",
+        "doi": "10.1016/S0920-5632(01)01929-6",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "106",
+            "page_start": "1064",
+            "year": 2002,
+            "page_end": "1066"
+          }
+        ],
+        "citation_count": 3,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 106, p. 1064, 2002"
+      }
+    },
+    {
+      "id": "hep-ex/0108040v3",
+      "title": "Results of the Survey on the Future of HEP",
+      "summary": "The Young Physicists Panel (YPP) summarizes results from their Survey on the Future of High Energy Physics, which was conducted from July 2 to July 15, 2001. Over 1500 physicists from around the world, both young and tenured, responded to the survey. We first describe the origin, design, and advertisement of the survey, and then present the demographics of the respondents. Following sections analyze the collected opinions on the desire for balance in the field, the impact of globalization, the necessity of outreach, how to build the field, the physics that drives the field, and the selection of the next big machine. Respondents' comments follow the survey analysis in an appendix.",
+      "authors": [
+        "B. T. Fleming",
+        "J. Krane",
+        "G. P. Zeller",
+        "F. Canelli",
+        "B. Connolly",
+        "R. Erbacher",
+        "G. T. Fleming",
+        "D. A. Harris",
+        "E. Hawker",
+        "M. Hildreth",
+        "B. Kilminster",
+        "S. Lammers",
+        "D. Medoff",
+        "J. Monroe",
+        "D. Toback",
+        "M. Sorel",
+        "A. Turcot",
+        "M. Velasco",
+        "M. O. Wascko",
+        "G. Watts",
+        "E. D. Zimmerman"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ex/0108040v3",
+      "link": "https://arxiv.org/abs/hep-ex/0108040v3",
+      "published": "2001-08-23T22:49:12Z",
+      "categories": [
+        "hep-ex",
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "561886",
+        "inspire_url": "https://inspirehep.net/literature/561886",
+        "citation_count": 4
+      }
+    },
+    {
+      "id": "hep-ph/0108162v2",
+      "title": "Validity Of The Vafa-Witten Proof On Absence Of Spontaneous Parity Breaking In QCD",
+      "summary": "The vacuum energy response of a quantum field theory is studied as a function of complex external fields coupled to the symmetry-breaking observables of the theory. It is found that the energy density is insensitive to spontaneous symmetry breaking effects along a special direction in the complex plane. In particular, in the case of vector-like gauge theories such as QCD, the change in energy generated by coupling to pure-gluonic parity-odd operators is always a growing function of the external fields along the real axis, independent of the mode in which symmetry is realized. In light of this, although there is little doubt that parity is not spontaneously broken in massive QCD, the validity of the Vafa and Witten proof is, however, questionable.",
+      "authors": [
+        "Xiangdong Ji"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0108162v2",
+      "link": "https://arxiv.org/abs/hep-ph/0108162v2",
+      "published": "2001-08-21T22:38:51Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "561809",
+        "inspire_url": "https://inspirehep.net/literature/561809",
+        "doi": "10.1016/S0370-2693(02)03273-2",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "554",
+            "page_start": "33",
+            "year": 2003,
+            "page_end": "37"
+          }
+        ],
+        "citation_count": 30,
+        "journal_ref": "Phys.Lett.B, 554, p. 33, 2003"
+      }
+    },
+    {
+      "id": "nucl-th/0108042v2",
+      "title": "Matrix Elements of Twist-2 Operators in Quenched Chiral Perturbation Theory",
+      "summary": "We compute the leading non-analytic quark mass dependence of the matrix elements of isovector twist-2 operators between octet baryon states in quenched QCD using quenched chiral perturbation theory. There are contributions of the form m_q log m_q, in analogy with QCD, but there are also contributions of the form log m_q from hairpin interactions. The nucleon does not receive such hairpin contributions.",
+      "authors": [
+        "Jiunn-Wei Chen",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/nucl-th/0108042v2",
+      "link": "https://arxiv.org/abs/nucl-th/0108042v2",
+      "published": "2001-08-16T22:17:26Z",
+      "categories": [
+        "nucl-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "561611",
+        "inspire_url": "https://inspirehep.net/literature/561611",
+        "doi": "10.1016/S0375-9474(02)00994-6",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.A",
+            "journal_volume": "707",
+            "page_start": "452",
+            "year": 2002,
+            "page_end": "468"
+          }
+        ],
+        "citation_count": 32,
+        "journal_ref": "Nucl.Phys.A, 707, p. 452, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0108024v2",
+      "title": "Exact Lattice Supersymmetry: the Two-Dimensional N=2 Wess-Zumino Model",
+      "summary": "We study the two-dimensional Wess-Zumino model with extended N=2 supersymmetry on the lattice. The lattice prescription we choose has the merit of preserving {\\it exactly} a single supersymmetric invariance at finite lattice spacing $a$. Furthermore, we construct three other transformations of the lattice fields under which the variation of the lattice action vanishes to $O(ga^2)$ where $g$ is a typical interaction coupling. These four transformations correspond to the two Majorana supercharges of the continuum theory. We also derive lattice Ward identities corresponding to these exact and approximate symmetries. We use dynamical fermion simulations to check the equality of the massgaps in the boson and fermion sectors and to check the lattice Ward identities. At least for weak coupling we see no problems associated with a lack of reflection positivity in the lattice action and find good agreement with theory. At strong coupling we provide evidence that problems associated with a lack of reflection positivity are evaded for small enough lattice spacing.",
+      "authors": [
+        "Simon Catterall",
+        "Sergey Karamov"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0108024v2",
+      "link": "https://arxiv.org/abs/hep-lat/0108024v2",
+      "published": "2001-08-16T18:07:10Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "561587",
+        "inspire_url": "https://inspirehep.net/literature/561587",
+        "doi": "10.1103/PhysRevD.65.094501",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "094501",
+            "year": 2002
+          }
+        ],
+        "citation_count": 112,
+        "journal_ref": "Phys.Rev.D, 65, artid 094501, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0108020v3",
+      "title": "Chiral Properties of Pseudoscalar Mesons on a Quenched $20^4$ Lattice with Overlap Fermions",
+      "summary": "The chiral properties of the pseudoscalar mesons are studied numerically on a quenched $20^4$ lattice with the overlap fermion. We elucidate the role of the zero modes in the meson propagators, particularly that of the pseudoscalar meson. The non-perturbative renormalization constant $Z_A$ is determined from the axial Ward identity and is found to be almost independent of the quark mass for the range of quark masses we study; this implies that the $O(a^2)$ error is small. The pion decay constant, $f_π$, is calculated from which we determine the lattice spacing to be 0.148 fm. We look for quenched chiral log in the pseudoscalar decay constants and the pseudoscalar masses and we find clear evidence for its presence. The chiral log parameter $δ$ is determined to be in the range 0.15 -- 0.4 which is consistent with that predicted from quenched chiral perturbation theory.",
+      "authors": [
+        "S. J. Dong",
+        "T. Draper",
+        "I. Horvath",
+        "F. X. Lee",
+        "K. F. Liu",
+        "J. B. Zhang"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0108020v3",
+      "link": "https://arxiv.org/abs/hep-lat/0108020v3",
+      "published": "2001-08-16T03:27:14Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "561583",
+        "inspire_url": "https://inspirehep.net/literature/561583",
+        "doi": "10.1103/PhysRevD.65.054507",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "054507",
+            "year": 2002
+          }
+        ],
+        "citation_count": 43,
+        "journal_ref": "Phys.Rev.D, 65, artid 054507, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0108004v1",
+      "title": "Center vortices on SU(2) lattices",
+      "summary": "We show that gauge invariant definition of thin, thick and hybrid center vortices, defined by Kovacs and Tomboulis on SO(3) x Z(2) configurations, can also be defined in SU(2). We make this connection using the freedom of choosing a particular SU(2) representative of SO(3). We further show that in another representative the Tomboulis σ- ηthin vortices are P (projection) vortices. The projection approximation corresponds to dropping the perimeter factor of a Wilson loop after appropriate gauge fixing. We present results for static quark potentials based on these vortex counters and compare pojection vortex counters with gauge invariant ones on the same configuration.",
+      "authors": [
+        "Andrei Alexandru",
+        "Richard W. Haymaker"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0108004v1",
+      "link": "https://arxiv.org/abs/hep-lat/0108004v1",
+      "published": "2001-08-03T23:21:31Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "561136",
+        "inspire_url": "https://inspirehep.net/literature/561136",
+        "doi": "10.1016/S0370-2693(01)01164-9",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "520",
+            "page_start": "410",
+            "year": 2001,
+            "page_end": "420"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Phys.Lett.B, 520, p. 410, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0108003v1",
+      "title": "Partially quenched chiral perturbation theory without $Φ_0$",
+      "summary": "This paper completes the argument that lattice simulations of partially quenched QCD can provide quantitative information about QCD itself, with the aid of partially quenched chiral perturbation theory. A barrier to doing this has been the inclusion of $Φ_0$, the partially quenched generalization of the $η'$, in previous calculations in the partially quenched effective theory. This invalidates the low energy perturbative expansion, gives rise to many new unknown parameters, and makes it impossible to reliably calculate the relation between the partially quenched theory and low energy QCD. We show that it is straightforward and natural to formulate partially quenched chiral perturbation theory without $Φ_0$, and that the resulting theory contains the effective theory for QCD without the $η'$. We also show that previous results, obtained including $Φ_0$, can be reinterpreted as applying to the theory without $Φ_0$. We contrast the situation with that in the quenched effective theory, where we explain why it is necessary to include $Φ_0$.\n We also compare the derivation of chiral perturbation theory in partially quenched QCD with the standard derivation in unquenched QCD. We find that the former cannot be justified as rigorously as the latter, because of the absence of a physical Hilbert space. Finally, we present an encouraging result: unphysical double poles in certain correlation functions in partially quenched chiral perturbation theory can be shown to be a property of the underlying theory, given only the symmetries and some plausible assumptions.",
+      "authors": [
+        "Stephen Sharpe",
+        "Noam Shoresh"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0108003v1",
+      "link": "https://arxiv.org/abs/hep-lat/0108003v1",
+      "published": "2001-08-03T00:02:07Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "560998",
+        "inspire_url": "https://inspirehep.net/literature/560998",
+        "doi": "10.1103/PhysRevD.64.114510",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "114510",
+            "year": 2001
+          }
+        ],
+        "citation_count": 200,
+        "journal_ref": "Phys.Rev.D, 64, artid 114510, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0107014v2",
+      "title": "Another determination of the quark condensate from an overlap action",
+      "summary": "I use the technique of Hernandez, et al (hep-lat/0106011) to convert a recent calculation of the lattice-regulated quark condensate from an overlap action to a continuum-regulated number. I find Sigma(MSbar)(mu = 2 GeV) = (282(6) MeV)-cubed times (a-inverse/1766 MeV)-cubed from a calculation with the Wilson gauge action at beta=5.9.",
+      "authors": [
+        "Thomas DeGrand"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0107014v2",
+      "link": "https://arxiv.org/abs/hep-lat/0107014v2",
+      "published": "2001-07-18T17:05:11Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "560232",
+        "inspire_url": "https://inspirehep.net/literature/560232",
+        "doi": "10.1103/PhysRevD.64.117501",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "117501",
+            "year": 2001
+          }
+        ],
+        "citation_count": 30,
+        "journal_ref": "Phys.Rev.D, 64, artid 117501, 2001"
+      }
+    },
+    {
+      "id": "hep-ph/0107158v1",
+      "title": "Constructing Parton Convolution in Effective Field Theory",
+      "summary": "Parton convolution models have been used extensively in describing the sea quarks in the nucleon and explaining quark distributions in nuclei (the EMC effect). From effective field theory point of view, we construct the parton convolution formalism which has been the underlying conception of all convolution models. We explain the significance of scheme and scale dependence of the auxiliary quantities such as the pion distributions in a nucleon. As an application, we calculate the complete leading nonanalytic chiral contribution to the isovector component of the nucleon sea.",
+      "authors": [
+        "Jiunn-Wei Chen",
+        "Xiangdong Ji"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0107158v1",
+      "link": "https://arxiv.org/abs/hep-ph/0107158v1",
+      "published": "2001-07-13T21:34:14Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "559984",
+        "inspire_url": "https://inspirehep.net/literature/559984",
+        "doi": "10.1103/PhysRevLett.87.152002",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "87",
+            "artid": "152002",
+            "year": 2001
+          },
+          {
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "88",
+            "artid": "249901",
+            "year": 2002
+          }
+        ],
+        "citation_count": 64,
+        "journal_ref": "Phys.Rev.Lett., 87, artid 152002, 2001"
+      }
+    },
+    {
+      "id": "nucl-th/0107038v2",
+      "title": "The Magnetic Moments of the Octet Baryons in Quenched Chiral Perturbation Theory",
+      "summary": "We compute the magnetic moments of the octet baryons up to two orders in quenched chiral perturbation theory. In addition to the $\\sim\\sqrt{m_q}$ contributions that arise in QCD, there are lower-order contributions of the form $M_0^2\\log m_q$ from loop diagrams involving hairpin interactions.",
+      "authors": [
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/nucl-th/0107038v2",
+      "link": "https://arxiv.org/abs/nucl-th/0107038v2",
+      "published": "2001-07-12T21:34:15Z",
+      "categories": [
+        "nucl-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "559948",
+        "inspire_url": "https://inspirehep.net/literature/559948",
+        "doi": "10.1016/S0375-9474(01)01315-X",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.A",
+            "journal_volume": "700",
+            "page_start": "359",
+            "year": 2002,
+            "page_end": "376"
+          }
+        ],
+        "citation_count": 70,
+        "journal_ref": "Nucl.Phys.A, 700, p. 359, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0106022v2",
+      "title": "Negative-parity Baryon Masses using an O(a)-improved Fermion Action",
+      "summary": "We present a calculation of the mass of the lowest-lying negative-parity J=1/2- state in quenched QCD. Results are obtained using a non-perturbatively O(a)-improved clover fermion action, and a splitting is found between the mass of the nucleon and its parity partner. The calculation is performed on two lattice volumes and at three lattice spacings, enabling a study of both finite-volume and finite lattice-spacing uncertainties. A comparison is made with results obtained using the unimproved Wilson fermion action.",
+      "authors": [
+        " LHPC Collaboration",
+        " QCDSF Collaboration",
+        " UKQCD Collaboration",
+        "M. Gockeler",
+        "R. Horsley",
+        "C. M. Maynard",
+        "D. Pleiter",
+        "P. E. L. Rakow",
+        "D. G. Richards",
+        "G. Schierholz"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0106022v2",
+      "link": "https://arxiv.org/abs/hep-lat/0106022v2",
+      "published": "2001-06-26T20:31:32Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "559079",
+        "inspire_url": "https://inspirehep.net/literature/559079",
+        "doi": "10.1016/S0370-2693(02)01492-2",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "532",
+            "page_start": "63",
+            "year": 2002,
+            "page_end": "70"
+          }
+        ],
+        "citation_count": 71,
+        "journal_ref": "Phys.Lett.B, 532, p. 63, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0106019v2",
+      "title": "Lattice QCD at High Temperature and Density",
+      "summary": "After a brief introduction into basic aspects of the formulation of lattice regularized QCD at finite temperature and density we discuss our current understanding of the QCD phase diagram at finite temperature. We present results from lattice calculations that emphasize the deconfining as well as chiral symmetry restoring features of the QCD transition, and discuss the thermodynamics of the high temperature phase.",
+      "authors": [
+        "Frithjof Karsch"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0106019v2",
+      "link": "https://arxiv.org/abs/hep-lat/0106019v2",
+      "published": "2001-06-26T09:48:02Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "559076",
+        "inspire_url": "https://inspirehep.net/literature/559076",
+        "doi": "10.1007/3-540-45792-5_6",
+        "publication_info": [
+          {
+            "journal_title": "Lect.Notes Phys.",
+            "journal_volume": "583",
+            "page_start": "209",
+            "year": 2002,
+            "page_end": "249"
+          }
+        ],
+        "citation_count": 821,
+        "journal_ref": "Lect.Notes Phys., 583, p. 209, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0106018v2",
+      "title": "Quenched divergences in the deconfined phase of SU(2) gauge theory",
+      "summary": "The spectrum of the overlap Dirac operator in the deconfined phase of quenched gauge theory is known to have three parts: exact zeros arising from topology, small nonzero eigenvalues that result in a non-zero chiral condensate, and the dense bulk of the spectrum, which is separated from the small eigenvalues by a gap. In this paper, we focus on the small nonzero eigenvalues in an SU(2) gauge field background at $β=2.4$ and $N_T=4$. This low-lying spectrum is computed on four different spatial lattices ($12^3$, $14^3$, $16^3$, and $18^3$). As the volume increases, the small eigenvalues become increasingly concentrated near zero in such a way as to strongly suggest that the infinite volume condensate diverges.",
+      "authors": [
+        "Joe Kiskis",
+        "Rajamani Narayanan"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0106018v2",
+      "link": "https://arxiv.org/abs/hep-lat/0106018v2",
+      "published": "2001-06-25T22:50:21Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "559005",
+        "inspire_url": "https://inspirehep.net/literature/559005",
+        "doi": "10.1103/PhysRevD.64.117502",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "117502",
+            "year": 2001
+          }
+        ],
+        "citation_count": 15,
+        "journal_ref": "Phys.Rev.D, 64, artid 117502, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0106014v1",
+      "title": "Two Flavors of Staggered Fermions with Smeared Links",
+      "summary": "Staggered fermions with smeared links can have greatly improved chiral properties. In a recent paper we introduced a simple and effective method to simulate four flavors of staggered smeared link fermions. In this work we extend the four flavor method to two flavors. We define the two flavor action by the square root of the four flavor fermionic determinant and show that by using a polynomial approximation the two flavor action can be evaluated with the necessary accuracy. We test this method by studying the finite temperature phase structure with hypercubic smeared (HYP) link staggered action on N_t=4 temporal lattices.",
+      "authors": [
+        "Anna Hasenfratz",
+        "Francesco Knechtli"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0106014v1",
+      "link": "https://arxiv.org/abs/hep-lat/0106014v1",
+      "published": "2001-06-20T20:51:32Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "558702",
+        "inspire_url": "https://inspirehep.net/literature/558702",
+        "citation_count": 3
+      }
+    },
+    {
+      "id": "hep-lat/0106009v1",
+      "title": "Numerical Simulations of PT-Symmetric Quantum Field Theories",
+      "summary": "Many non-Hermitian but PT-symmetric theories are known to have a real positive spectrum. Since the action is complex for there theories, Monte Carlo methods do not apply. In this paper the first field-theoretic method for numerical simulations of PT-symmetric Hamiltonians is presented. The method is the complex Langevin equation, which has been used previously to study complex Hamiltonians in statistical physics and in Minkowski space. We compute the equal-time one-point and two-point Green's functions in zero and one dimension, where comparisons to known results can be made. The method should also be applicable in four-dimensional space-time. Our approach may also give insight into how to formulate a probabilistic interpretation of PT-symmetric theories.",
+      "authors": [
+        "Claude Bernard",
+        "Van M. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0106009v1",
+      "link": "https://arxiv.org/abs/hep-lat/0106009v1",
+      "published": "2001-06-15T17:58:10Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "558519",
+        "inspire_url": "https://inspirehep.net/literature/558519",
+        "doi": "10.1103/PhysRevD.64.085010",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "085010",
+            "year": 2001
+          }
+        ],
+        "citation_count": 30,
+        "journal_ref": "Phys.Rev.D, 64, artid 085010, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0106008v1",
+      "title": "Chiral Loops and Ghost States in the Quenched Scalar Propagator",
+      "summary": "The scalar, isovector meson propagator is analyzed in quenched QCD, using the MQA pole-shifting ansatz to study the chiral limit. In addition to the expected short-range exponential falloff characteristic of a heavy scalar meson, the propagator also exhibits a longer-range, negative metric contribution which becomes pronounced for smaller quark masses. We show that this is a quenched chiral loop effect associated with the anomalous structure of the $η'$ propagator in quenched QCD. Both the time dependence and the quark mass dependence of this effect are well-described by a chiral loop diagram corresponding to an $η'- π$ intermediate state, which is light and effectively of negative norm in the quenched approximation. The relevant parameters of the effective Lagrangian describing the scalar sector of the quenched theory are determined.",
+      "authors": [
+        "W. Bardeen",
+        "A. Duncan",
+        "E. Eichten",
+        "N. Isgur",
+        "H. Thacker"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0106008v1",
+      "link": "https://arxiv.org/abs/hep-lat/0106008v1",
+      "published": "2001-06-13T22:19:00Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "558332",
+        "inspire_url": "https://inspirehep.net/literature/558332",
+        "doi": "10.1103/PhysRevD.65.014509",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "014509",
+            "year": 2001
+          }
+        ],
+        "citation_count": 107,
+        "journal_ref": "Phys.Rev.D, 65, artid 014509, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0106007v1",
+      "title": "Renormalization Constants using Quark States in Fixed Gauge",
+      "summary": "We present a status report on our calculation of the renormalization constants for the quark bilinears in quenched (O(a)) improved Wilson theory at (beta=6.4) using quark states in Landau gauge.",
+      "authors": [
+        "Tanmoy Bhattacharya",
+        "Rajan Gupta",
+        "Weonjong Lee"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0106007v1",
+      "link": "https://arxiv.org/abs/hep-lat/0106007v1",
+      "published": "2001-06-13T00:07:56Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "558331",
+        "inspire_url": "https://inspirehep.net/literature/558331",
+        "doi": "10.1016/S0920-5632(01)00874-X",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "94",
+            "page_start": "595",
+            "year": 2001,
+            "page_end": "598"
+          },
+          {
+            "page_start": "595",
+            "page_end": "598"
+          }
+        ],
+        "citation_count": 2,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 94, p. 595, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0106001v2",
+      "title": "Short distance current correlators: Comparing lattice simulations to the instanton liquid",
+      "summary": "Point to point correlators of currents are computed in quenched QCD using a chiral lattice fermion action, the overlap action. I compare correlators made of exact quark propagators with correlators restricted to low (less than 500 MeV) eigenvalue eigenmodes of the Dirac operator. In many cases they show qualitative resemblence (typically at small values of the quark mass and distances larger than 0.4 fm) and they differ qualitatively at larger quark masses or at very short distance. Lattice results are in qualitative agreement (and in the difference of vector and axial vector channels, quantitative agreement) with the expectations of instanton liquid models. The scalar channel shows the effects of a quenched finite volume zero mode artifact, a negative correlator.",
+      "authors": [
+        "Thomas DeGrand"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0106001v2",
+      "link": "https://arxiv.org/abs/hep-lat/0106001v2",
+      "published": "2001-06-01T22:19:48Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "557653",
+        "inspire_url": "https://inspirehep.net/literature/557653",
+        "doi": "10.1103/PhysRevD.64.094508",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "094508",
+            "year": 2001
+          }
+        ],
+        "citation_count": 84,
+        "journal_ref": "Phys.Rev.D, 64, artid 094508, 2001"
+      }
+    },
+    {
+      "id": "hep-ph/0105296v2",
+      "title": "Large-N_c Quark Distributions in the Delta and Chiral Logarithms in Quark Distributions of the Nucleon",
+      "summary": "In a world with two quark flavors and a large number of colors (N_c), the polarized and unpolarized quark distributions in the delta are completely determined by those in the nucleon up to {\\cal O}(1/N_c). In particular, we find q_Δ(x) =[(1\\pm 2T_z)u_N(x)+ (1\\mp 2T_z)d_N(x)]/2 and Δq_Δ(x) =[(5\\pm 2T_z)Δu_N(x) + (5\\mp 2T_z)Δd_N(x)]/10, where q = u, d and $T_z$ the charge state of a delta. The result can be used to estimate the leading chiral-logarithmic corrections to the quark distributions in the nucleon.",
+      "authors": [
+        "Jiunn-Wei Chen",
+        "Xiangdong Ji"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0105296v2",
+      "link": "https://arxiv.org/abs/hep-ph/0105296v2",
+      "published": "2001-05-29T21:13:35Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "557397",
+        "inspire_url": "https://inspirehep.net/literature/557397",
+        "doi": "10.1016/S0370-2693(01)01340-5",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "523",
+            "page_start": "73",
+            "year": 2001,
+            "page_end": "78"
+          }
+        ],
+        "citation_count": 30,
+        "journal_ref": "Phys.Lett.B, 523, p. 73, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0105026v1",
+      "title": "Two-colour QCD at non-zero quark-number density",
+      "summary": "We have simulated two-colour four-flavour QCD at non-zero chemical potential $μ$ for quark number. Simulations were performed on $8^4$ and $12^3 \\times 24$ lattices. Clear evidence was seen for the formation of a colourless diquark condensate which breaks quark number spontaneously, for $μ> μ_c \\sim m_π/2$. The transition appears to be second order. We have measured the spectrum of scalar and pseudoscalar bosons which shows clear evidence for the expected Goldstone boson. Our results are in qualitative agreement with those from effective Lagrangians for the potential Goldstone excitations of this theory.",
+      "authors": [
+        "J. B. Kogut",
+        "D. K. Sinclair",
+        "S. J. Hands",
+        "S. E. Morrison"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0105026v1",
+      "link": "https://arxiv.org/abs/hep-lat/0105026v1",
+      "published": "2001-05-23T19:48:25Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "557088",
+        "inspire_url": "https://inspirehep.net/literature/557088",
+        "doi": "10.1103/PhysRevD.64.094505",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "094505",
+            "year": 2001
+          }
+        ],
+        "citation_count": 166,
+        "journal_ref": "Phys.Rev.D, 64, artid 094505, 2001"
+      }
+    },
+    {
+      "id": "hep-ph/0105197v2",
+      "title": "Is the Sullivan Process Compatible with QCD Chiral Dynamics?",
+      "summary": "We calculate the leading non-analytic quark-mass dependence in the moments of isovector quark distributions using heavy-baryon chiral perturbation theory. The results differ from those obtained from the Sullivan process in which hard scattering occurs through the virtual pion cloud of the nucleon. Our results provide useful guidance for improving upon the meson-cloud model and can be used to constrain the extrapolations of the existing lattice QCD results to the physical quark masses.",
+      "authors": [
+        "Jiunn-Wei Chen",
+        "Xiangdong Ji"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0105197v2",
+      "link": "https://arxiv.org/abs/hep-ph/0105197v2",
+      "published": "2001-05-19T04:12:44Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "556935",
+        "inspire_url": "https://inspirehep.net/literature/556935",
+        "doi": "10.1016/S0370-2693(01)01337-5",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "523",
+            "page_start": "107",
+            "year": 2001,
+            "page_end": "110"
+          }
+        ],
+        "citation_count": 100,
+        "journal_ref": "Phys.Lett.B, 523, p. 107, 2001"
+      }
+    },
+    {
+      "id": "nucl-th/0105045v2",
+      "title": "Chiral Corrections to Matrix Elements of Twist-2 Operators",
+      "summary": "We compute the leading non-analytic contributions of the form m_q Log(m_q) to matrix elements of twist-2 operators in the nucleon and pion using effective field theory. Previously omitted one-loop contributions that are related to tree-level matrix elements by chiral symmetry are included.",
+      "authors": [
+        "Daniel Arndt",
+        "Martin J. Savage"
+      ],
+      "pdf": "https://arxiv.org/pdf/nucl-th/0105045v2",
+      "link": "https://arxiv.org/abs/nucl-th/0105045v2",
+      "published": "2001-05-18T22:48:52Z",
+      "categories": [
+        "nucl-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "556867",
+        "inspire_url": "https://inspirehep.net/literature/556867",
+        "doi": "10.1016/S0375-9474(01)01223-4",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.A",
+            "journal_volume": "697",
+            "page_start": "429",
+            "year": 2002,
+            "page_end": "439"
+          }
+        ],
+        "citation_count": 130,
+        "journal_ref": "Nucl.Phys.A, 697, p. 429, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0105016v2",
+      "title": "Effective Lagrangian for strongly coupled domain wall fermions",
+      "summary": "We derive the effective Lagrangian for mesons in lattice gauge theory with domain-wall fermions in the strong-coupling and large-N_c limits. We use the formalism of supergroups to deal with the Pauli-Villars fields, needed to regulate the contributions of the heavy fermions. We calculate the spectrum of pseudo-Goldstone bosons and show that domain wall fermions are doubled and massive in this regime. Since we take the extent and lattice spacing of the fifth dimension to infinity and zero respectively, our conclusions apply also to overlap fermions.",
+      "authors": [
+        "Federico Berruto",
+        "Richard C. Brower",
+        "Benjamin Svetitsky"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0105016v2",
+      "link": "https://arxiv.org/abs/hep-lat/0105016v2",
+      "published": "2001-05-17T20:42:41Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "556771",
+        "inspire_url": "https://inspirehep.net/literature/556771",
+        "doi": "10.1103/PhysRevD.64.114504",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "114504",
+            "year": 2001
+          }
+        ],
+        "citation_count": 9,
+        "journal_ref": "Phys.Rev.D, 64, artid 114504, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0105004v2",
+      "title": "Are Topological Charge Fluctuations in QCD Instanton Dominated?",
+      "summary": "We consider a recent proposal by Horváth {\\em et al.} to address the question whether topological charge fluctuations in QCD are instanton dominated via the response of fermions using lattice fermions with exact chiral symmetry, the overlap fermions. Considering several volumes and lattice spacings we find strong evidence for chirality of a finite density of low-lying eigenvectors of the overlap-Dirac operator in the regions where these modes are peaked. This result suggests instanton dominance of topological charge fluctuations in quenched QCD.",
+      "authors": [
+        "Robert G. Edwards",
+        "Urs M. Heller"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0105004v2",
+      "link": "https://arxiv.org/abs/hep-lat/0105004v2",
+      "published": "2001-05-04T16:50:45Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "556227",
+        "inspire_url": "https://inspirehep.net/literature/556227",
+        "doi": "10.1103/PhysRevD.65.014505",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "014505",
+            "year": 2002
+          }
+        ],
+        "citation_count": 64,
+        "journal_ref": "Phys.Rev.D, 65, artid 014505, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0105002v1",
+      "title": "The Ising Model on a Dynamically Triangulated Disk with a Boundary Magnetic Field",
+      "summary": "We use Monte Carlo simulations to study a dynamically triangulated disk with Ising spins on the vertices and a boundary magnetic field. For the case of zero magnetic field we show that the model possesses three phases. For one of these the boundary length grows linearly with disk area, while the other two phases are characterized by a boundary whose size is on the order of the cut-off. A line of continuous magnetic transitions separates the two small boundary phases. We determine the critical exponents of the continuous magnetic phase transition and relate them to predictions from continuum 2-d quantum gravity. This line of continuous transitions appears to terminate on a line of discontinuous phase transitions dividing the small boundary phases from the large boundary phase. We examine the scaling of bulk magnetization and boundary magnetization as a function of boundary magnetic field in the vicinity of this tricritical point.",
+      "authors": [
+        "Scott McGuire",
+        "Simon Catterall",
+        "Mark Bowick",
+        "Simeon Warner"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0105002v1",
+      "link": "https://arxiv.org/abs/hep-lat/0105002v1",
+      "published": "2001-05-02T23:24:24Z",
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "556180",
+        "inspire_url": "https://inspirehep.net/literature/556180",
+        "doi": "10.1016/S0550-3213(01)00405-9",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B",
+            "journal_volume": "614",
+            "page_start": "467",
+            "year": 2001,
+            "page_end": "493"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B, 614, p. 467, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0104015v1",
+      "title": "Topological Susceptibility on Dynamical Staggered Fermion Configurations",
+      "summary": "The topological susceptibility is one of the few physical quantities that directly measure the properties of the QCD vacuum. Chiral perturbation theory predicts that in the small quark mass limit the topological susceptibility depends quadratically on the pion mass, approaching zero in the chiral limit. Lattice calculations have difficulty reproducing this behavior. In this paper we study the topological susceptibility on dynamical staggered fermion configurations. Our results indicate that the lattice spacing has to be small, around a~0.1fm for thin link staggered fermion actions to show the expected chiral behavior. Our preliminary result indicates that fat link fermions, on the other hand, reproduce the theoretical expectations even on lattices with a~0.17fm. We argue that this is due to the improved flavor symmetry of fat link fermionic actions.",
+      "authors": [
+        "Anna Hasenfratz"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0104015v1",
+      "link": "https://arxiv.org/abs/hep-lat/0104015v1",
+      "published": "2001-04-30T20:17:23Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "555982",
+        "inspire_url": "https://inspirehep.net/literature/555982",
+        "doi": "10.1103/PhysRevD.64.074503",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "074503",
+            "year": 2001
+          }
+        ],
+        "citation_count": 26,
+        "journal_ref": "Phys.Rev.D, 64, artid 074503, 2001"
+      }
+    },
+    {
+      "id": "hep-ph/0104208v3",
+      "title": "Excited Heavy-Light Systems and Hadronic Transitions",
+      "summary": "A detailed study of orbital and radial excited states in D, Ds, B and B_s systems is performed. The chiral quark model provides the framework for the calculation of pseudoscalar meson (pi, K, ...) hadronic transitions among heavy-light excited and ground states. To calculate the excited states masses and wavefunctions, we must resort to a relativistic quark model. Our model includes the leading order corrections in 1/m_(c,b) (e.g. mixing). Numerical results for masses and light hadronic transition rates are compared to existing experimental data. The effective coupling of the chiral quark model can be determined by comparing with independent results from lattice simulations (g^8_A = 0.53 +-/- 0.11) or fitting to known widths (g^8_A = 0.82 +-/- 0.09).",
+      "authors": [
+        "Massimo Di Pierro",
+        "Estia Eichten"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0104208v3",
+      "link": "https://arxiv.org/abs/hep-ph/0104208v3",
+      "published": "2001-04-20T19:20:28Z",
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "555664",
+        "inspire_url": "https://inspirehep.net/literature/555664",
+        "doi": "10.1103/PhysRevD.64.114004",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "114004",
+            "year": 2001
+          }
+        ],
+        "citation_count": 440,
+        "journal_ref": "Phys.Rev.D, 64, artid 114004, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0104011v2",
+      "title": "Scaling behaviour at the $N_t=6$ chiral phase transition for 2-flavour lattice QCD with massless staggered quarks, and an irrelevant 4-fermion interaction",
+      "summary": "We have simulated lattice QCD with 2 flavours of massless staggered quarks. An irrelevant chiral 4-fermion interaction was added to the standard quark action to allow us to simulate at zero quark mass. Thermodynamics was studied on lattices of temporal extent 6. Clear evidence for a second order chiral transition was observed and the critical exponents $β_{mag}$, $δ$, $ν$ and $γ_{mag}$ were measured. These exponents did not agree with those expected by standard universality arguments. They were, however, consistent with tricritical behaviour. The $π$ and $σ$ screening masses were measured and showed clear evidence for chiral symmetry restoration at this transition.",
+      "authors": [
+        "J. B. Kogut",
+        "D. K. Sinclair"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0104011v2",
+      "link": "https://arxiv.org/abs/hep-lat/0104011v2",
+      "published": "2001-04-18T21:50:02Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "555575",
+        "inspire_url": "https://inspirehep.net/literature/555575",
+        "doi": "10.1103/PhysRevD.64.034508",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "034508",
+            "year": 2001
+          }
+        ],
+        "citation_count": 20,
+        "journal_ref": "Phys.Rev.D, 64, artid 034508, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0104009v1",
+      "title": "Contents of Lattice 2000 Proceedings",
+      "summary": "We give here a compilation of papers presented at Lattice 2000 (XVIII Intl. Symposium on Lattice Field Theory, Bangalore, India, 17-22 August 2000). The table of contents provides links to papers on the e-print arXiv.",
+      "authors": [
+        "T. Bhattacharya",
+        "R. Gupta",
+        "A. Patel"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0104009v1",
+      "link": "https://arxiv.org/abs/hep-lat/0104009v1",
+      "published": "2001-04-12T22:01:22Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "1649685",
+        "inspire_url": "https://inspirehep.net/literature/1649685",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "94",
+            "year": 2001
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 94, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0104002v2",
+      "title": "The QCD spectrum with three quark flavors",
+      "summary": "We present results from a lattice hadron spectrum calculation using three flavors of dynamical quarks - two light and one strange, and quenched simulations for comparison. These simulations were done using a one-loop Symanzik improved gauge action and an improved Kogut-Susskind quark action. The lattice spacings, and hence also the physical volumes, were tuned to be the same in all the runs to better expose differences due to flavor number. Lattice spacings were tuned using the static quark potential, so as a byproduct we obtain updated results for the effect of sea quarks on the static quark potential. We find indications that the full QCD meson spectrum is in better agreement with experiment than the quenched spectrum. For the 0++ (a0) meson we see a coupling to two pseudoscalar mesons, or a meson decay on the lattice.",
+      "authors": [
+        "Claude Bernard",
+        "Tom Burch",
+        "Thomas A. DeGrand",
+        "Saumen Datta",
+        "Carleton DeTar",
+        "Steven Gottlieb",
+        "Urs M. Heller",
+        "Kostas Orginos",
+        "Robert Sugar",
+        "Doug Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0104002v2",
+      "link": "https://arxiv.org/abs/hep-lat/0104002v2",
+      "published": "2001-04-02T21:10:29Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "554883",
+        "inspire_url": "https://inspirehep.net/literature/554883",
+        "doi": "10.1103/PhysRevD.64.054506",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "054506",
+            "year": 2001
+          }
+        ],
+        "citation_count": 522,
+        "journal_ref": "Phys.Rev.D, 64, artid 054506, 2001"
+      }
+    },
+    {
+      "id": "hep-ph/0103314v1",
+      "title": "Lattice Results on QCD Thermodynamics",
+      "summary": "We review recent results on QCD at finite temperature. Main emphasis is put on a discussion of observables which are of immediate interest to experimental searches for the Quark Gluon Plasma, i.e. the phase transition temperature, the equation of state in 2 and 3-flavour QCD, the heavy quark free energy and thermal effects on hadron masses.",
+      "authors": [
+        "Frithjof Karsch"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0103314v1",
+      "link": "https://arxiv.org/abs/hep-ph/0103314v1",
+      "published": "2001-03-29T10:33:26Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "554771",
+        "inspire_url": "https://inspirehep.net/literature/554771",
+        "doi": "10.1016/S0375-9474(01)01365-3",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.A",
+            "journal_volume": "698",
+            "page_start": "199",
+            "year": 2002,
+            "page_end": "208"
+          },
+          {}
+        ],
+        "citation_count": 578,
+        "journal_ref": "Nucl.Phys.A, 698, p. 199, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0103026v1",
+      "title": "O(a)-improved quark action on anisotropic lattices and perturbative renormalization of heavy-light currents",
+      "summary": "We investigate the Symanzik improvement of the Wilson quark action on anisotropic lattices. Taking first a general action with nearest-neighbor and clover interactions, we study the mass dependence of the ratio of the hopping parameters, the clover coefficients, and an improvement coefficient for heavy-light vector and axial vector currents. We show how tree-level improvement can be achieved. For a particular choice of the spatial Wilson coupling, the results simplify, and $O(m_0a_τ)$ improvement is possible. (Here $m_0$ is the bare quark mass and $a_τ$ the temporal lattice spacing.) With this choice we calculate the renormalization factors of heavy-light bilinear operators at one-loop order of perturbation theory employing the standard plaquette gauge action.",
+      "authors": [
+        "Junpei Harada",
+        "Andreas S. Kronfeld",
+        "Hideo Matsufuru",
+        "Noriaki Nakajima",
+        "Tetsuya Onogi"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103026v1",
+      "link": "https://arxiv.org/abs/hep-lat/0103026v1",
+      "published": "2001-03-23T02:38:45Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "554459",
+        "inspire_url": "https://inspirehep.net/literature/554459",
+        "doi": "10.1103/PhysRevD.64.074501",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "074501",
+            "year": 2001
+          }
+        ],
+        "citation_count": 44,
+        "journal_ref": "Phys.Rev.D, 64, artid 074501, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0103025v2",
+      "title": "Measurement of hybrid content of heavy quarkonia using lattice NRQCD",
+      "summary": "Using lowest-order lattice NRQCD to create heavy meson propagators and applying the spin-dependent interaction, $c_B^{} \\frac{-g}{2m_q}\\vecσ\\cdot\\vec{B}$, at varying intermediate time slices, we compute the off-diagonal matrix element of the Hamiltonian for the quarkonium-hybrid two-state system. Thus far, we have results for one set of quenched lattices with an interpolation in quark mass to match the bottomonium spectrum. After diagonalization of the two-state Hamiltonian, we find the ground state of the $Υ$ to show a $0.0035(1)c_B^2$ (with $c_B^2 \\sim 1.5-3.1$) probability admixture of hybrid, $|b\\bar{b}g>$.",
+      "authors": [
+        "Tommy Burch",
+        "Kostas Orginos",
+        "Doug Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103025v2",
+      "link": "https://arxiv.org/abs/hep-lat/0103025v2",
+      "published": "2001-03-22T19:58:24Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "554420",
+        "inspire_url": "https://inspirehep.net/literature/554420",
+        "doi": "10.1103/PhysRevD.64.074505",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "074505",
+            "year": 2001
+          }
+        ],
+        "citation_count": 14,
+        "journal_ref": "Phys.Rev.D, 64, artid 074505, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0103022v2",
+      "title": "Exact Zero-Modes of the Compact QED Dirac Operator",
+      "summary": "We calculate the low-lying eigenmodes of the Neuberger overlap-Dirac operator for $4d$ compact lattice QED in the quenched approximation. In the strong coupling phase we find exact zero-modes, quite similar as in non-Abelian lattice QCD. Subsequently we make an attempt to identify responsible topological excitations of the U(1) lattice gauge theory.",
+      "authors": [
+        "Bernd A. Berg",
+        "Urs M. Heller",
+        "Harald Markum",
+        "Rainer Pullirsch",
+        "Wolfgang Sakuler"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103022v2",
+      "link": "https://arxiv.org/abs/hep-lat/0103022v2",
+      "published": "2001-03-20T09:13:44Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "554320",
+        "inspire_url": "https://inspirehep.net/literature/554320",
+        "doi": "10.1016/S0370-2693(01)00767-5",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "514",
+            "page_start": "97",
+            "year": 2001,
+            "page_end": "102"
+          }
+        ],
+        "citation_count": 16,
+        "journal_ref": "Phys.Lett.B, 514, p. 97, 2001"
+      }
+    },
+    {
+      "id": "hep-ph/0103197v3",
+      "title": "CP Asymmetry Measurements in psi K0 and the CKM Paradigm",
+      "summary": "Recent experimental observations of CP asymmetry in B0 -> psi K0 constitute the first significant signal of CP violation outside the neutral kaon system; thus they represent an important milestone to test the CKM paradigm. We, therefore, undertake a critical appraisal of the existing experimental and theoretical inputs used to deduce constraints on sin(2 beta) and other important parameters and thus find, in particular, sin(2 beta) > 0.50 at 95% CL which is completely compatible with the combined experimental result: sin(2 beta) = 0.46 +- 0.17, representing an important success of the CKM model of CP violation. Searches for new physics in B decays to psi+K0 like final states will require improved precision; we make some suggestions to facilitate these. We also present a global fit including the new CP asymmetry measurements in B->psi+K0 as an additional input yielding e.g. gamma =29-56 degrees, eta-bar = >.19-.36, rho-bar=.15-.37, Jcp=(1.8 - 3.0) X 10^(-5), $Br(K+ -> pi+ nu nu-bar)=(0.51 - 0.90) X 10^(-10) and Br(KL -> pi0 nu nu-bar) = (0.11 - 0.31) X 10^(-10) at 95% CL.",
+      "authors": [
+        "David Atwood",
+        "Amarjit Soni"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0103197v3",
+      "link": "https://arxiv.org/abs/hep-ph/0103197v3",
+      "published": "2001-03-19T20:14:40Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "554266",
+        "inspire_url": "https://inspirehep.net/literature/554266",
+        "doi": "10.1016/S0370-2693(01)00477-4",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "508",
+            "page_start": "17",
+            "year": 2001,
+            "page_end": "24"
+          }
+        ],
+        "citation_count": 40,
+        "journal_ref": "Phys.Lett.B, 508, p. 17, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0103018v2",
+      "title": "A New Approach to Construct the Operator on Lattice for the Calculation of Glueball Masses",
+      "summary": "We develop a new approach to construct the operator on lattice for the calculation of glueball mass, which is based on the connection between the continuum limit of the chosen operator and the quantum number $J^{PC}$ of the state studied. The spin of the state studied is then determined uniquely and directly in numerical simulation. Furthermore, the approach can be applied to calculate the mass of glueball states (ground or excited states) with any spin $J$ including $J\\geq 4$. Under the quenched approximation, we present pre-calculation results for the masses of $0^{++}$ state and $2^{++}$ state, which are $1754(85)(86)MeV$ and $2417(56)(117)MeV$, respectively.",
+      "authors": [
+        "Da Qing Liu",
+        "Ji Min Wu",
+        "Ying Chen"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103018v2",
+      "link": "https://arxiv.org/abs/hep-lat/0103018v2",
+      "published": "2001-03-19T07:26:12Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "554256",
+        "inspire_url": "https://inspirehep.net/literature/554256",
+        "publication_info": [
+          {
+            "journal_title": "HEPNP",
+            "journal_volume": "26",
+            "page_start": "222",
+            "year": 2002,
+            "page_end": "229"
+          }
+        ],
+        "citation_count": 18,
+        "journal_ref": "HEPNP, 26, p. 222, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0103012v2",
+      "title": "Zero temperature string breaking in lattice quantum chromodynamics",
+      "summary": "The separation of a heavy quark and antiquark pair leads to the formation of a tube of flux, or \"string\", which should break in the presence of light quark-antiquark pairs. This expected zero-temperature phenomenon has proven elusive in simulations of lattice QCD. We study mixing between the string state and the two-meson decay channel in QCD with two flavors of dynamical sea quarks. We confirm that mixing is weak and find that it decreases at level crossing. While our study does not show direct effects of internal quark loops, our results, combined with unitarity, give clear confirmation of string breaking.",
+      "authors": [
+        "C. Bernard",
+        "T. DeGrand",
+        "C. DeTar",
+        "S. Gottlieb",
+        "U. M. Heller",
+        "J. Hetrick",
+        "P. Lacock",
+        "K. Orginos",
+        "R. L. Sugar",
+        "D. Toussaint"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103012v2",
+      "link": "https://arxiv.org/abs/hep-lat/0103012v2",
+      "published": "2001-03-14T21:27:01Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "554065",
+        "inspire_url": "https://inspirehep.net/literature/554065",
+        "doi": "10.1103/PhysRevD.64.074509",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "074509",
+            "year": 2001
+          }
+        ],
+        "citation_count": 48,
+        "journal_ref": "Phys.Rev.D, 64, artid 074509, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0103008v1",
+      "title": "From Surface Roughening to QCD String Theory",
+      "summary": "Surface critical phenomena and the related onset of Goldstone modes represent fundamental properties of the confining flux in Quantum Chromodynamics. New ideas on surface roughening and their implications for lattice studies of quark confinement and string formation are presented. Problems with a simple string description of the large Wilson surface are discussed.",
+      "authors": [
+        "K. Jimmy Juge",
+        "Julius Kuti",
+        "Colin Morningstar"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103008v1",
+      "link": "https://arxiv.org/abs/hep-lat/0103008v1",
+      "published": "2001-03-13T23:19:04Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "inspire": {
+        "control_number": "554006",
+        "inspire_url": "https://inspirehep.net/literature/554006",
+        "doi": "10.1142/9789812799968_0006",
+        "publication_info": [
+          {
+            "page_start": "143",
+            "page_end": "165"
+          }
+        ],
+        "citation_count": 9,
+        "journal_ref": "p. 143"
+      }
+    },
+    {
+      "id": "hep-lat/0103007v2",
+      "title": "Photon Structure Functions from Quenched Lattice QCD",
+      "summary": "We calculate the first moment of the photon structure function, $<x>^γ=\\int^1_0 dx F^γ_2(x,Q^2)$, on the quenched lattices with $β=6.0$ using the formalism developed by the authors recently. In this exploratory study, we take into account only the connected contractions. The result is compared with the experimental data as well as model predictions.",
+      "authors": [
+        "Xiangdong Ji",
+        "Chulwoo Jung"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103007v2",
+      "link": "https://arxiv.org/abs/hep-lat/0103007v2",
+      "published": "2001-03-12T20:26:26Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "553947",
+        "inspire_url": "https://inspirehep.net/literature/553947",
+        "doi": "10.1103/PhysRevD.64.034506",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "034506",
+            "year": 2001
+          }
+        ],
+        "citation_count": 22,
+        "journal_ref": "Phys.Rev.D, 64, artid 034506, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0103002v1",
+      "title": "Comment on ``Evidence Against Instanton Dominance of Topological Charge Fluctuations in QCD''",
+      "summary": "We comment on the recent paper (hep-lat/0102003) by Horvath, Isgur, McCune, and Thacker, which concludes that the local chiral structure of fermionic eigenmodes is not consistent with instanton dominance. Our calculations, done with an overlap action, suggest the opposite conclusion.",
+      "authors": [
+        "Thomas DeGrand",
+        "Anna Hasenfratz"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103002v1",
+      "link": "https://arxiv.org/abs/hep-lat/0103002v1",
+      "published": "2001-03-05T17:04:19Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "553755",
+        "inspire_url": "https://inspirehep.net/literature/553755",
+        "doi": "10.1103/PhysRevD.65.014503",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "014503",
+            "year": 2002
+          }
+        ],
+        "citation_count": 64,
+        "journal_ref": "Phys.Rev.D, 65, artid 014503, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0103001v1",
+      "title": "Chiral Symmetry Versus the Lattice",
+      "summary": "After mentioning some of the difficulties arising in lattice gauge theory from chiral symmetry, I discuss one of the recent attempts to resolve these issues using fermionic surface states in an extra space-time dimension. This picture can be understood in terms of end states on a simple ladder molecule.",
+      "authors": [
+        "Michael Creutz"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0103001v1",
+      "link": "https://arxiv.org/abs/hep-lat/0103001v1",
+      "published": "2001-03-02T18:40:12Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "553705",
+        "inspire_url": "https://inspirehep.net/literature/553705",
+        "publication_info": [
+          {}
+        ],
+        "citation_count": 0
+      }
+    },
+    {
+      "id": "hep-lat/0102005v1",
+      "title": "Non-perturbative Renormalisation of Domain Wall Fermions: Quark Bilinears",
+      "summary": "We find the renormalisation coefficients of the quark field and the flavour non-singlet fermion bilinear operators for the domain wall fermion action, in the regularisation independent (RI) renormalisation scheme. Our results are from a quenched simulation, on a 16^3x32 lattice, with beta=6.0 and an extent in the fifth dimension of 16. We also discuss the expected effects of the residual chiral symmetry breaking inherent in a domain wall fermion simulation with a finite fifth dimension, and study the evidence for both explicit and spontaneous chiral symmetry breaking effects in our numerical results. We find that the relations between different renormalisation factors predicted by chiral symmetry are, to a good approximation, satisfied by our results and that systematic effects due to the (low energy) spontaneous chiral symmetry breaking and zero-modes can be controlled. Our results are compared against the perturbative predictions for both their absolute value and renormalisation scale dependence.",
+      "authors": [
+        "T. Blum",
+        "N. Christ",
+        "C. Cristian",
+        "C. Dawson",
+        "G. Fleming",
+        "G. Liu",
+        "R. Mawhinney",
+        "A. Soni",
+        "P. Vranas",
+        "M. Wingate",
+        "L. Wu",
+        "Y. Zhestkov"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0102005v1",
+      "link": "https://arxiv.org/abs/hep-lat/0102005v1",
+      "published": "2001-02-11T00:31:16Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "553004",
+        "inspire_url": "https://inspirehep.net/literature/553004",
+        "doi": "10.1103/PhysRevD.66.014504",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "66",
+            "artid": "014504",
+            "year": 2002
+          }
+        ],
+        "citation_count": 122,
+        "journal_ref": "Phys.Rev.D, 66, artid 014504, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0102003v1",
+      "title": "Evidence Against Instanton Dominance of Topological Charge Fluctuations in QCD",
+      "summary": "The low-lying eigenmodes of the Dirac operator associated with typical gauge field configurations in QCD encode, among other low-energy properties, the physics behind the solution to the $U_A(1)$ problem (i.e. the origin of the $η'$ mass), the nature of spontaneous chiral symmetry breaking, and the physics of string-breaking, quark-antiquark pair production, and the OZI rule. Moreover, the space-time chiral structure of these eigenmodes reflects the space-time topological structure of the underlying gauge field. We present evidence from lattice QCD on the local chiral structure of low Dirac eigenmodes leading to the conclusion that topological charge fluctuations of the QCD vacuum are not instanton-dominated. The result supports Witten's arguments that topological charge is produced by confinement-related gauge fluctuations rather than instantons.",
+      "authors": [
+        "Ivan Horvath",
+        "Nathan Isgur",
+        "John McCune",
+        "H. B. Thacker"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0102003v1",
+      "link": "https://arxiv.org/abs/hep-lat/0102003v1",
+      "published": "2001-02-07T21:50:38Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "inspire": {
+        "control_number": "552866",
+        "inspire_url": "https://inspirehep.net/literature/552866",
+        "doi": "10.1103/PhysRevD.65.014502",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "65",
+            "artid": "014502",
+            "year": 2002
+          }
+        ],
+        "citation_count": 95,
+        "journal_ref": "Phys.Rev.D, 65, artid 014502, 2002"
+      }
+    },
+    {
+      "id": "hep-lat/0101019v1",
+      "title": "Comparison Studies of Finite Momentum Correlators on Anisotropic and Isotropic Lattices",
+      "summary": "We study hadronic two- and three-point correlators relevant for heavy to light pseudoscalar meson semi-leptonic decays, using Symanzik improved glue, D234 light quark and NRQCD heavy quark actions. Detailed comparisons are made between simulations on anisotropic and isotropic lattices involving finite momentum hadrons. We find evidence that having an anisotropy helps in extracting better signals at higher momenta. Initial results for the form factors f_+(q^2) and f_0(q^2) are presented with tree-level matching of the lattice heavy-light currents.",
+      "authors": [
+        "S. Collins",
+        "C. T. H. Davies",
+        "J. Hein",
+        "R. R. Horgan",
+        "G. P. Lepage",
+        "J. Shigemitsu"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0101019v1",
+      "link": "https://arxiv.org/abs/hep-lat/0101019v1",
+      "published": "2001-01-30T22:33:33Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "552605",
+        "inspire_url": "https://inspirehep.net/literature/552605",
+        "doi": "10.1103/PhysRevD.64.055002",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "055002",
+            "year": 2001
+          }
+        ],
+        "citation_count": 11,
+        "journal_ref": "Phys.Rev.D, 64, artid 055002, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0101015v2",
+      "title": "Schwinger Model with the Overlap-Dirac Operator: exact results versus a physics motivated approximation",
+      "summary": "We propose new techniques for the numerical implementation of the overlap-Dirac operator, which exploit the physical properties of the underlying theory to avoid nested algorithms. We test these procedures in the two-dimensional Schwinger model and the results are very promising. These techniques can be directly applied to QCD simulations. We also present a detailed computation of the spectrum and the chiral properties of the Schwinger model in the overlap lattice formulation.",
+      "authors": [
+        "Leonardo Giusti",
+        "Christian Hoelbling",
+        "Claudio Rebbi"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0101015v2",
+      "link": "https://arxiv.org/abs/hep-lat/0101015v2",
+      "published": "2001-01-24T22:46:51Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "552415",
+        "inspire_url": "https://inspirehep.net/literature/552415",
+        "doi": "10.1103/PhysRevD.64.054501",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "054501",
+            "year": 2001
+          }
+        ],
+        "citation_count": 26,
+        "journal_ref": "Phys.Rev.D, 64, artid 054501, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0101014v1",
+      "title": "Studying Hadronic Structure of the Photon in Lattice QCD",
+      "summary": "We show that the matrix element of a local quark-gluon operator in the photon state, $<γ(kλ)|\\hat O| γ(kλ)>$, can be calculated in lattice QCD. The result is generalized to other quantities involving space-like photons, including the transition form factor $γγ^*\\to π^0$ and the virtual-photon-nucleon Compton amplitude $<γ^*N |γ^*N>$ which can be used to define the generalized Drell-Hearn-Gerasimov and Bjorken sum rules.",
+      "authors": [
+        "Xiangdong Ji",
+        "Chulwoo Jung"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0101014v1",
+      "link": "https://arxiv.org/abs/hep-lat/0101014v1",
+      "published": "2001-01-22T17:29:41Z",
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "inspire": {
+        "control_number": "552305",
+        "inspire_url": "https://inspirehep.net/literature/552305",
+        "doi": "10.1103/PhysRevLett.86.208",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "86",
+            "page_start": "208",
+            "artid": "208",
+            "year": 2001
+          }
+        ],
+        "citation_count": 68,
+        "journal_ref": "Phys.Rev.Lett., 86, artid 208, p. 208, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0101007v1",
+      "title": "Improvement and Renormalization Constants in O(a) Improved Lattice QCD",
+      "summary": "We present results at beta=6.0 and 6.2 for the O(a) improvement and renormalization constants for bilinear operators using axial and vector Ward identities. We discuss the extraction of the mass dependence of the renormalization constants and the coefficients of the equation of motion operators.",
+      "authors": [
+        "Tanmoy Bhattacharya",
+        "Rajan Gupta",
+        "Weonjong Lee",
+        "Stephen Sharpe"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0101007v1",
+      "link": "https://arxiv.org/abs/hep-lat/0101007v1",
+      "published": "2001-01-12T18:20:09Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "539877",
+        "inspire_url": "https://inspirehep.net/literature/539877",
+        "doi": "10.1016/S0920-5632(01)00935-5",
+        "publication_info": [
+          {
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "94",
+            "page_start": "599",
+            "year": 2001,
+            "page_end": "602"
+          },
+          {
+            "page_start": "599",
+            "page_end": "602"
+          }
+        ],
+        "citation_count": 1,
+        "journal_ref": "Nucl.Phys.B Proc.Suppl., 94, p. 599, 2001"
+      }
+    },
+    {
+      "id": "hep-ph/0101132v1",
+      "title": "Light quark masses: a status report at DPF 2000",
+      "summary": "A summary of the extraction of light quark masses from both QCD sumrules and lattice QCD simulations is presented. The focus is on providing a careful statement of the potential weaknesses in each calculation, and on integrating the work of different collaborations to provide a coherent picture.",
+      "authors": [
+        "Rajan Gupta",
+        "Kim Maltman"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0101132v1",
+      "link": "https://arxiv.org/abs/hep-ph/0101132v1",
+      "published": "2001-01-12T17:55:44Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "552077",
+        "inspire_url": "https://inspirehep.net/literature/552077",
+        "doi": "10.1142/S0217751X01007571",
+        "publication_info": [
+          {
+            "journal_title": "Int.J.Mod.Phys.A",
+            "journal_volume": "16S1B",
+            "page_start": "591",
+            "year": 2001,
+            "page_end": "600"
+          },
+          {}
+        ],
+        "citation_count": 28,
+        "journal_ref": "Int.J.Mod.Phys.A, 16S1B, p. 591, 2001"
+      }
+    },
+    {
+      "id": "hep-ph/0101023v1",
+      "title": "The Semileptonic Decays $B\\toπlν$ and $D\\toπlν$ from Lattice QCD",
+      "summary": "We present a lattice QCD calculation of the form factors and differential decay rates for semileptonic decays of the heavy-light mesons $B$ and $D$ to the final state $πlν$. The results are obtained with three methodological improvements over previous lattice calculations: a matching procedure that reduces heavy-quark lattice artifacts, the first study of lattice-spacing dependence, and the introduction of kinematic cuts to reduce model dependence. We show that the main systematics are controllable (within the quenched approximation) and outline how the calculations could be improved to aid current experiments in the determination of~$|V_{ub}|$ and~$|V_{cd}|$.",
+      "authors": [
+        "Aida X. El-Khadra",
+        "Andreas S. Kronfeld",
+        "Paul B. Mackenzie",
+        "Sinead M. Ryan",
+        "James N. Simone"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-ph/0101023v1",
+      "link": "https://arxiv.org/abs/hep-ph/0101023v1",
+      "published": "2001-01-02T22:35:37Z",
+      "categories": [
+        "hep-ph",
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "551849",
+        "inspire_url": "https://inspirehep.net/literature/551849",
+        "doi": "10.1103/PhysRevD.64.014502",
+        "publication_info": [
+          {
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "64",
+            "artid": "014502",
+            "year": 2001
+          }
+        ],
+        "citation_count": 157,
+        "journal_ref": "Phys.Rev.D, 64, artid 014502, 2001"
+      }
+    },
+    {
+      "id": "hep-lat/0101002v2",
+      "title": "An Observation of Autocorrelation of Wilson Loops on Lattice",
+      "summary": "An observation of autocorrelation of Wilson loops on lattice is presented, especially for the small seperation in Markov chain. We give a possible explanation for such behavior. We also present the dependence of autocorrelation behavior on the chosen operators in this paper.",
+      "authors": [
+        "Da Qing Liu",
+        "Ying Chen",
+        "Ji Min Wu"
+      ],
+      "pdf": "https://arxiv.org/pdf/hep-lat/0101002v2",
+      "link": "https://arxiv.org/abs/hep-lat/0101002v2",
+      "published": "2001-01-01T07:06:39Z",
+      "categories": [
+        "hep-lat"
+      ],
+      "inspire": {
+        "control_number": "551811",
+        "inspire_url": "https://inspirehep.net/literature/551811",
+        "doi": "10.1142/S0217751X01005110",
+        "publication_info": [
+          {
+            "journal_title": "Int.J.Mod.Phys.A",
+            "journal_volume": "16",
+            "page_start": "3915",
+            "year": 2001,
+            "page_end": "3922"
+          }
+        ],
+        "citation_count": 0,
+        "journal_ref": "Int.J.Mod.Phys.A, 16, p. 3915, 2001"
+      }
+    }
+  ]
+}

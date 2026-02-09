@@ -1,0 +1,33 @@
+{
+  "source": "https://www.usqcd.org/",
+  "last_verified": "2026-02-08",
+  "all_hands": [
+    { "title": "2026 All Hands Meeting, Argonne National Lab", "href": "https://indico.phy.anl.gov", "dates": "April 15–17, 2026", "location": "Argonne National Lab (in person)" },
+    { "title": "2025 All Hands Meeting, University of Maryland", "href": "https://indico.global", "dates": "March 27–28, 2025", "location": "University of Maryland" },
+    { "title": "2024 All Hands Meeting, MIT (virtual)", "href": "https://indico.mit.edu", "dates": "April 18–19, 2024", "location": "MIT (virtual)" },
+    { "title": "2023 All Hands Meeting, MIT (virtual)", "href": "https://indico.mit.edu", "dates": "April 20–21, 2023", "location": "MIT (virtual)" },
+    { "title": "2022 All Hands Meeting, MIT (virtual)", "href": "https://indico.mit.edu", "dates": "April 21–22, 2022", "location": "MIT (virtual)" },
+    { "title": "2021 All Hands Meeting, MIT (virtual)", "href": "https://indico.mit.edu", "dates": "April 30–May 1, 2021", "location": "MIT (virtual)" },
+    { "title": "2020 All Hands Meeting, Jefferson Lab (virtual)", "href": "https://www.jlab.org", "dates": "May 1–2, 2020", "location": "Jefferson Lab (virtual)" },
+    { "title": "2019 All Hands Meeting, Brookhaven", "href": "https://indico.bnl.gov", "dates": "April 26–27, 2019", "location": "Brookhaven" },
+    { "title": "2018 All Hands Meeting, Fermilab", "href": "https://indico.fnal.gov", "dates": "April 20–21, 2018", "location": "Fermilab" },
+    { "title": "2017 All Hands Meeting, Jefferson Lab", "href": null, "dates": "April 28–29, 2017", "location": "Jefferson Lab" },
+    { "title": "2016 All Hands Meeting, Brookhaven", "href": "https://www.bnl.gov", "dates": "April 29–30, 2016", "location": "Brookhaven" },
+    { "title": "2015 All Hands Meeting, Fermilab", "href": null, "dates": "May 1–2, 2015", "location": "Fermilab" },
+    { "title": "2014 All Hands Meeting, Jefferson Lab", "href": null, "dates": "April 18–19, 2014", "location": "Jefferson Lab" },
+    { "title": "2013 All Hands Meeting, Brookhaven", "href": null, "dates": "April 19–20, 2013", "location": "Brookhaven" },
+    { "title": "2012 All Hands Meeting, Fermilab", "href": null, "dates": "May 4–5, 2012", "location": "Fermilab" },
+    { "title": "2011 All Hands Meeting, Jefferson Lab", "href": null, "dates": "—", "location": "Jefferson Lab" },
+    { "title": "2010 All Hands Meeting, Brookhaven", "href": null, "dates": "—", "location": "Brookhaven" },
+    { "title": "2009 All Hands Meeting, Fermilab", "href": null, "dates": "—", "location": "Fermilab" },
+    { "title": "2008 All Hands Meeting, Jefferson Lab", "href": null, "dates": "—", "location": "Jefferson Lab" },
+    { "title": "2007 All Hands Meeting, Brookhaven", "href": "https://lqcd.fnal.gov", "dates": "—", "location": "Brookhaven" },
+    { "title": "2006 All Hands Meeting, Fermilab", "href": "https://lqcd.fnal.gov", "dates": "—", "location": "Fermilab" },
+    { "title": "2005 All Hands Meeting, Jefferson Lab", "href": "https://usqcd.jlab.org", "dates": "—", "location": "Jefferson Lab" },
+    { "title": "2004 All Hands Meeting, Brookhaven", "href": "https://thy.phy.bnl.gov", "dates": "—", "location": "Brookhaven" },
+    { "title": "2003 All Hands Meeting, Fermilab", "href": "https://latticeqcd.fnal.gov", "dates": "—", "location": "Fermilab" },
+    { "title": "2002 All Hands Meeting, Jefferson Lab", "href": null, "dates": "—", "location": "Jefferson Lab" },
+    { "title": "2001 All Hands Meeting, Fermilab", "href": "https://latticeqcd.fnal.gov", "dates": "—", "location": "Fermilab" },
+    { "title": "2000 All Hands Meeting, Brookhaven", "href": "https://thy.phy.bnl.gov", "dates": "—", "location": "Brookhaven" }
+  ]
+}

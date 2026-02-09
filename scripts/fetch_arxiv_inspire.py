@@ -39,8 +39,8 @@ import requests
 
 ARXIV_API = "https://export.arxiv.org/api/query"
 INSPIRE_API = "https://inspirehep.net/api/literature"
-OUT_DIR = "static/data"
-MEMBERS_PATHS = ["static/data/members.json", "static/members.json", "members.json"]
+OUT_DIR = "public/static/data"
+MEMBERS_PATHS = ["public/static/data/members.json", "static/members.json", "members.json"]
 
 # XML namespaces for arXiv Atom
 NS = {

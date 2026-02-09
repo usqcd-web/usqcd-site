@@ -16,7 +16,7 @@ jobs:
       - run: pip install requests
       - name: Run arXiv fetch for current year
         run: |
-          python3 scripts/fetch_arxiv.py --year $(date -u +%Y) --delay 1.0
+          python3 scripts/fetch_arxiv_inspire.py --year $(date -u +%Y) --delay 1.0 --no-inspire
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
